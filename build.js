@@ -38,7 +38,7 @@ function video(url, title) {
   return body;
 }
 
-function render(base, fontCss) {
+function render(base, fontCss, pc = false) {
   const s = [];
   const sec = (key, inner, cls = '') => s.push(`<section class="smd-sec ${cls}" data-sec="${key}">${inner}</section>`);
 
@@ -183,7 +183,9 @@ function render(base, fontCss) {
   // #2 접는 방법 동영상 (있는 상품만)
   if (p.foldVideo) sec('v2', `<div class="smd-pad"><p class="smd-eyebrow smd-center">HOW TO FOLD</p><h2 class="smd-h2 smd-center">접는 방법</h2>${video(p.foldVideo, '접는 방법')}</div>`, 'smd-video-sec');
 
-  return `<style>${fontCss}${CSS}</style>\n<div class="smd">\n${s.join('\n')}\n</div>`;
+  const pcw = common.cafe24PcWidth || 0;
+  const wrap = pc && pcw ? `<div class="smd smd-pc" style="--pcz:${(pcw / 860).toFixed(4)}">` : '<div class="smd">';
+  return `<style>${fontCss}${CSS}${pc && pcw ? PC_CSS : ''}</style>\n${wrap}\n${s.join('\n')}\n</div>`;
 }
 
 const CSS = `
@@ -284,9 +286,24 @@ const CSS = `
   .smd-faq{padding:24px 20px}.smd-q h3{font-size:19px}.smd-a p{font-size:16px}
 }`;
 
+// 카페24 PC 화면: 860 디자인을 cafe24PcWidth(기본 600)로 축소해서 보여줌. 축소돼도 읽기 좋게 작은 글자는 키움.
+// 휴대폰(700px 미만 화면)에서는 축소하지 않고 모바일 레이아웃을 사용.
+const PC_CSS = `
+@media (min-width:700px){
+  .smd-pc{width:860px;max-width:none;zoom:var(--pcz)}
+  .smd-pc .smd-a p,.smd-pc .smd-feat p{font-size:22px}
+  .smd-pc .smd-desc{font-size:23px}.smd-pc .smd-tagline{font-size:25px}
+  .smd-pc .smd-table{font-size:23px}.smd-pc .smd-table th{font-size:21px}.smd-pc .smd-table th small{font-size:16px}
+  .smd-pc .smd-info li{font-size:21px}.smd-pc .smd-info span{font-size:17px}.smd-pc .smd-info-lg li{font-size:23px}
+  .smd-pc .smd-note{font-size:19px}.smd-pc .smd-sub{font-size:19px !important}.smd-pc .smd-gtitle{font-size:21px}
+  .smd-pc .smd-eyebrow{font-size:18px}.smd-pc .smd-line-pill{font-size:19px}
+  .smd-pc .smd-q h3{font-size:26px}.smd-pc .smd-feat h3{font-size:27px}.smd-pc .smd-closing{font-size:23px}
+  .smd-pc .smd-more summary{font-size:22px}.smd-pc .smd-vph{font-size:22px}
+}`;
+
 // 카페24용: 웹폰트는 CDN, 공통 이미지는 cafe24Images 주소
 const cdnFont = `@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');`;
-fs.writeFileSync(path.join(OUT, 'cafe24.html'), render(common.assetBaseUrl, cdnFont));
+fs.writeFileSync(path.join(OUT, 'cafe24.html'), render(common.assetBaseUrl, cdnFont, true));
 
 // 미리보기/이미지 변환용: 로컬 폰트·이미지
 const fdir = path.join(ROOT, 'node_modules/pretendard/dist/web/static/woff2');
@@ -306,6 +323,11 @@ const previewHtml = `<!doctype html><html lang="ko"><head><meta charset="utf-8">
 <style>html,body{margin:0;background:#E9E4DA}</style></head><body>${render('file://' + path.join(ROOT, 'assets') + '/', localFont)}</body></html>`;
 fs.writeFileSync(path.join(OUT, 'preview.html'), previewHtml);
 
+// 카페24 실제 화면 미리보기: 실제 카페24 이미지 주소(축소된 공통 이미지 포함)를 받아와 스킨 폭(1360px) 안에 넣어 봄
+const cafe24Preview = `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>카페24 미리보기</title>
+<style>html,body{margin:0;background:#fff}.skin{max-width:1360px;margin:0 auto;padding:40px 0}</style></head><body><div class="skin">${render(common.assetBaseUrl, localFont, true)}</div></body></html>`;
+fs.writeFileSync(path.join(OUT, 'cafe24-preview.html'), cafe24Preview);
+
 // 오픈마켓용 분할 이미지 (섹션 단위, 동영상 섹션 제외)
 (async () => {
   const { chromium } = require('playwright');
@@ -320,6 +342,30 @@ fs.writeFileSync(path.join(OUT, 'preview.html'), previewHtml);
     await el.screenshot({ path: path.join(OUT, 'market', `${String(n++).padStart(2, '0')}.jpg`), type: 'jpeg', quality: 92 });
   }
   await (await page.$('.smd')).screenshot({ path: path.join(OUT, 'full.jpg'), type: 'jpeg', quality: 85 });
+
+  // 카페24 PC(레티나 2배)·모바일 화면 캡처 + 사진 선명도 점검
+  const pcPage = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 2 });
+  await pcPage.goto('file://' + path.join(OUT, 'cafe24-preview.html'));
+  await pcPage.evaluate(() => document.fonts.ready);
+  await pcPage.evaluate(() => document.querySelector('.smd-more')?.setAttribute('open', ''));
+  await (await pcPage.$('.smd')).screenshot({ path: path.join(OUT, 'cafe24-pc.jpg'), type: 'jpeg', quality: 80 });
+  const report = await pcPage.evaluate(() => [...document.querySelectorAll('.smd img')].map(i => {
+    return { src: i.currentSrc.split('/').pop().slice(-40), alt: i.alt, shown: Math.round(i.getBoundingClientRect().width), natural: i.naturalWidth };
+  }));
+  const mPage = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 3, isMobile: true });
+  await mPage.goto('file://' + path.join(OUT, 'cafe24-preview.html'));
+  await mPage.evaluate(() => document.fonts.ready);
+  await (await mPage.$('.smd')).screenshot({ path: path.join(OUT, 'cafe24-mobile.jpg'), type: 'jpeg', quality: 70, scale: 'css' });
+  const lines = [];
+  let warn = 0;
+  for (const r of report) {
+    const ratio = r.natural / r.shown;
+    const mark = ratio >= 2 ? '선명' : ratio >= 1 ? '보통 (레티나 화면에서 약간 흐림)' : '흐림 (일반 모니터에서도 흐림)';
+    if (ratio < 1) warn++;
+    lines.push(`${mark.padEnd(4)} | 보이는 폭 ${r.shown}px, 원본 ${r.natural}px | ${r.alt} | ${r.src}`);
+  }
+  fs.writeFileSync(path.join(OUT, 'sharpness.txt'), lines.join('\n') + '\n');
+  console.log(`사진 선명도: ${report.length}장 중 흐림 ${warn}장 (자세한 내용 sharpness.txt)`);
   await browser.close();
   console.log(`완료: ${OUT}  (분할 이미지 ${n - 1}장)`);
 })();

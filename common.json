@@ -1,6 +1,7 @@
 {
   "_설명": "모든 제품에 공통으로 들어가는 내용입니다. 여기만 고치면 전 제품에 반영됩니다.",
   "assetBaseUrl": "assets/",
+  "cafe24PcWidth": 600,
   "cafe24Images": {
     "factory.jpg": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261124/7c4ea923109d426debaa39f0a781eb47.jpg",
     "common-bottom.jpg": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261124/a5914577a19db1aa90639e36dbf9d876.jpg"
