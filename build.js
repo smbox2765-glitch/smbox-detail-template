@@ -14,6 +14,8 @@ fs.mkdirSync(path.join(OUT, 'market'), { recursive: true });
 
 const esc = (s = '') => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const br = (s = '') => esc(s).replace(/\n/g, '<br>');
+// 전화번호가 줄 끝에서 잘리지 않도록 묶음
+const nw = (h = '') => String(h).replace(/(\d{2,4}-\d{3,4}-\d{4})/g, '<span class="smd-nw">$1</span>');
 // 카페24용 HTML에서는 common.json의 cafe24Images(카페24에 올린 주소)를 우선 사용, 미리보기·마켓 이미지는 assets/ 원본 사용
 const asset = (f, base) => {
   if (/^https?:/.test(f)) return f;
@@ -60,7 +62,7 @@ function render(base, fontCss, pc = false) {
       <div>
         <p class="smd-line-pill">${esc(sh.store.label)}</p>
         <p class="smd-store-h">${sh.store.line1}<br>${sh.store.line2}</p>
-        <ul class="smd-info smd-info-lg"><li><span>주소</span>${esc(sh.store.address)}</li><li><span>전화</span>${esc(sh.store.tel)}</li></ul>
+        <ul class="smd-info smd-info-lg"><li><span>주소</span><em>${esc(sh.store.address)}</em></li><li><span>전화</span><em>${nw(esc(sh.store.tel))}</em></li></ul>
       </div>
     </div>
     <div class="smd-factory">
@@ -93,7 +95,7 @@ function render(base, fontCss, pc = false) {
         <table class="smd-table">
           <thead><tr>
             ${p.options.length > 1 ? '<th>옵션</th>' : ''}
-            <th>사이즈<small>가로×세로×높이 (${esc(p.sizeUnit || 'mm')})</small></th><th>주문단위</th><th>개당가격</th><th>가격</th>
+            <th>사이즈<small><span class="smd-nw">가로×세로×높이</span> (${esc(p.sizeUnit || 'mm')})</small></th><th>주문단위</th><th>개당가격</th><th>가격</th>
           </tr></thead>
           <tbody>${rows}</tbody>
         </table>
@@ -164,9 +166,9 @@ function render(base, fontCss, pc = false) {
       <div class="smd-card smd-faq">
         <div class="smd-q"><span class="smd-qa">Q</span><h3>${esc(f.q)}</h3></div>
         <div class="smd-a"><span class="smd-qa smd-qa-a">A</span><div>
-          ${f.a.map(l => `<p>${l}</p>`).join('')}
-          ${f.info ? `<ul class="smd-info">${f.info.map(([k, v]) => `<li><span>${esc(k)}</span>${esc(v)}</li>`).join('')}</ul>` : ''}
-          ${f.note ? `<p class="smd-sub">${esc(f.note)}</p>` : ''}
+          ${f.a.map(l => `<p>${nw(l)}</p>`).join('')}
+          ${f.info ? `<ul class="smd-info">${f.info.map(([k, v]) => `<li><span>${esc(k)}</span><em>${nw(esc(v))}</em></li>`).join('')}</ul>` : ''}
+          ${f.note ? `<p class="smd-sub">${nw(esc(f.note))}</p>` : ''}
         </div></div>
       </div>`).join('');
   sec('faq', `
@@ -239,7 +241,7 @@ const CSS = `
 .smd-a b{color:var(--ink);font-weight:700}
 .smd-info{list-style:none;margin-top:14px;display:flex;flex-direction:column;gap:8px}
 .smd-info li{font-size:17px;display:flex;align-items:center;gap:10px}
-.smd-info span{flex:0 0 auto;padding:3px 10px;border-radius:6px;background:var(--ink);color:#fff;font-size:14px;font-weight:700}
+.smd-info li>span{flex:0 0 auto;padding:3px 10px;border-radius:6px;background:var(--ink);color:#fff;font-size:14px;font-weight:700}
 .smd-sub{font-size:16px !important;color:var(--sub) !important;margin-top:10px}
 .smd-closing{text-align:center;font-size:20px;font-weight:600;margin-top:36px;color:var(--ink)}
 .smd-vwrap{position:relative;width:100%;padding-top:56.25%;border-radius:16px;overflow:hidden}
@@ -260,7 +262,7 @@ const CSS = `
 .smd-store-h{font-size:31px;font-weight:800;line-height:1.4;margin:12px 0 14px}
 .smd-store-h em,.smd-factory-h em{font-style:normal;color:var(--accent)}
 .smd-info-lg li{font-size:20px}
-.smd-info-lg span{font-size:16px;background:var(--dark)}
+.smd-info-lg li>span{font-size:16px;background:var(--dark)}
 .smd-factory{padding:52px 40px 56px;text-align:center}
 .smd-factory-h{font-size:33px;font-weight:800;margin:14px 0 26px}
 .smd-factory-img{border-radius:18px;box-shadow:0 8px 20px rgba(90,70,40,0.12)}
@@ -275,6 +277,17 @@ const CSS = `
 .smd-more[open] summary{display:none}
 .smd-vph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;aspect-ratio:16/9;border-radius:16px;background:#2E2924;color:#E9E1D3;font-size:18px;font-weight:600}
 .smd-vph span{font-size:44px;line-height:1}
+/* 가독성: 단어 사이가 잘 보이게 자간을 풀고, 줄바꿈을 고르게 */
+.smd p,.smd li,.smd td{letter-spacing:-0.005em;word-spacing:0.02em}
+.smd{text-wrap:pretty}
+.smd-title,.smd-h2,.smd-store-h,.smd-factory-h,.smd-feat h3,.smd-q h3,.smd-tagline,.smd-desc{text-wrap:balance}
+.smd-nw{white-space:nowrap}
+.smd p.smd-eyebrow{letter-spacing:0.18em}.smd p.smd-pill{letter-spacing:0.12em}.smd p.smd-line-pill,.smd p.smd-ship-badge{letter-spacing:-0.01em}
+.smd-info li{align-items:flex-start}
+.smd-info li em{font-style:normal;padding-top:2px}
+.smd-a p{line-height:1.75}
+.smd-a p+p{margin-top:6px}
+.smd-vph{padding:0 24px;text-align:center}
 @media (max-width:600px){
   .smd-pad{padding:56px 20px}
   .smd-title{font-size:30px}.smd-tagline{font-size:17px}.smd-h2{font-size:26px}
@@ -283,7 +296,15 @@ const CSS = `
   .smd-ship-badge{font-size:18px;padding:10px 22px}.smd-ship-title{font-size:56px;gap:12px}.smd-ship-title em{margin-left:-12px}.smd-truck{width:62px;height:44px}
   .smd-store{padding:32px 20px;gap:16px}.smd-store-icon{flex-basis:56px;height:56px}.smd-store-icon svg{width:30px;height:30px}.smd-store-h{font-size:20px}.smd-info-lg li{font-size:15px}
   .smd-factory{padding:36px 20px}.smd-factory-h{font-size:20px}.smd-cctv{font-size:16px}
-  .smd-faq{padding:24px 20px}.smd-q h3{font-size:19px}.smd-a p{font-size:16px}
+  .smd-faq{padding:24px 20px}.smd-q h3{font-size:18px}.smd-a p{font-size:16px;line-height:1.8}
+  .smd-q,.smd-a{gap:12px}.smd-qa{flex-basis:30px;height:30px;font-size:15px}
+  .smd-q{padding-bottom:16px;margin-bottom:16px}
+  .smd-info li{font-size:15px}.smd-info li>span{font-size:13px}
+  .smd-sub{font-size:14px !important;line-height:1.7}
+  .smd-desc{font-size:16px;line-height:1.8}
+  .smd-feat h3{font-size:20px}.smd-feat p{font-size:16px;line-height:1.75}
+  .smd-gtitle{font-size:15px}
+  .smd-vph{font-size:15px}
 }`;
 
 // 카페24 PC 화면: 860 디자인을 cafe24PcWidth(기본 600)로 축소해서 보여줌. 축소돼도 읽기 좋게 작은 글자는 키움.
@@ -294,7 +315,7 @@ const PC_CSS = `
   .smd-pc .smd-a p,.smd-pc .smd-feat p{font-size:22px}
   .smd-pc .smd-desc{font-size:23px}.smd-pc .smd-tagline{font-size:25px}
   .smd-pc .smd-table{font-size:23px}.smd-pc .smd-table th{font-size:21px}.smd-pc .smd-table th small{font-size:16px}
-  .smd-pc .smd-info li{font-size:21px}.smd-pc .smd-info span{font-size:17px}.smd-pc .smd-info-lg li{font-size:23px}
+  .smd-pc .smd-info li{font-size:21px}.smd-pc .smd-info li>span{font-size:17px}.smd-pc .smd-info-lg li{font-size:23px}
   .smd-pc .smd-note{font-size:19px}.smd-pc .smd-sub{font-size:19px !important}.smd-pc .smd-gtitle{font-size:21px}
   .smd-pc .smd-eyebrow{font-size:18px}.smd-pc .smd-line-pill{font-size:19px}
   .smd-pc .smd-q h3{font-size:26px}.smd-pc .smd-feat h3{font-size:27px}.smd-pc .smd-closing{font-size:23px}
