@@ -14,7 +14,12 @@ fs.mkdirSync(path.join(OUT, 'market'), { recursive: true });
 
 const esc = (s = '') => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const br = (s = '') => esc(s).replace(/\n/g, '<br>');
-const asset = (f, base) => (/^https?:/.test(f) ? f : base + f);
+// 카페24용 HTML에서는 common.json의 cafe24Images(카페24에 올린 주소)를 우선 사용, 미리보기·마켓 이미지는 assets/ 원본 사용
+const asset = (f, base) => {
+  if (/^https?:/.test(f)) return f;
+  if (!base.startsWith('file:') && common.cafe24Images && common.cafe24Images[f]) return common.cafe24Images[f];
+  return base + f;
+};
 
 let RES = (u) => u; // 미리보기에서는 로컬 캐시 경로로 바꿔줌
 let PREVIEW = false;
@@ -279,7 +284,7 @@ const CSS = `
   .smd-faq{padding:24px 20px}.smd-q h3{font-size:19px}.smd-a p{font-size:16px}
 }`;
 
-// 카페24용: 웹폰트는 CDN, 이미지는 assetBaseUrl
+// 카페24용: 웹폰트는 CDN, 공통 이미지는 cafe24Images 주소
 const cdnFont = `@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');`;
 fs.writeFileSync(path.join(OUT, 'cafe24.html'), render(common.assetBaseUrl, cdnFont));
 
