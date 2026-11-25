@@ -1,0 +1,87 @@
+{
+  "id": "81",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=81&cate_no=43&display_group=1",
+  "name": "떡박스 싸바리 S22 (전통 · 검정 · 구김지)",
+  "tagline": "세 가지 디자인의 높은 싸바리 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/4397e6c243dec7bbd504df59b2e04902.png",
+  "options": [
+    {
+      "label": "전통",
+      "size": "290 × 205 × 60",
+      "unit": "35개",
+      "unitPrice": "2,500원",
+      "price": "87,500원"
+    },
+    {
+      "label": "검정",
+      "size": "290 × 205 × 60",
+      "unit": "35개",
+      "unitPrice": "2,500원",
+      "price": "87,500원"
+    },
+    {
+      "label": "구김지",
+      "size": "290 × 205 × 60",
+      "unit": "35개",
+      "unitPrice": "2,500원",
+      "price": "87,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "떡 · 한과 선물 포장으로",
+    "desc": "떡, 한과를 고급스럽게 담아\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c6bc0296170dbc60cff6a316a7ceca38.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e3d728570ebb9c877aea4ff6dec1ca69.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2bd23128cf164494578ae7e874725f1.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "합지에 종이를 감싼\n튼튼한 고급 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/12a004a76115513c9208e5862f07efa3.jpg"
+    },
+    {
+      "title": "세 가지 디자인",
+      "desc": "전통, 검정, 구김지\n중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/280e01095cabfabb33829e4bce4dfefc.jpg"
+    },
+    {
+      "title": "35개 단위",
+      "desc": "35개씩\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1d63454cf59c0e92f7e0a9ed8b794c86.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "전통",
+      "desc": "290 × 205 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c6bc0296170dbc60cff6a316a7ceca38.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/12a004a76115513c9208e5862f07efa3.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968851980881670824.jpg"
+      ]
+    },
+    {
+      "title": "검정",
+      "desc": "290 × 205 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e3d728570ebb9c877aea4ff6dec1ca69.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1d63454cf59c0e92f7e0a9ed8b794c86.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968851872143445339.jpg"
+      ]
+    },
+    {
+      "title": "구김지",
+      "desc": "290 × 205 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2bd23128cf164494578ae7e874725f1.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7f515a27a3c3222653dd01c74bd7d9ed.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968851695344409390.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "342",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=342&cate_no=43&display_group=1",
+  "name": "Y-7 상하짝 박스 (크라)",
+  "tagline": "비누 · 떡 · 액세서리를 담는 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/cb77918c154d7434e9cd366a07b73aa0.jpg",
+  "options": [
+    {
+      "label": "Y-7 크라",
+      "size": "190 × 95 × 35",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누 · 떡 · 액세서리 포장으로",
+    "desc": "다용도 무지 상자라\n여러 선물에 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/374ea87227b0004b2650fef9f6805389.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/21ca4f25f236e5ab6938ecc25e41bda8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/72d2a8929e8e359ddc58efc85948fca6.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트350g",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528359087952765783.jpg"
+    },
+    {
+      "title": "Y형 상하짝",
+      "desc": "접어서 쓰는\nY형 상하짝 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9667ed942aa46e833375610290c541d2.jpg"
+    },
+    {
+      "title": "190×95×35mm",
+      "desc": "비누, 떡, 액세서리를\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528359144224234335.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y-7 크라",
+      "desc": "190 × 95 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528359144224234335.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528359181093203423.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/374ea87227b0004b2650fef9f6805389.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528359220729984687.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

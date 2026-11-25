@@ -1,0 +1,60 @@
+{
+  "id": "328",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=328&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/6kixvv31GKY",
+  "name": "타올박스 (15번)",
+  "tagline": "수건을 세워 담는 흰색 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/ef2bbfebf3750d6145214c44b731758a.png",
+  "options": [
+    {
+      "label": "타올 15번",
+      "size": "103 × 103 × 154",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "수건 · 양말 답례품 포장으로",
+    "desc": "사진 속 리본과 스티커는\n포함되지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/24e5aa94305dfd60b41be0ebfebd52d5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d196092056a216818d44860a3bd4f644.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d649b1a5e38966ce99e6f2097862aff7.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 RIV350g",
+      "desc": "깔끔한 흰색\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9a71f01332dcd58ff83f8825b9a40be5.jpg"
+    },
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7347742d92c19fba4936a77fd3d12f37.jpg"
+    },
+    {
+      "title": "103×103×154mm",
+      "desc": "수건을 말아서\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b08a5e13aae5b7b30e4b7f837f040233.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "타올 15번",
+      "desc": "103 × 103 × 154 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749905590644888392.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749905676862467827.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749905727319687054.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749906181373669479.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

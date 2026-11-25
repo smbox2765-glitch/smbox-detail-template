@@ -1,0 +1,55 @@
+{
+  "id": "130",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=130&cate_no=43&display_group=1",
+  "name": "떡 트레이 S2 (밑판)",
+  "tagline": "떡을 올려 담는 무늬 테두리 밑판",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/0cad6fec928d0e52b15987f356e21ca1.jpg",
+  "options": [
+    {
+      "label": "S2",
+      "size": "142 × 98 × 25",
+      "unit": "500개",
+      "unitPrice": "150원",
+      "price": "75,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "떡 포장 밑판으로",
+    "desc": "떡을 올리고 포장지로 감싸\n답례품으로 나눠요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/902315e142d605e2597b29e6430f706a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3ff937a3d59d1183b8f9a25b0eb68083.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/fe2f68b1eb6566a7de91848119608288.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "떡 트레이",
+      "desc": "떡을 올려 담는\n밑판 트레이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b3eae04ab92427db3a2d0b7ffc223eee.png"
+    },
+    {
+      "title": "RIV300g",
+      "desc": "RIV300g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/27/816d033a9952690_14958442863889530524.jpg"
+    },
+    {
+      "title": "500개 단위",
+      "desc": "500개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/27/816d033a9952690_14958442934279445495.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S2",
+      "desc": "142 × 98 × 25 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/27/816d033a9952690_14958442998673122422.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/27/816d033a9952690_14958442863889530524.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/27/816d033a9952690_14958442934279445495.jpg"
+      ]
+    }
+  ]
+}

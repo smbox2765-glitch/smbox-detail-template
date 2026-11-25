@@ -1,0 +1,55 @@
+{
+  "id": "472",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=472&cate_no=43&display_group=1",
+  "name": "J-3 십자형 박스 (빨강 수입지)",
+  "tagline": "양면 모두 빨간 고급 수입지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/78cebaa5b6cba47c44e18c7fa2c0b28f.png",
+  "options": [
+    {
+      "label": "J-3 빨강",
+      "size": "35 × 35 × 175",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "화장품 공방",
+    "how": "향수 · 미니 공병 포장으로",
+    "desc": "롤온, 공병 등\n길쭉한 선물을 담아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/da88fb1554870f207e6019d9aacc9492.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/c6c32111a924d6f3bad728008f2d9ea9.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/5e568dfb05c0c708cd8684226b6db91c.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "고급 수입지",
+      "desc": "고급 수입지로 만든\n다용도 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/5cef5b56e1666e731cbd8eca2d69dd07.jpg"
+    },
+    {
+      "title": "양면 빨강",
+      "desc": "안팎 모두 빨간색이라\n눈에 확 띄어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/0e4d0feb635d0136de75edccdff0c60a.jpg"
+    },
+    {
+      "title": "십자형 밑면",
+      "desc": "밑면이 십자형이라\n간단히 조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260122/a46e54a17c07ff5cd738e55ee3549f17.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "J-3 빨강",
+      "desc": "35 × 35 × 175 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260122/da88fb1554870f207e6019d9aacc9492.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260122/48e6ef4aeee918e97e8752896600b2dc.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260122/1ad32e27684f8be0216fa070e3c2564e.jpg"
+      ]
+    }
+  ]
+}

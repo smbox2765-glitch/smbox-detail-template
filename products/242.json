@@ -1,0 +1,67 @@
+{
+  "id": "242",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=242&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/NRINuVoB0XQ",
+  "name": "Y-1 · Y-2 투명창 박스",
+  "tagline": "떡 · 비누 · 한과가 보이는 투명창 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/47a2503f5be022896564afc753c2351c.png",
+  "options": [
+    {
+      "label": "Y-1",
+      "size": "150 × 90 × 30",
+      "unit": "50개",
+      "unitPrice": "380원",
+      "price": "19,000원"
+    },
+    {
+      "label": "Y-2",
+      "size": "165 × 90 × 35",
+      "unit": "50개",
+      "unitPrice": "430원",
+      "price": "21,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡 · 비누 · 한과 포장으로",
+    "desc": "상자 사이즈가 2가지라\n확인 후 주문해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7a07204a653ce6643803cfe2c8efc43e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/06/1406b7b6a4b40d0_15440817649941158689.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b4598b7fb46e941302d62c709e7b27a3.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "튼튼한 아스테지 창",
+      "desc": "투명한 창으로\n상품이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/52090f9fc21b8b62455f9857cdc8bbf4.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "식품용지에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9b96c2d49cf0f0b5b56eaa75e520709f.jpg"
+    },
+    {
+      "title": "Y형 상하짝",
+      "desc": "접어서 쓰는\nY형 상하짝 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/baa066c4d8f979b955033cdea7648255.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y-1 · Y-2",
+      "desc": "Y-1 150×90×30 · Y-2 165×90×35",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990428662827916768.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990428719678134711.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990428778709185489.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/06/1406b7b6a4b40d0_15440817781962901544.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

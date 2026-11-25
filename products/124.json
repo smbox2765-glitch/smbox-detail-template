@@ -1,0 +1,71 @@
+{
+  "id": "124",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=124&cate_no=43&display_group=1",
+  "name": "필샵 텀블러 박스",
+  "tagline": "텀블러 · 보틀을 세워 담는 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/70dfbf8c65a2beb8e5a1b4a398f74799.jpg",
+  "options": [
+    {
+      "label": "E골 (갈색)",
+      "size": "80 × 80 × 200",
+      "unit": "100개",
+      "unitPrice": "500원",
+      "price": "50,000원"
+    },
+    {
+      "label": "흑E골 (검정)",
+      "size": "80 × 80 × 200",
+      "unit": "100개",
+      "unitPrice": "680원",
+      "price": "68,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 기업 행사",
+    "how": "텀블러 · 보틀 포장으로",
+    "desc": "택배 발송용으로도\n쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9647f11e076389faaa083b8bb7e96841.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/438e30d510401e845bb0a7dfa0166b44.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978311536697776876.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "E골 골판지",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/162af2a7644da9f10d15090f24c99f6d.jpg"
+    },
+    {
+      "title": "갈색 · 검정",
+      "desc": "갈색 E골과\n검정 흑E골 중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c7be9d2d04734e08e9b7860bd2408813.jpg"
+    },
+    {
+      "title": "80×80×200mm",
+      "desc": "텀블러, 보틀을\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8cb6fd67df8d19a25bdeffe2ce8e7406.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 (갈색)",
+      "desc": "80 × 80 × 200 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/162af2a7644da9f10d15090f24c99f6d.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603374801514381743.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603374923318684586.jpg"
+      ]
+    },
+    {
+      "title": "흑E골 (검정)",
+      "desc": "80 × 80 × 200 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a0d78ff4ec85b9417123984e0acf720d.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_16481683236275599679.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_1648168340868245550.jpg"
+      ]
+    }
+  ]
+}

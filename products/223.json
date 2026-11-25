@@ -1,0 +1,55 @@
+{
+  "id": "223",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=223&cate_no=43&display_group=1",
+  "name": "E-13 피자박스 (대)",
+  "tagline": "손잡이가 달린 조립형 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/242f500f1e4a119e16f53fddf7dc0a9f.jpg",
+  "options": [
+    {
+      "label": "E-13 (대)",
+      "size": "305 × 305 × 45",
+      "unit": "100개",
+      "unitPrice": "900원",
+      "price": "90,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "택배 · 선물 포장",
+    "how": "선물 · 택배 포장으로",
+    "desc": "무지 상자라 다용도로\n쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/503e57b4e98f37e7948ec7d1de9a0d7e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/74d075252d4266532e80ab473e7a129a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978316470002956165.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978316522932184204.jpg"
+    },
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c0ea567f0e6a774aed67aad61f6caad0.png"
+    },
+    {
+      "title": "조립형 무지 상자",
+      "desc": "접어서 조립하는\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/38df9056728f1b4a863258c8d1f94b7f.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E-13 (대)",
+      "desc": "305 × 305 × 45 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978316470002956165.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405433384728442728.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_1740543355051116971.png"
+      ]
+    }
+  ]
+}

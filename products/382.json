@@ -1,0 +1,59 @@
+{
+  "id": "382",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=382&cate_no=43&display_group=1",
+  "name": "다이어리 맞뚜껑 박스 (크라)",
+  "tagline": "다이어리를 담는 슬림 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/cb2e94237ae6917d9967d0b8b77c43e1.jpg",
+  "options": [
+    {
+      "label": "다이어리 크라",
+      "size": "110 × 20 × 180",
+      "unit": "100개",
+      "unitPrice": "250원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "문구점 · 기업 행사",
+    "how": "다이어리 · 수첩 포장으로",
+    "desc": "다이어리는 포함되지 않아요.\n상자만 판매해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7afd6b78649b53ca2341e9a3ac1bd23b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/43b1bfeb0c9ce3123b5f1703ba5235ef.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_16800573659353209327.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트 상자",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/43b1bfeb0c9ce3123b5f1703ba5235ef.jpg"
+    },
+    {
+      "title": "110×20×180mm",
+      "desc": "다이어리, 수첩을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_1680057372556184620.jpg"
+    },
+    {
+      "title": "맞뚜껑 구조",
+      "desc": "뚜껑을 끼워 닫는\n슬림한 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/64fd1f9bc582eed140e58acbcdd906ae.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "다이어리 크라",
+      "desc": "110 × 20 × 180 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_16800573793255576261.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_16800573659353209327.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_1680057372556184620.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/03/29/c9d3b1e04cddea8_16800573902123337067.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

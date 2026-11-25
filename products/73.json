@@ -1,0 +1,56 @@
+{
+  "id": "73",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=73&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/e_D1G3SvFiY",
+  "name": "Y형 상하짝 박스 (검정)",
+  "tagline": "밑판이 함께 들어 있는 검정 흑지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/f8fee64a1b5836faa032443001a58ea9.jpg",
+  "options": [
+    {
+      "label": "Y형 상하 검정",
+      "size": "190 × 75 × 35",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 기념품 포장으로",
+    "desc": "검정색이라 기념품이나\n선물 포장에 잘 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/147b5afe693629f4e96509bb5286abc4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/428fba0e169135f30e887ac66081f40c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/53769a1886c538298a334870a08f5e21.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흑지 400g",
+      "desc": "고급스러운 검정\n흑지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3da5cbedcf7959f3688035734292a3e4.jpg"
+    },
+    {
+      "title": "내경 175×60×35mm",
+      "desc": "외경 190×75×35mm\n(가로×세로×높이)",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/20/0fd9e7cf541ef3d_1468976048436995510.jpg"
+    },
+    {
+      "title": "밑판 포함",
+      "desc": "Y형 상하짝에\n밑판이 함께 들어 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/20/0fd9e7cf541ef3d_14689760599444737399.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y형 상하 검정",
+      "desc": "190 × 75 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/20/0fd9e7cf541ef3d_14689760700713491066.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/20/0fd9e7cf541ef3d_14689760800192242226.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/147b5afe693629f4e96509bb5286abc4.jpg"
+      ]
+    }
+  ]
+}

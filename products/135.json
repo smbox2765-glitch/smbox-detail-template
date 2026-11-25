@@ -1,0 +1,55 @@
+{
+  "id": "135",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=135&cate_no=43&display_group=1",
+  "name": "떡박스 S84",
+  "tagline": "무늬가 인쇄된 상하짝 떡 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/4d7d9e275189acf9f539b1bf41879dec.jpg",
+  "options": [
+    {
+      "label": "S84",
+      "size": "120 × 80 × 25",
+      "unit": "200개",
+      "unitPrice": "220원",
+      "price": "44,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "행사 답례 떡 포장으로",
+    "desc": "떡을 담아 행사 답례품으로\n나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f5bc679406ddb42b81862c7bb3931cfb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/83a6527a8c3444e6513a87f4b882de80.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961051799728584866.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "인쇄 디자인",
+      "desc": "은은한 무늬가\n인쇄된 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/554f9e9857c5e5e338c2c9842d744011.png"
+    },
+    {
+      "title": "IV350g",
+      "desc": "IV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f012fa627d86d0ab0e8cc76cd4981bda.png"
+    },
+    {
+      "title": "200개 단위",
+      "desc": "200개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/56a71bad1140662f547563bad4b9953b.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S84",
+      "desc": "120 × 80 × 25 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961051867574595013.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405376386971340619.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405376949419742433.png"
+      ]
+    }
+  ]
+}

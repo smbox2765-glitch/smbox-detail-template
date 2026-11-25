@@ -1,0 +1,80 @@
+{
+  "id": "356",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=356&cate_no=43&display_group=1",
+  "name": "핸드워시 답례 박스 (1 ~ 4번)",
+  "tagline": "핸드워시 · 손세정제 병을 담는 흰색 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/27cb6f3a91ab4e3ecb49f0708315512a.png",
+  "options": [
+    {
+      "label": "1번 (생활공작소)",
+      "size": "75 × 75 × 155",
+      "unit": "50개",
+      "unitPrice": "260원",
+      "price": "13,000원"
+    },
+    {
+      "label": "2번 (데톨)",
+      "size": "70 × 70 × 190",
+      "unit": "50개",
+      "unitPrice": "260원",
+      "price": "13,000원"
+    },
+    {
+      "label": "3번 (아이깨끗해)",
+      "size": "95 × 65 × 160",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    },
+    {
+      "label": "4번 (젤 타입)",
+      "size": "85 × 85 × 165",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "핸드워시 답례품 포장으로",
+    "desc": "핸드워시는 포함되지 않아요.\n병 크기를 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/723880a92adcd780bc88405ed3cb05de.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b9077791c7958333e84d595ec7f70e51.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/16fd396157387bd2261ad1f325bcecbb.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/29185bf075b97c90af7964b8f7dff9ee.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "깔끔한 흰색 지류에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3f443c2cda06f7738b6f3a29df3d2a20.jpg"
+    },
+    {
+      "title": "네 가지 사이즈",
+      "desc": "핸드워시 병 모양에 맞춰\n1~4번 중에 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_1646618509395899572.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "핸드워시 박스",
+      "desc": "1번 ~ 4번",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185027402591313.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185274687285453.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185540455539912.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/10/87024a2042cb3d7_16468787946063314361.jpg",
+        "text": "박스 (펼친 모습)"
+      }
+    }
+  ]
+}

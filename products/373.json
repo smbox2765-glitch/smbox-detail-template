@@ -1,0 +1,55 @@
+{
+  "id": "373",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=373&cate_no=43&display_group=1",
+  "name": "손수건 박스 (크라)",
+  "tagline": "손수건 · 스카프를 납작하게 담는 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/6c19455f89c380febf5b1fe3ec4297fe.jpg",
+  "options": [
+    {
+      "label": "손수건 크라",
+      "size": "175 × 156",
+      "unit": "50개",
+      "unitPrice": "280원",
+      "price": "14,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "손수건 · 스카프 포장으로",
+    "desc": "손수건 답례품을\n깔끔하게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f6877d14cb4971850c1c93e37e5aa0d0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e393657b01c8c9c0e5ab6ba5b6d5278d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/25/d573f101463cc75_15587454867816162517.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트팩 244g",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4a9078369be4662d11bca10fe227c57b.jpg"
+    },
+    {
+      "title": "납작한 상자",
+      "desc": "손수건, 스카프를\n납작하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/25/d573f101463cc75_15587454912813335958.jpg"
+    },
+    {
+      "title": "조립식 상자",
+      "desc": "펼친 한 장을 접어\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e13efef02f7b4f3770b80f390f11b807.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손수건 크라",
+      "desc": "175 × 156 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/25/d573f101463cc75_15587454961921171083.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/25/d573f101463cc75_15587454999629954387.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/25/d573f101463cc75_15587454912813335958.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "348",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=348&cate_no=43&display_group=1",
+  "name": "치킨 박스 (대)",
+  "tagline": "치킨 그림이 인쇄된 원터치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/2ab38d370a16cd0ac35977652c138cc8.jpg",
+  "options": [
+    {
+      "label": "치킨 대",
+      "size": "203 × 122 × 73",
+      "unit": "200개",
+      "unitPrice": "200원",
+      "price": "40,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "치킨집 · 분식점",
+    "how": "치킨 포장으로",
+    "desc": "200개 단위라\n매장에서 넉넉히 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/171fca3428a813e897ec5d52be1c3354.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/c6f33057b8b10918e0487019ad739232.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/25/fc1e216fe7504b6_15009432540982148913.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "치킨 인쇄",
+      "desc": "치킨 그림이 인쇄된\n상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/d14e6e29c43bf7de5d2894d7414865bc.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "무광코팅으로\n깔끔해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/781786a7e9a100dc0e9464728f900f06.jpg"
+    },
+    {
+      "title": "원터치 상자",
+      "desc": "펼쳐서 바로 쓰는\n원터치 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/25/fc1e216fe7504b6_15009432747706572077.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "치킨 대",
+      "desc": "203 × 122 × 73 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/25/fc1e216fe7504b6_15009432603848542398.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/25/fc1e216fe7504b6_15009432688129476127.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/25/fc1e216fe7504b6_15009432747706572077.jpg"
+      ]
+    }
+  ]
+}

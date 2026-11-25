@@ -1,0 +1,59 @@
+{
+  "id": "318",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=318&cate_no=43&display_group=1",
+  "name": "흰색 십자형 박스 (대)",
+  "tagline": "향수 공병을 담는 흰색 십자형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/0e650d600a82bf0dc48cc287b0763e15.jpg",
+  "options": [
+    {
+      "label": "흰색 십자형(대)",
+      "size": "50 × 50 × 170",
+      "unit": "50개",
+      "unitPrice": "230원",
+      "price": "11,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "화장품 공방",
+    "how": "향수 · 미니 공병 포장으로",
+    "desc": "미니 공병 답례품을\n하나씩 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5da153bec188b12d109298871cf93989.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f1b77958b90166ca4f2e7f572b7d86de.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460291025612648.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "십자형 상자",
+      "desc": "십자 모양으로 펼쳐지는\n조립 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2df125a564b823c77856b7e9ae0e0e6f.jpg"
+    },
+    {
+      "title": "CCP 300g 흰색",
+      "desc": "깔끔한 흰색\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460338209439451.jpg"
+    },
+    {
+      "title": "50×50×170mm",
+      "desc": "향수, 롤온 공병을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460382456492221.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색 십자형(대)",
+      "desc": "50 × 50 × 170 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460338209439451.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460382456492221.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_16230460426947570206.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/07/54ee4c959e565dc_162304604818540715.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

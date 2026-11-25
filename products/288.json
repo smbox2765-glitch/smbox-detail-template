@@ -1,0 +1,55 @@
+{
+  "id": "288",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=288&cate_no=43&display_group=1",
+  "name": "카드지갑 박스 (아스테지 창)",
+  "tagline": "창으로 내용물이 보이는 흰색 슬림 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/bcdb14453ce2371c9ccfd9b48f92a7b8.jpg",
+  "options": [
+    {
+      "label": "카드지갑 아스테지",
+      "size": "80 × 20 × 110",
+      "unit": "100개",
+      "unitPrice": "230원",
+      "price": "23,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "카드지갑 · 명함 포장으로",
+    "desc": "카드지갑, 명함 등\n얇은 선물을 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d11eb62e5ca2378ce7e4b7b9782da569.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/fc878a97e1a2ccd0713835a1b9723307.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_1428454057561585417.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "아스테지 창",
+      "desc": "창으로 담긴 내용물이\n보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284540699206886932.jpg"
+    },
+    {
+      "title": "RIV350g",
+      "desc": "깔끔한 흰색\nRIV350g 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/50472da4361125a98e0b3768910c164c.jpg"
+    },
+    {
+      "title": "슬림한 사이즈",
+      "desc": "80×20×110mm\n카드지갑에 맞는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/04/2ca9bf7ab707618_17386274104576276989.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "카드지갑 아스테지",
+      "desc": "80 × 20 × 110 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_1428454057561585417.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284540699206886932.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/04/2ca9bf7ab707618_17386274104576276989.jpg"
+      ]
+    }
+  ]
+}

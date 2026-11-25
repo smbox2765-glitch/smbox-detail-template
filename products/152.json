@@ -1,0 +1,62 @@
+{
+  "id": "152",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=152&cate_no=43&display_group=1",
+  "name": "떡 접시 2호 (떡 트레이)",
+  "tagline": "접지 않고 바로 쓰는 떡 접시와 PET 뚜껑",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/381c0132cfa279844e2ae3c742eab82e.png",
+  "options": [
+    {
+      "label": "접시2호 밑판만",
+      "size": "140 × 90 × 28",
+      "unit": "50개",
+      "unitPrice": "280원",
+      "price": "14,000원"
+    },
+    {
+      "label": "접시2호 + PET",
+      "size": "140 × 90 × 28",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "행사 답례 떡 포장으로",
+    "desc": "각종 행사 답례품을\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/210694d7bd5ff1bfb56a2ad6865b37d4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/20c5a6a50a6ebe8cfd70885b9bde90eb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5b4d9ce62468128a25928ef004ff51b3.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "접지 않아도 되는 접시",
+      "desc": "만들어진 상태라\n바로 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961049917512920966.jpg"
+    },
+    {
+      "title": "안쪽 유광코팅",
+      "desc": "식품용지 안쪽에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5df13bf3eb4c603a10a6d3a5c667ca04.jpg"
+    },
+    {
+      "title": "PET 포함 · 접시만",
+      "desc": "PET 뚜껑 세트와\n접시만 중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/26/5330d3eeac792df_17429568072749487482.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "접시2호",
+      "desc": "140 × 90 × 28 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961049995842644739.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961050064999577823.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405381183137449035.png"
+      ]
+    }
+  ]
+}

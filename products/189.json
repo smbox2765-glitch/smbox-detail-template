@@ -1,0 +1,66 @@
+{
+  "id": "189",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=189&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/f1SV1I3dv64",
+  "foldVideo": "https://www.youtube.com/embed/qK3n3o_qTNY",
+  "name": "Y100 화과자 박스 10구",
+  "tagline": "꽃무늬가 인쇄된 Y형 화과자 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/1ec6f408803fee6664fa010cabe6b9f6.jpg",
+  "options": [
+    {
+      "label": "Y100 10구",
+      "size": "317 × 137 × 45",
+      "unit": "50개",
+      "unitPrice": "850원",
+      "price": "42,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 한과 · 곶감 선물 포장으로",
+    "desc": "화과자 속 케이스는\n따로 판매하고 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/79f8bdd0dc32bcd4488353c35a3585aa.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/f45c11d8bacbb86fd7eb4ee63304f434.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/5b6060d37ce4d6fcc633a77ee27f1caa.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "꽃무늬 디자인",
+      "desc": "꽃무늬가 인쇄된\n화사한 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/763dd05bd447a1d819366e67bcaa2941.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/74461b0798a9b6ae967631a3613d5758.jpg"
+    },
+    {
+      "title": "화과자 케이스 10개",
+      "desc": "화과자 케이스 10개가\n알맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/16/4efc1308fcbcb5c_15659160380359497309.jpg"
+    },
+    {
+      "title": "Y형 박스",
+      "desc": "접어서 쓰는\nY형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/0ec72be6a99e6d96e9194d76ba7168bb.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y100 10구",
+      "desc": "317 × 137 × 45 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/16/4efc1308fcbcb5c_15659160418281198376.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_1496626249185140957.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/03/30/8c7bd07514a813e_14908551273439795949.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/16/4efc1308fcbcb5c_15659161400391754448.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

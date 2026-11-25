@@ -1,0 +1,55 @@
+{
+  "id": "186",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=186&cate_no=43&display_group=1",
+  "name": "떡박스 S92 (국수 1호 동일 사이즈)",
+  "tagline": "국수와 떡을 담는 길쭉한 인쇄 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/5f2016fc6a6a229fc6b1d874067d5e4b.jpg",
+  "options": [
+    {
+      "label": "S92",
+      "size": "235 × 90 × 30",
+      "unit": "200개",
+      "unitPrice": "430원",
+      "price": "86,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 국수 공장",
+    "how": "떡 · 국수 답례품 포장으로",
+    "desc": "행사 답례품으로\n국수나 떡을 담아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d1c7980143b673c6d514a857aece56fd.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1f18eca24d7182dc4c046fd22c5d6965.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/31/a0a66ed8085c37f_14961903370381147473.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "인쇄 디자인",
+      "desc": "무늬가 인쇄된\n상하짝 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/432879848e609a5128d78110cfd2e0f1.jpg"
+    },
+    {
+      "title": "IV350g",
+      "desc": "IV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/32878c32e86ac183956794e22f857398.jpg"
+    },
+    {
+      "title": "235×90×30mm",
+      "desc": "국수 다발이나 떡을\n길게 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/29ac62a36f1c7422e59d96666514a306.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S92",
+      "desc": "235 × 90 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284536108787231332.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284536254655286492.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_1428453635647978161.jpg"
+      ]
+    }
+  ]
+}

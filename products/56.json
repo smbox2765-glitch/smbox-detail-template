@@ -1,0 +1,90 @@
+{
+  "id": "56",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=56&cate_no=43&display_group=1",
+  "name": "자석박스 (표지바리 박스)",
+  "tagline": "자석으로 닫히는 접이식 고급 싸바리 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/1947a2a093d95bd6b0f53da4a531c081.png",
+  "options": [
+    {
+      "label": "1번 (골프공 9구)",
+      "size": "135 × 140 × 53",
+      "unit": "4개",
+      "unitPrice": "2,500원",
+      "price": "10,000원"
+    },
+    {
+      "label": "2번 (골프공 12구)",
+      "size": "175 × 135 × 50",
+      "unit": "4개",
+      "unitPrice": "2,900원",
+      "price": "11,600원"
+    },
+    {
+      "label": "3번",
+      "size": "220 × 160 × 65",
+      "unit": "4개",
+      "unitPrice": "3,300원",
+      "price": "13,200원"
+    },
+    {
+      "label": "4번",
+      "size": "300 × 220 × 65",
+      "unit": "4개",
+      "unitPrice": "3,600원",
+      "price": "14,400원"
+    },
+    {
+      "label": "5번",
+      "size": "310 × 265 × 55",
+      "unit": "4개",
+      "unitPrice": "3,900원",
+      "price": "15,600원"
+    },
+    {
+      "label": "6번",
+      "size": "165 × 127 × 45",
+      "unit": "4개",
+      "unitPrice": "2,700원",
+      "price": "10,800원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "선물 패키지 포장으로",
+    "desc": "진공포장 상품이라 개봉 후에는\n교환·반품이 어려워요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/75519cbfabb047c1bdea154d5b296d13.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6b21f006294d6bdcb92ab45fdcf7ecc7.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/10/06/2d45093ae0e8aea_16965513887337540331.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "접이식 자석 박스",
+      "desc": "양면테이프를 떼고 펼치면\n바로 접착돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8c3a3783ded4dbb2f0b51b1bd737a062.jpg"
+    },
+    {
+      "title": "자석 내장",
+      "desc": "앞쪽에 자석이\n2개씩 들어 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/76dd23a72087772967dac064e2f3e268.jpg"
+    },
+    {
+      "title": "6가지 사이즈",
+      "desc": "1번부터 6번까지\n크기를 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/10/06/2d45093ae0e8aea_16965513833742796092.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "자석박스",
+      "desc": "1번 ~ 6번",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/10/06/2d45093ae0e8aea_16965516878437781564.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/10/06/2d45093ae0e8aea_16965516939427830603.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/10/06/2d45093ae0e8aea_16965516983994504809.jpg"
+      ]
+    }
+  ]
+}

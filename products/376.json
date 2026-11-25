@@ -1,0 +1,55 @@
+{
+  "id": "376",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=376&cate_no=43&display_group=1",
+  "name": "흰색 맞뚜껑 박스 (폭 좁은 미니)",
+  "tagline": "얇고 작은 소품을 담는 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/1a854b45eefa451c9a088305bb138c66.jpg",
+  "options": [
+    {
+      "label": "흰색 맞뚜껑",
+      "size": "40 × 8 × 95",
+      "unit": "100개",
+      "unitPrice": "130원",
+      "price": "13,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 소품샵",
+    "how": "작은 소품 포장으로",
+    "desc": "얇은 소품, 액세서리 등을\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/58dedede223eac0a1c35d60202c25b02.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/35c5bb4642d5eea7cb669f47603defd3.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576607364926657811.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 RIV350g",
+      "desc": "깔끔한 흰색\nRIV350g 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/0e55664232ec68970ac76e62f9c138b0.jpg"
+    },
+    {
+      "title": "폭 좁은 미니 상자",
+      "desc": "두께 8mm의\n얇은 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_1457660748634598777.jpg"
+    },
+    {
+      "title": "100개 단위",
+      "desc": "100개씩\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576607585374766449.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색 맞뚜껑",
+      "desc": "40 × 8 × 95 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576607364926657811.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_1457660748634598777.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576607585374766449.jpg"
+      ]
+    }
+  ]
+}

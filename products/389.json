@@ -1,0 +1,55 @@
+{
+  "id": "389",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=389&cate_no=43&display_group=1",
+  "name": "크라 우체통 박스",
+  "tagline": "우체통처럼 생긴 크라프트 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/376c56e24e95111a8fe479c816ca40c1.jpg",
+  "options": [
+    {
+      "label": "우체통 크라",
+      "size": "145 × 100 × 195",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "답례품 포장으로",
+    "desc": "답례품, 선물을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/bbfb4770d29aedde0ebe6cd021095bb4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/f42d21e5d86854fbf877ac1c0efa5524.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/296251bbbe3f168ce69018ccd9031f73.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "우체통 모양",
+      "desc": "우체통처럼 생긴\n손잡이 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/1499578abecd75198d2a7a64782ade53.jpg"
+    },
+    {
+      "title": "크라프트",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984373982723781798.jpg"
+    },
+    {
+      "title": "145×100×195mm",
+      "desc": "답례품을 넉넉하게\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/5bf6c0a5f86b68cc4d3fd376c5b4c265.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "우체통 크라",
+      "desc": "145 × 100 × 195 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984373815644301140.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984373880412121423.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984373927259901040.jpg"
+      ]
+    }
+  ]
+}

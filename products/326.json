@@ -1,0 +1,60 @@
+{
+  "id": "326",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=326&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/v3sL9J2BUBA",
+  "name": "손수건 박스 (아스테지 · 흰색)",
+  "tagline": "네모 창이 있는 흰색 일체형 납작 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/7e685c52f9b0517be37f44b19f363a4f.jpg",
+  "options": [
+    {
+      "label": "손수건 아스테지",
+      "size": "166 × 166 × 7",
+      "unit": "50개",
+      "unitPrice": "380원",
+      "price": "19,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "손수건 · 스카프 포장으로",
+    "desc": "손수건이 보이게\n깔끔하게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/96bb9121ac0b06fc9c88799cac5fe4bc.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2737f42a2e29d0c5cc7e4dbea03f3496.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810561462433476.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "네모 창",
+      "desc": "창에 아스테지가 붙어 있어\n안이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/47d4a278cb0b473c2f94aaadb5de8af7.jpg"
+    },
+    {
+      "title": "일체형 상자",
+      "desc": "한 장으로 된\n일체형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0b540ba8dba0c43d3f2ef538a5456452.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "깔끔한 흰색 지류에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810703263782865.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손수건 아스테지",
+      "desc": "166 × 166 × 7 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810635645562618.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810703263782865.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810776418667670.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/15/977190679d1abf4_15578810850476192537.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

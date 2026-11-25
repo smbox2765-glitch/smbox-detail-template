@@ -1,0 +1,59 @@
+{
+  "id": "113",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=113&cate_no=43&display_group=1",
+  "name": "떡박스 S91",
+  "tagline": "무늬가 인쇄된 상하짝 떡 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/36bb2c6dc120f7cafebb9b9b898edac8.jpg",
+  "options": [
+    {
+      "label": "S91",
+      "size": "190 × 115 × 27",
+      "unit": "200개",
+      "unitPrice": "330원",
+      "price": "66,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "행사 답례 떡 포장으로",
+    "desc": "떡을 담아 행사 답례품으로\n나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/571c5170c5a432a9604040194c39b343.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c8ec2d21d310d237eacf483f095018ce.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961053449766690781.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "인쇄 디자인",
+      "desc": "은은한 무늬가\n인쇄된 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961053517237508982.jpg"
+    },
+    {
+      "title": "IV350g",
+      "desc": "IV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405365941759494134.png"
+    },
+    {
+      "title": "200개 단위",
+      "desc": "200개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405366216641567168.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S91",
+      "desc": "190 × 115 × 27 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961053517237508982.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1624799138f2628bc762d917f0dbbed3.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/378e32dbd437b8ea60c39530b0f0ed8c.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/02/871f262ef575325_16514789677255164045.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

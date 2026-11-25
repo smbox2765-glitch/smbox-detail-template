@@ -1,0 +1,56 @@
+{
+  "id": "375",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=375&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/4O_D39OWAiE",
+  "name": "타올박스 (14번)",
+  "tagline": "타원형 창이 있는 흰색 십자형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/a6f389d0007822612079006e65470103.jpg",
+  "options": [
+    {
+      "label": "타올 14번",
+      "size": "94 × 94 × 160",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "수건 · 양말 답례품 포장으로",
+    "desc": "수건을 돌돌 말아\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9a7e840dfc1300baf674695b2458eaa0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4cc3ac79b7e8a9598a9d3ed7963ac85f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004258557085307660.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "타원형 창",
+      "desc": "창으로 담긴 수건이\n보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004258629531963163.jpg"
+    },
+    {
+      "title": "십자형 박스",
+      "desc": "조립이 간편해서\n대량 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d017ec00ebc643d75fb650938bc2c838.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "깔끔한 흰색 지류에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9dbef5a2537389188bf6b6b2c52626b5.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "타올 14번",
+      "desc": "94 × 94 × 160 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004258698968640947.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004258758593508314.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_1500425908373326003.jpg"
+      ]
+    }
+  ]
+}

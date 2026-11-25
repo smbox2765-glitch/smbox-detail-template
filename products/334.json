@@ -1,0 +1,55 @@
+{
+  "id": "334",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=334&cate_no=43&display_group=1",
+  "name": "타올박스 (11번)",
+  "tagline": "손잡이가 달린 검정 패턴 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/011e8d351af9230fdbe839b0bf3be53f.jpg",
+  "options": [
+    {
+      "label": "타올 11번",
+      "size": "84 × 84 × 90",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "수건 · 양말 답례품 포장으로",
+    "desc": "수건, 양말 답례품을\n담아 나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1f12e7c867137ab8bb4961e3e176a095.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004256050983118783.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5c692acbf3fad0f413c21a36dde490ec.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a42e280aedc98c0659549fbc24653dd9.png"
+    },
+    {
+      "title": "검정 패턴 디자인",
+      "desc": "흰색 무늬가 들어간\nRIV350g 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c94c833dd1dda8ccfd5991f02906f4ee.jpg"
+    },
+    {
+      "title": "84×84×90mm",
+      "desc": "수건, 손수건, 양말을\n말아서 담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2e6a5622fff914bf6d2f169d0247b95d.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "타올 11번",
+      "desc": "84 × 84 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004256050983118783.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004256122258118744.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/19/b697d8b78cc4eae_15004256201155329209.jpg"
+      ]
+    }
+  ]
+}

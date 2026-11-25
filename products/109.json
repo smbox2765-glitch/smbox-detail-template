@@ -1,0 +1,59 @@
+{
+  "id": "109",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=109&cate_no=43&display_group=1",
+  "name": "S45 하우스박스 (밤색)",
+  "tagline": "손잡이가 달린 하우스 모양 인쇄 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/49bf51ec823160ea99d141c8f2402a0d.jpg",
+  "options": [
+    {
+      "label": "S45 밤색",
+      "size": "170 × 130 × 110",
+      "unit": "50개",
+      "unitPrice": "430원",
+      "price": "21,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 답례품 포장으로",
+    "desc": "손잡이가 있어서\n답례품으로 나눠 주기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c8ee85e33a1a8771742e029cd68dc7ce.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b84e88b44347abec05c52c42f243caf5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3f502325355d0c18ced9454aeb47a41e.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 하우스 모양",
+      "desc": "손잡이가 달린\n하우스 모양 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/54990d3d033c8863cf2fd8a9752d619c.jpg"
+    },
+    {
+      "title": "밤색 디자인",
+      "desc": "밤색 디자인이 인쇄된\nRIV350g 무광 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/19/3478681666e728b_15661805532465427762.jpg"
+    },
+    {
+      "title": "170×130×110mm",
+      "desc": "떡, 답례품을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/06/2d8ef24fee8502a_1496714114462854387.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S45 밤색",
+      "desc": "170 × 130 × 110 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/19/3478681666e728b_15661805570342178766.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/06/2d8ef24fee8502a_1496714125867103440.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/06/2d8ef24fee8502a_14967141318298182071.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a55faeb412ef956e8e09d6a02051da8c.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

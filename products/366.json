@@ -1,0 +1,60 @@
+{
+  "id": "366",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=366&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/Q94Q_gFWhJo",
+  "name": "중지갑 박스 (상하짝 · 검정)",
+  "tagline": "지갑을 담는 검정 무지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/96e1f6f0fc96ce2a1fb25afccb972de4.jpg",
+  "options": [
+    {
+      "label": "중지갑 상하짝",
+      "size": "160 × 105 × 30",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "지갑 · 명함 선물 포장으로",
+    "desc": "지갑 외에도 소품, 명함 등\n다용도로 쓸 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c5483e97a844328d157e31fb214abd9d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7dea1a349fb576d9ce6c28fa0f2b02ab.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033463263497362.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "Y형 상하짝",
+      "desc": "뚜껑과 바닥이 나뉜\n접어서 쓰는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a7bae58bc2ea3686203db3fe10b126f4.jpg"
+    },
+    {
+      "title": "IV350g 검정",
+      "desc": "고급스러운 검정\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033506675442913.jpg"
+    },
+    {
+      "title": "160×105×30mm",
+      "desc": "중지갑이 알맞게\n들어가는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033550833404347.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "중지갑 상하짝",
+      "desc": "160 × 105 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033463263497362.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033506675442913.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/09/16/ace7a1917d4983e_15686033550833404347.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4660a8c20fad8d47f3b1d8d07069e524.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

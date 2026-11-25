@@ -1,0 +1,60 @@
+{
+  "id": "188",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=188&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/MEJuxJkGBhE",
+  "name": "백사면 원터치 박스 (대)",
+  "tagline": "펼치면 바로 쓰는 흰색 무지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/d57828487d7574ca243738727b118b82.png",
+  "options": [
+    {
+      "label": "백사면(대)",
+      "size": "178 × 132 × 37",
+      "unit": "50개",
+      "unitPrice": "270원",
+      "price": "13,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡 · 비누 답례품 포장으로",
+    "desc": "무지 상자라 스티커나 띠지로\n꾸미기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0ad81caaa8716f7a762c1cbfe9a99f7b.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/112cdfca41a798727edeaab9123bd269.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405334843746812178.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "사면접착 원터치",
+      "desc": "일체형 사면접착이라\n대량 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/53be9632faa18e79d3cffcaad855c662.png"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "깔끔한 흰색 지류에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3b7f37b38d6692482de192121dd267a9.png"
+    },
+    {
+      "title": "다용도 무지 상자",
+      "desc": "떡, 비누, 답례품 등\n여러 가지를 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_1740533504273159986.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "백사면(대)",
+      "desc": "178 × 132 × 37 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405335256268702419.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405335898773926147.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0ad81caaa8716f7a762c1cbfe9a99f7b.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a78e05d54a65e7d8f7004d68eecd086e.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

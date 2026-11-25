@@ -1,0 +1,60 @@
+{
+  "id": "269",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=269&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/kA663SBpI8s",
+  "name": "Y형 흰색 상하짝 반지갑 박스",
+  "tagline": "손잡이 홈이 있는 광택 흰색 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/9554374d54e7c7ea0fc27d374d6da75f.jpg",
+  "options": [
+    {
+      "label": "Y형 흰색 상하짝",
+      "size": "125 × 100 × 20",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "반지갑 · 소품 포장으로",
+    "desc": "반지갑, 소품 등\n얇은 선물을 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a0aeae64961674b01df43bab2396576a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a464caa24a425cdbf60bca940d34c9bb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a4892ba4193ed262cae059a77ce779c0.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "CCP 광택지",
+      "desc": "고급 CCP 지류라\n광택이 나요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/883c88cd0ba3e0209a26e4876a2c3c9c.jpg"
+    },
+    {
+      "title": "손잡이 홈",
+      "desc": "상짝에 동그란 손잡이 홈이 있어\n열고 닫기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845106283389936.jpg"
+    },
+    {
+      "title": "내경 120×95×20mm",
+      "desc": "외경 125×100×20mm\nY형 접는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845157584850746.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y형 흰색 상하짝",
+      "desc": "125 × 100 × 20 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845206944593648.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845255239913037.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845106283389936.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/03/3dc5181827b0559_16804845380429603598.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "30",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=30&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/IhoLUkKmq6Q",
+  "foldVideo": "https://www.youtube.com/embed/82Ywr8H2yak",
+  "name": "Y99 화과자 박스 8구",
+  "tagline": "꽃무늬가 인쇄된 Y형 화과자 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/caf168a27b3f24c310a416863881a0d0.jpg",
+  "options": [
+    {
+      "label": "Y99 8구",
+      "size": "257 × 138 × 45",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 한과 · 곶감 선물 포장으로",
+    "desc": "화과자 속 케이스는\n따로 판매하고 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6fcbf74ce153392fa361da571363a1df.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/8013b225bc399b842ee7f340a786b83a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307555182970463.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "꽃무늬 디자인",
+      "desc": "꽃무늬가 인쇄된\n화사한 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/5d7dfff1d6c899f06772f21d5fbd7b3e.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/05a25008d3eb51d74a9622e41a10ee07.jpg"
+    },
+    {
+      "title": "화과자 케이스 8개",
+      "desc": "화과자 케이스 8개가\n알맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307608375161066.jpg"
+    },
+    {
+      "title": "Y형 박스",
+      "desc": "접어서 쓰는\nY형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b2665ce72a181ea7ab1c5521b8a37c23.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Y99 8구",
+      "desc": "257 × 138 × 45 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307655508414501.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307777091718950.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307822799390322.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/08/15/b0247815aca1713_15658307884603684124.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

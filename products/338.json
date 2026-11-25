@@ -1,0 +1,56 @@
+{
+  "id": "338",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=338&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/dTnwvdg3Yeo",
+  "name": "크라프트 밀알 박스 (투명창)",
+  "tagline": "투명 PET 뚜껑을 덮는 크라프트 Y형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/b23d268008d5684ec596fee4c62321c2.jpg",
+  "options": [
+    {
+      "label": "밀알 박스",
+      "size": "250 × 215 × 45",
+      "unit": "50개",
+      "unitPrice": "900원",
+      "price": "45,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "답례 선물 포장으로",
+    "desc": "사진 속 리본은\n판매하지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/905c3a41e909bdbb87a49919cead4a35.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ff3afabcd08e6cb35724bcecd7512f0e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_1497829481926461832.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "투명한 뚜껑으로\n내용물이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8d4f1590fdd88cbb2cd77eb90ddda675.jpg"
+    },
+    {
+      "title": "크라프트 상자",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c4bcb638eab5aedfc0977e05c6ff0ced.jpg"
+    },
+    {
+      "title": "Y형 박스",
+      "desc": "접어서 쓰는\nY형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e23fc16e0d9b2e4c0f20c7ba227157cc.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "밀알 박스",
+      "desc": "250 × 215 × 45 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_1497829488795329345.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284529326868566594.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/04/08/1dff54dc3fe4e47_14284529517209378678.jpg"
+      ]
+    }
+  ]
+}

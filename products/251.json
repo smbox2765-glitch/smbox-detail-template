@@ -1,0 +1,55 @@
+{
+  "id": "251",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=251&cate_no=43&display_group=1",
+  "name": "반달 박스 (검정)",
+  "tagline": "쥬얼리 · 소품을 담는 검정 반달 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/fa5166ab7c53e911a3de0180ffbdf6ac.jpg",
+  "options": [
+    {
+      "label": "반달박스",
+      "size": "137 × 93 × 33",
+      "unit": "100개",
+      "unitPrice": "350원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쥬얼리샵 · 행사",
+    "how": "쥬얼리 · 소품 포장으로",
+    "desc": "검정 무지라 고급스럽게\n포장할 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d2721c0f32440b67a5c75b11cdd0f795.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/4ef540715a9c17375085f440ffab550d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/03e4d7f32d9d92c_15991999505181225401.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "반달 모양",
+      "desc": "양쪽을 접어 닫는\n반달 모양 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8eddc92d410cad04278ee9cfbe8aeb8a.jpg"
+    },
+    {
+      "title": "수입지 합지",
+      "desc": "S/C 300g에 수입지를\n합지한 검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/03e4d7f32d9d92c_15991999579259403057.jpg"
+    },
+    {
+      "title": "작은 선물용",
+      "desc": "쥬얼리, 소품을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/ed912764fd72fcd_15992089484987323243.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "반달박스",
+      "desc": "137 × 93 × 33 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/03e4d7f32d9d92c_15991999624762295009.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/03e4d7f32d9d92c_1599199969349770484.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/09/04/03e4d7f32d9d92c_15991999744058175057.jpg"
+      ]
+    }
+  ]
+}

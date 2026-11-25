@@ -1,0 +1,87 @@
+{
+  "id": "361",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=361&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/k42BTb9eR9w",
+  "name": "골프공 박스 (3구 맞뚜껑 · 6구 · 9구)",
+  "tagline": "공이 보이는 타공 검정 골프공 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/b4d376e843738d12d5491635f607ef9e.png",
+  "options": [
+    {
+      "label": "3구 맞뚜껑",
+      "size": "43 × 43 × 129",
+      "unit": "50개",
+      "unitPrice": "200원",
+      "price": "10,000원"
+    },
+    {
+      "label": "6구",
+      "size": "140 × 98 × 45",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "9구",
+      "size": "139 × 143 × 45",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "골프장 · 기업 행사",
+    "how": "골프공 선물 포장으로",
+    "desc": "골프공과 3구 맞뚜껑은\n따로 구매해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c3e372166d9f96155592de2ffe5c7e7b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bd36aa37af470ef639340f1488b0148d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/551a3b594311f004d57d6b2f013666cf.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "공이 보이는 타공",
+      "desc": "구멍으로 공이 보이고\n아스테지는 없어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/45119adc6bb0760479dfe6ed37f90a42.jpg"
+    },
+    {
+      "title": "6구 · 9구 상자",
+      "desc": "3구 맞뚜껑을 넣어\n담는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/335605601819181dae8d4da60da39835.jpg"
+    },
+    {
+      "title": "RIV350g 검정",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/0bb4b642c4c51f34fd6b3caff625788c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "3구 맞뚜껑",
+      "desc": "43 × 43 × 129 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_1648167125955656702.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_16481671311186661102.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_1648167118246840597.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_16481671397654843436.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "6구 · 9구",
+      "desc": "6구 140×98×45 · 9구 139×143×45",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/12/28/d68133e38fdb025_16091160507835195605.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_16481672694874934087.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/25/98cfd125f11d000_16481672996507683786.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/12/28/d68133e38fdb025_16091160600189545523.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

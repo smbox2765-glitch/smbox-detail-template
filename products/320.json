@@ -1,0 +1,71 @@
+{
+  "id": "320",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=320&cate_no=43&display_group=1",
+  "name": "A5 수세미 꽃그림 손잡이 박스 (소)",
+  "tagline": "꽃그림이 인쇄된 작은 손잡이 구디백 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/553886cdc8838f650c3240e3dc4060c8.jpg",
+  "options": [
+    {
+      "label": "분홍(인쇄)",
+      "size": "105 × 45 × 165",
+      "unit": "50개",
+      "unitPrice": "230원",
+      "price": "11,500원"
+    },
+    {
+      "label": "흰색",
+      "size": "105 × 45 × 165",
+      "unit": "50개",
+      "unitPrice": "230원",
+      "price": "11,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "구디백 · 답례품 포장으로",
+    "desc": "작고 귀여워서\n어린이집 답례품으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/cd51980c9c40d7ef18cfb762aaca1a61.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/04c65a090b38cf7774ae0f61245525d7.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b3aa43922353d0b68d5086d33406cce4.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9b4538a38dfa04c0ec6a1f172a3d6576.jpg"
+    },
+    {
+      "title": "분홍 꽃그림 · 흰색",
+      "desc": "꽃그림 분홍과 흰색\n두 가지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238219873694966693.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "무광코팅으로\n깔끔해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f82bb13c5ab941979b211662b86ed116.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "분홍(인쇄)",
+      "desc": "105 × 45 × 165 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238219929373199130.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238220032981283929.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238220087352982990.jpg"
+      ]
+    },
+    {
+      "title": "흰색",
+      "desc": "105 × 45 × 165 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238220141151466954.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238220190571708623.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/63c7445d7727834386980f6eca7a9486.jpg"
+      ]
+    }
+  ]
+}

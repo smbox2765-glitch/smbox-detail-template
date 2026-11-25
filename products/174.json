@@ -1,0 +1,60 @@
+{
+  "id": "174",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=174&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/OorN7akVhGU",
+  "name": "답례 떡박스 케익3호 (크라)",
+  "tagline": "손잡이가 달린 접이식 답례 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/a570223a1bb1afed2c8131f5ef35292e.jpg",
+  "options": [
+    {
+      "label": "케익3호(크라)",
+      "size": "130 × 130 × 60",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 답례품 포장으로",
+    "desc": "펼친 상태로 배송되고\n조립이 간편해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/59f7bdcb636703d3946828496cbff16f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/05/aa74a78c734d402_15281606819812299940.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d577c0afd540e8cf778c3376e2a7a1bd.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2580886b9fffb84c3a8d9a2113f65355.png"
+    },
+    {
+      "title": "크라프트",
+      "desc": "친환경 크라프트지라\n내추럴해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/05/aa74a78c734d402_15281606891747908621.jpg"
+    },
+    {
+      "title": "다용도 상자",
+      "desc": "떡, 비누, 답례품 등\n여러 가지를 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405330541163812154.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "케익3호(크라)",
+      "desc": "130 × 130 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/05/aa74a78c734d402_15281606819812299940.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/59f7bdcb636703d3946828496cbff16f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/05/aa74a78c734d402_15281606891747908621.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/dea02ed1884408d5f5c6ab0a9a05dc02.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

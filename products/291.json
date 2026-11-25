@@ -1,0 +1,59 @@
+{
+  "id": "291",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=291&cate_no=43&display_group=1",
+  "name": "K-2 (대) Y형 상하짝 박스 (빨강)",
+  "tagline": "빨간 RIV350g Y형 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/4245bdbd6d17c431c9223ceab07ff895.jpg",
+  "options": [
+    {
+      "label": "K-2 (대)",
+      "size": "200 × 170 × 70",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "답례 선물 포장으로",
+    "desc": "선명한 빨간색이라\n축하 선물에 잘 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1661b292941ff254d6061edfd1dedc01.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/eeec0bed2879bc9389ccd7f7c8da83ab.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9f82aba03eed01d5c5a30e8a1dd563ad.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "빨간 상하짝",
+      "desc": "뚜껑과 바닥이 나뉜\n빨간 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/05c363fc54f4407b60404c3b1c3a72f8.jpg"
+    },
+    {
+      "title": "Y형 박스",
+      "desc": "접어서 쓰는\nY형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f547e9e04f8c0c5407f618ce22f431d8.jpg"
+    },
+    {
+      "title": "RIV350g",
+      "desc": "RIV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/02/08/6dcba73110f9f40_17073536212813390499.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "K-2 (대)",
+      "desc": "200 × 170 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/02/08/6dcba73110f9f40_17073536264477224968.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/02/08/6dcba73110f9f40_17073536341352146855.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/02/08/6dcba73110f9f40_17073536390307405512.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/02/08/6dcba73110f9f40_17073536441124876190.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

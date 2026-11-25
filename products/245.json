@@ -1,0 +1,55 @@
+{
+  "id": "245",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=245&cate_no=43&display_group=1",
+  "name": "J-2 고급 선물 박스",
+  "tagline": "아이보리펄 지류로 만든 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/c4948722c5d6abf7091c6901ca52f32a.jpg",
+  "options": [
+    {
+      "label": "J-2",
+      "size": "190 × 150 × 80",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 기업 행사",
+    "how": "디저트 · 답례 선물 포장으로",
+    "desc": "고급스러운 펄 지류라\n특별한 답례품에 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/ab6110b60329f8e914c3d6b90aa1e5f5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/ae1f6bbdc1d339b40ac16965c783409a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238477405355390112.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "아이보리펄 350g",
+      "desc": "은은하게 빛나는\n아이보리펄 지류예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/40d03e3d8ac1ae685cdebf782e2cc086.jpg"
+    },
+    {
+      "title": "뚜껑 일체형",
+      "desc": "뚜껑이 붙어 있는\n접이식 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/dde7a738e7e2da8fede6d997572e51de.jpg"
+    },
+    {
+      "title": "190×150×80mm",
+      "desc": "디저트, 선물을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238477466663378543.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "J-2",
+      "desc": "190 × 150 × 80 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238477521967987861.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238477571637961922.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238477627424216711.jpg"
+      ]
+    }
+  ]
+}

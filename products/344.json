@@ -1,0 +1,62 @@
+{
+  "id": "344",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=344&cate_no=43&display_group=1",
+  "name": "손잡이 반달 상자 (빨강 · 2번 · 3번)",
+  "tagline": "손잡이가 달린 빨간 반달 모양 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/4c8060eaedbfec33342447eca3a97334.jpg",
+  "options": [
+    {
+      "label": "2번(소)",
+      "size": "250 × 200 × 60",
+      "unit": "50개",
+      "unitPrice": "900원",
+      "price": "45,000원"
+    },
+    {
+      "label": "3번(대)",
+      "size": "370 × 260 × 70",
+      "unit": "50개",
+      "unitPrice": "1,100원",
+      "price": "55,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "답례 선물 포장으로",
+    "desc": "선물을 넣어 그대로\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/eef519bae64bcc3b8c04ea4b89bfb920.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/fda1e69643394116337a99c2b49b513b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/26/bc7d584af28aeb9_15220267438512245826.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "반달 모양",
+      "desc": "양쪽을 접어 닫는\n반달 모양 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/cd27a53ebc7fbd96afb9cdb0f041d06d.jpg"
+    },
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이 구멍이 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/1e43635cf9f5a1388e0ffd8c87278c87.jpg"
+    },
+    {
+      "title": "빨간색",
+      "desc": "선명한 빨간색이라\n축하 선물에 어울려요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/489699f75dfe807f735b09bd9247bc40.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손잡이 반달상자",
+      "desc": "2번 250×200×60 · 3번 370×260×70",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/26/bc7d584af28aeb9_15220267506127378185.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/26/bc7d584af28aeb9_15220267648876937627.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/26/bc7d584af28aeb9_15220267752917511492.jpg"
+      ]
+    }
+  ]
+}

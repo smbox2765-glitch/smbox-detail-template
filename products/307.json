@@ -1,0 +1,55 @@
+{
+  "id": "307",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=307&cate_no=43&display_group=1",
+  "name": "골프공 9구 싸바리 박스",
+  "tagline": "검정 무지 고급 싸바리 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/7d49345a60475e67018b7f9de275db21.jpg",
+  "options": [
+    {
+      "label": "골프공 9구",
+      "size": "134 × 134 × 45",
+      "unit": "58개",
+      "unitPrice": "1,800원",
+      "price": "104,400원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "골프장 · 기업 행사",
+    "how": "골프공 선물 포장으로",
+    "desc": "무지 상자라 선물 포장에\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5e4812a17c48f8cef8e6766d6d087225.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8020829e1977b35866fce9e46960cd49.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/07c098376753afb615301cf58adc7dbc.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "합지에 종이를 감싼\n튼튼한 고급 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/acbc9227c48cfe418b6a1f07ff26fa32.jpg"
+    },
+    {
+      "title": "검정 수입지",
+      "desc": "고급스러운\n검정 수입지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/07/13/514cf497b3410ee_16576822612711382420.jpg"
+    },
+    {
+      "title": "58개 단위",
+      "desc": "58개씩\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/07/13/514cf497b3410ee_1657682267794582703.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "골프공 9구",
+      "desc": "134 × 134 × 45 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/07/13/514cf497b3410ee_16576822724258116526.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/07/13/514cf497b3410ee_16576822783949631235.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/07/13/514cf497b3410ee_16576822612711382420.jpg"
+      ]
+    }
+  ]
+}

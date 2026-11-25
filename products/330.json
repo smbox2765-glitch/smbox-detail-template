@@ -1,0 +1,71 @@
+{
+  "id": "330",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=330&cate_no=43&display_group=1",
+  "name": "장갑 맞뚜껑 박스 (검정 · 빨강)",
+  "tagline": "장갑을 납작하게 담는 슬림 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/de4ab31fb2f91b387f41d5a9fd8b11e5.jpg",
+  "options": [
+    {
+      "label": "검정",
+      "size": "107 × 20 × 250",
+      "unit": "100개",
+      "unitPrice": "380원",
+      "price": "38,000원"
+    },
+    {
+      "label": "빨강",
+      "size": "107 × 20 × 250",
+      "unit": "100개",
+      "unitPrice": "380원",
+      "price": "38,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "장갑 선물 포장으로",
+    "desc": "장갑, 양말 등\n얇은 선물을 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ffc3b2e0a74de1daf5d8db740b42a045.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/12/15/4ed9b2c07984cf9_16079946329395719264.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9a45adb3b16985bff785c68987a92805.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "맞뚜껑 구조",
+      "desc": "뚜껑을 끼워 닫는\n슬림한 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e45d4f7ef5a92cd484ab24116cce9baf.jpg"
+    },
+    {
+      "title": "검정 · 빨강",
+      "desc": "RIV350g\n두 가지 색이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/961b148640ed3fd144d022774ff7ed88.jpg"
+    },
+    {
+      "title": "107×20×250mm",
+      "desc": "장갑을 납작하게\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/26/0c6c640100567e2_15458156513923773762.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "검정",
+      "desc": "107 × 20 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/18/aac976dfc87fec0_15292870152461874926.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/18/aac976dfc87fec0_15292870218495674596.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/18/aac976dfc87fec0_15292870319885901631.jpg"
+      ]
+    },
+    {
+      "title": "빨강",
+      "desc": "107 × 20 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/12/15/4ed9b2c07984cf9_16079946639994305080.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2cc323b7e84b6b71609494fc9e10459d.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/12/15/4ed9b2c07984cf9_16079946482042471678.jpg"
+      ]
+    }
+  ]
+}

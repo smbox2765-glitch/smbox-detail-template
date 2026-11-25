@@ -1,0 +1,59 @@
+{
+  "id": "247",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=247&cate_no=43&display_group=1",
+  "name": "떡박스 S5 흰색 (무지)",
+  "tagline": "깔끔한 흰색 무지 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/9cd78582f701e92338e43afc36f1a8d7.jpg",
+  "options": [
+    {
+      "label": "S5 무지",
+      "size": "150 × 150 × 30",
+      "unit": "200개",
+      "unitPrice": "330원",
+      "price": "66,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "행사 · 떡집",
+    "how": "답례품 포장으로",
+    "desc": "스티커나 띠지를 붙여\n답례품으로 꾸미기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/be4aed12d769161727c4252bcbaadde8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/943403c3f4376f6dff1e4f52c353ded1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/27/8fe7642c0950d94_16221027610834347592.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 무지",
+      "desc": "깔끔한 흰색 무지라\n어디에나 잘 어울려요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/27/8fe7642c0950d94_16221027681276656902.jpg"
+    },
+    {
+      "title": "IV350g",
+      "desc": "IV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/943403c3f4376f6dff1e4f52c353ded1.jpg"
+    },
+    {
+      "title": "200개 단위",
+      "desc": "200개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/be4aed12d769161727c4252bcbaadde8.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S5 무지",
+      "desc": "150 × 150 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/27/8fe7642c0950d94_16221027610834347592.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/27/8fe7642c0950d94_16221027681276656902.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/be4aed12d769161727c4252bcbaadde8.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/27/8fe7642c0950d94_16221027725492475248.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

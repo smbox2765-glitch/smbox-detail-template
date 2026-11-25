@@ -1,0 +1,55 @@
+{
+  "id": "379",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=379&cate_no=43&display_group=1",
+  "name": "레이저박스 L-3 (빨강)",
+  "tagline": "레이스 무늬로 커팅한 빨간 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/29a5e00c911cb432fece95ac34970024.jpg",
+  "options": [
+    {
+      "label": "L-3",
+      "size": "105 × 55 × 155",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "고급 답례품 포장으로",
+    "desc": "고급스러운 레이스 무늬라\n특별한 답례품으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/ac082afc9c3307a7e75c6902ea8f5750.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/a62eefe406b16ca9ec4279161dcfdbbe.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208402730039417519.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "레이스 무늬 커팅",
+      "desc": "레이스 무늬로 커팅한\n수입지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/821a26125bbe9d56b152147a52864053.jpg"
+    },
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/a3924d0940d2e08c0c01398328c90df0.jpg"
+    },
+    {
+      "title": "빨간색",
+      "desc": "선명한 빨간색이라\n축하 선물에 어울려요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/130b1e8a34f1630781741e0bfe8d992d.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "L-3",
+      "desc": "105 × 55 × 155 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208402815884107710.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208402868486798119.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208402918746142964.jpg"
+      ]
+    }
+  ]
+}

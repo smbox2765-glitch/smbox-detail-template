@@ -1,0 +1,60 @@
+{
+  "id": "340",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=340&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/IHEG0uRENQc",
+  "name": "스카프 박스 (아스테지 · 검정)",
+  "tagline": "네모 창이 있는 검정 일체형 납작 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/29dc65252de1e10284e439cd5f2e1db3.jpg",
+  "options": [
+    {
+      "label": "스카프 아스테지",
+      "size": "233 × 169 × 15",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "손수건 · 스카프 포장으로",
+    "desc": "스카프, 손수건을\n보이게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7b6057035d67c288efd8de2c888e2da0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776385643728341.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2b7861d884179ac6930a973c059fc28.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "네모 창",
+      "desc": "창에 아스테지가 붙어 있어\n안이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2b7861d884179ac6930a973c059fc28.jpg"
+    },
+    {
+      "title": "일체형 상자",
+      "desc": "한 장으로 된\n일체형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3ab86911ca2c5944409da284fb18ddbe.jpg"
+    },
+    {
+      "title": "검정 상자",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776458992955846.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "스카프 아스테지",
+      "desc": "233 × 169 × 15 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776385643728341.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776458992955846.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776540023285880.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/05/08/fcb951d51e4786f_15572776774885121076.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

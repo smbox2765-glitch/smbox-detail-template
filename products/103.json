@@ -1,0 +1,55 @@
+{
+  "id": "103",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=103&cate_no=43&display_group=1",
+  "name": "답례 떡박스 슬리브 11번 (연두)",
+  "tagline": "떡 3개를 칸에 나눠 담는 슬리브 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/a4090809da03947773cba62d7dd6c44a.jpg",
+  "options": [
+    {
+      "label": "슬리브 11번",
+      "size": "190 × 70 × 33",
+      "unit": "200개",
+      "unitPrice": "400원",
+      "price": "80,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "행사 답례 떡 포장으로",
+    "desc": "떡을 하나씩 나눠 담아\n답례품으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ce642a072e0b1cc54d87b16c36fa436b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/549e21da681ce150b333b31c340d4177.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/25/6e505a65c936420_15299042915474741282.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "슬리브 상자",
+      "desc": "무늬 슬리브를 씌우는\n연두색 칸막이 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/01af5b7ca0e0aeaa294c3adf4fd93adf.jpg"
+    },
+    {
+      "title": "3칸 떡 트레이",
+      "desc": "떡 3개를 칸에\n나눠 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5875493dbd36ca5919c275dbf72c7a8e.jpg"
+    },
+    {
+      "title": "RIV350g",
+      "desc": "RIV350g 지류로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/111646c3fce4c78359a4a4e16cd545e0.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "슬리브 11번",
+      "desc": "190 × 70 × 33 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/25/6e505a65c936420_15299042974139699649.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/31/a0a66ed8085c37f_1496190953878695532.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/31/a0a66ed8085c37f_14961909616542995258.jpg"
+      ]
+    }
+  ]
+}

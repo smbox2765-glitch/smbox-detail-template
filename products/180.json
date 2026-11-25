@@ -1,0 +1,55 @@
+{
+  "id": "180",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=180&cate_no=43&display_group=1",
+  "name": "떡박스 S2 뚜껑 (S2-11 1번 디자인)",
+  "tagline": "S2 밑판에 씌우는 무늬 인쇄 뚜껑",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/e39a6428efd1eb3123da0006e06d4c8f.jpg",
+  "options": [
+    {
+      "label": "S2-11 뚜껑",
+      "size": "148 × 103 × 22",
+      "unit": "500개",
+      "unitPrice": "130원",
+      "price": "65,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "떡 답례품 포장으로",
+    "desc": "밑판(S2)은 따로 판매해요.\n함께 구매해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f0c8c859dc484341eb96717200d6bf04.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e5beb62d48c790e416aa78b236a36235.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_1496105511856119928.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "S2 밑판용 뚜껑",
+      "desc": "S2 밑판에 씌우는\n뚜껑만 판매해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/334c6f60a988e0b5670e7c03fbb2848e.png"
+    },
+    {
+      "title": "IV350g 유광코팅",
+      "desc": "IV350g에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961055224811897594.jpg"
+    },
+    {
+      "title": "1번 디자인",
+      "desc": "색 조각 무늬가 들어간\n1번 디자인이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e5beb62d48c790e416aa78b236a36235.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S2-11 뚜껑",
+      "desc": "148 × 103 × 22 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_1496105511856119928.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/30/e879036883cbcf0_14961055224811897594.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f0c8c859dc484341eb96717200d6bf04.jpg"
+      ]
+    }
+  ]
+}

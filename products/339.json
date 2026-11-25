@@ -1,0 +1,55 @@
+{
+  "id": "339",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=339&cate_no=43&display_group=1",
+  "name": "쇼핑백식 박스 (검정)",
+  "tagline": "쇼핑백처럼 생긴 검정 유광 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/feb8707ff955660bf59c787e9c53f3e1.jpg",
+  "options": [
+    {
+      "label": "쇼핑백식 박스",
+      "size": "140 × 50 × 180",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "답례 선물 포장으로",
+    "desc": "상자 하나로 쇼핑백처럼\n멋스럽게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/9ed77015f56c4f3123cbd91c6142b382.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/25fea50db6061892058a6b8520b313e2.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576581977309894896.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "쇼핑백 모양",
+      "desc": "쇼핑백처럼 생긴\n선물 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/c5b5778ef739858710a171aaac37a630.jpg"
+    },
+    {
+      "title": "RIV350g 유광코팅",
+      "desc": "검정 지류에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/a2ecd985c60e96cba8c9dc19bd030227.jpg"
+    },
+    {
+      "title": "140×50×180mm",
+      "desc": "작은 선물을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576582103538273835.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "쇼핑백식 박스",
+      "desc": "140 × 50 × 180 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576582103538273835.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576582287905421563.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576582409235558202.jpg"
+      ]
+    }
+  ]
+}

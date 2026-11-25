@@ -1,0 +1,59 @@
+{
+  "id": "274",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=274&cate_no=43&display_group=1",
+  "name": "스카프 박스 (흰색)",
+  "tagline": "스카프를 납작하게 담는 흰색 일체형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/e799af36766fc30fd05fbbe54cca91e3.jpg",
+  "options": [
+    {
+      "label": "스카프 흰색",
+      "size": "310 × 250",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "손수건 · 스카프 포장으로",
+    "desc": "스카프, 손수건 답례품을\n깔끔하게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f7a1d2839d4ce4a1a74f9ee0f6d58797.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1b9ef34162ab34eb7c21769d6a5fb2af.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431207829124127.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "일체형 조립식",
+      "desc": "조립이 간편한\n일체형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e8a27e01b0a3b4c39099d18a85107778.jpg"
+    },
+    {
+      "title": "흰색 무지",
+      "desc": "깔끔한 흰색\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431357619259328.jpg"
+    },
+    {
+      "title": "310×250mm",
+      "desc": "스카프를 접어\n납작하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431410755810314.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "스카프 흰색",
+      "desc": "310 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431207829124127.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431357619259328.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990431410755810314.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/53b03818fa1a30090261e89260244285.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

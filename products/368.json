@@ -1,0 +1,59 @@
+{
+  "id": "368",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=368&cate_no=43&display_group=1",
+  "name": "와이셔츠 박스 (검정)",
+  "tagline": "와이셔츠를 담는 검정 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/3cf9691756f35d643713e9492611c5c7.png",
+  "options": [
+    {
+      "label": "와이셔츠 박스",
+      "size": "355 × 235 × 55",
+      "unit": "100개",
+      "unitPrice": "1,100원",
+      "price": "110,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "의류 매장",
+    "how": "와이셔츠 · 의류 포장으로",
+    "desc": "와이셔츠, 의류 선물을\n깔끔하게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/48fe539b7c26d55154ac8ab71591787b.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/c6831c6532ee3d313e8bfcaec10bdb12.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/2e2abbcd343badaf10fccb8cc726f110.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "IV350g 검정",
+      "desc": "고급스러운 검정\n상하짝 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/21b424a17184c8281ad97bc0ed6065c2.png"
+    },
+    {
+      "title": "355×235×55mm",
+      "desc": "와이셔츠를 접어\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407038953243472523.png"
+    },
+    {
+      "title": "100개 단위",
+      "desc": "100개씩\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407039190884791547.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "와이셔츠 박스",
+      "desc": "355 × 235 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407039412104253996.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407039681868934779.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407038953243472523.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407039951802102134.png",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

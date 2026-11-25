@@ -1,0 +1,55 @@
+{
+  "id": "111",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=111&cate_no=43&display_group=1",
+  "name": "E-22 카드지갑 박스 (골판지)",
+  "tagline": "작고 납작한 갈색 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/f314db1c39c03e881950214d9b83613a.jpg",
+  "options": [
+    {
+      "label": "E-22",
+      "size": "100 × 80 × 15",
+      "unit": "100개",
+      "unitPrice": "230원",
+      "price": "23,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "카드지갑 · 명함 포장으로",
+    "desc": "카드지갑, 소품 등\n작은 선물을 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a12847c120bc2a8c6435dce51ac9deae.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d88a5212cff35cf80b663ad7a8371534.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240150566267384246.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/aeca40efd78a7e6bcff3000fdc4ba7ba.jpg"
+    },
+    {
+      "title": "납작한 미니 상자",
+      "desc": "100×80×15mm\n작고 얇은 선물에 맞아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7a110516707a2424db013154508c6043.jpg"
+    },
+    {
+      "title": "무지 상자",
+      "desc": "무지라 다용도로\n쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240150448809836332.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E-22",
+      "desc": "100 × 80 × 15 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240150504503556457.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240150627871544337.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240150566267384246.jpg"
+      ]
+    }
+  ]
+}

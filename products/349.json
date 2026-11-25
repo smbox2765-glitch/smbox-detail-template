@@ -1,0 +1,55 @@
+{
+  "id": "349",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=349&cate_no=43&display_group=1",
+  "name": "계란 · 달걀 박스",
+  "tagline": "달걀 하나를 담는 창 있는 인쇄 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/2abb4a6356774a6aab78f0ddad529571.jpg",
+  "options": [
+    {
+      "label": "계란 달걀박스",
+      "size": "50 × 50 × 65",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "교회 · 행사",
+    "how": "부활절 달걀 선물 포장으로",
+    "desc": "부활절 달걀 선물로\n나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/102afa3299b446e4151dd9319f4503a6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/bd0d731cccab34f5a9662e2c24153656.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096194818987596803.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "달걀 모양 창",
+      "desc": "달걀 모양 창으로\n안이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/79349f0d79ff26b1f7426820cf6eb5d4.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "무광코팅으로\n깔끔해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096195140303397356.jpg"
+    },
+    {
+      "title": "50×50×65mm",
+      "desc": "달걀 하나를\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096195270647101130.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "계란 달걀박스",
+      "desc": "50 × 50 × 65 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096194818987596803.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096195140303397356.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/02/f7d55744390b2ba_14096195270647101130.jpg"
+      ]
+    }
+  ]
+}

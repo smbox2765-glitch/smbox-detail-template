@@ -1,0 +1,55 @@
+{
+  "id": "383",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=383&cate_no=43&display_group=1",
+  "name": "명함 케이스 (크라)",
+  "tagline": "접어서 조립하는 크라프트 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/ee7bd62b7bded59fd4f060742f000848.png",
+  "options": [
+    {
+      "label": "명함케이스",
+      "size": "115 × 85 × 35",
+      "unit": "100개",
+      "unitPrice": "250원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 기업 행사",
+    "how": "명함 · 소품 포장으로",
+    "desc": "답례품, 선물 포장에\n다용도로 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/a1f70b93162daca34522e63910d2b2e5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/401cdce882d38f12df9b97934158d82b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/cc0de2222ef1b4271a6b00dc6deb412f.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트350g",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996478244543241439.jpg"
+    },
+    {
+      "title": "조립식 상자",
+      "desc": "펼친 한 장을 접어\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/202f316c6ea7c0191372ac1cc99ec4af.png"
+    },
+    {
+      "title": "115×85×35mm",
+      "desc": "명함, 작은 소품을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996478306993562119.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "명함케이스",
+      "desc": "115 × 85 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996478368655477555.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996478244543241439.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996478306993562119.jpg"
+      ]
+    }
+  ]
+}

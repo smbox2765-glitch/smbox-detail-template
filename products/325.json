@@ -1,0 +1,59 @@
+{
+  "id": "325",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=325&cate_no=43&display_group=1",
+  "name": "손수건 박스 (로즈골드)",
+  "tagline": "은은한 로즈골드 금지 납작 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/73b32272fa83540ef39253713022d6a7.jpg",
+  "options": [
+    {
+      "label": "로즈골드",
+      "size": "139 × 139",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 행사",
+    "how": "손수건 · 스카프 포장으로",
+    "desc": "손수건 답례품을\n고급스럽게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1483ef353838b57a58ec3d13e8d5f1da.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ddc9bc2fa049462e31e3a8e7193b9e44.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b89d3c4adc0c56480508e0479f050ce5.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "로즈골드 금지",
+      "desc": "은은하게 빛나는\n로즈골드 종이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/967a5b60ab03fb6d45409756cf395515.jpg"
+    },
+    {
+      "title": "납작한 상자",
+      "desc": "손수건을 접어\n납작하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/10/81c718107e5eb2f_15838215384143121164.jpg"
+    },
+    {
+      "title": "조립식 상자",
+      "desc": "펼친 한 장을 접어\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/338ee1676027a5f4ccd586e9330ae15e.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "로즈골드",
+      "desc": "139 × 139 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/10/81c718107e5eb2f_15838215434671469966.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/10/81c718107e5eb2f_1583821548763960423.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/10/81c718107e5eb2f_15838215538403639565.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/10/81c718107e5eb2f_15838215682697478611.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "160",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=160&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/UsoOpgYfixw",
+  "name": "싸바리 화과자 박스 S100 (10구)",
+  "tagline": "화과자 케이스가 맞게 들어가는 고급 싸바리 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/8fd6ab8ba7e680a5c4b8501568a835ba.jpg",
+  "options": [
+    {
+      "label": "S100 10구",
+      "size": "303 × 122 × 42",
+      "unit": "74개",
+      "unitPrice": "2,200원",
+      "price": "162,800원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 두쫀쿠 선물 포장으로",
+    "desc": "화과자 속 케이스는\n따로 판매하고 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/02c78ad7aa6dceb583b4735efc23443c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/77e12e39bde123adef76801cd5387b0b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261239082341270.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "단단하게 완성된\n상하짝 싸바리 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/bdf2ad989f438c7b1be3ac5772af01e9.jpg"
+    },
+    {
+      "title": "화과자 케이스 10개",
+      "desc": "화과자 케이스 10개가\n알맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261301715362399.jpg"
+    },
+    {
+      "title": "화과자 선물 상자",
+      "desc": "고급 화과자\n선물 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261434354218663.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S100 10구",
+      "desc": "303 × 122 × 42 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261239082341270.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261301715362399.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966261434354218663.jpg"
+      ]
+    }
+  ]
+}

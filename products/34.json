@@ -1,0 +1,55 @@
+{
+  "id": "34",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=34&cate_no=43&display_group=1",
+  "name": "떡박스 싸바리 S23 럭셔리 특대 (구김지)",
+  "tagline": "빨간 구김지로 감싼 특대 싸바리 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/527a221cfa80142b77a9e00068470987.jpg",
+  "options": [
+    {
+      "label": "S23",
+      "size": "320 × 250 × 75",
+      "unit": "25개",
+      "unitPrice": "3,700원",
+      "price": "92,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집",
+    "how": "떡 · 한과 선물 포장으로",
+    "desc": "떡, 한과를 고급스럽게 담아\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/cc2f87741854335ea7cca619a24d3952.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3e96b5f5788cf84d74f7179c938515e5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968855905489649545.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "합지에 종이를 감싼\n튼튼한 고급 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/45e143815924bd1828a6d7e975d38a33.jpg"
+    },
+    {
+      "title": "빨간 구김지",
+      "desc": "주름진 질감의\n빨간 구김지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968855953888847210.jpg"
+    },
+    {
+      "title": "특대 사이즈",
+      "desc": "320×250×75mm\n넉넉하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968856011343881695.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "S23",
+      "desc": "320 × 250 × 75 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968855905489649545.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968855953888847210.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/08/4321df7bec437ea_14968856011343881695.jpg"
+      ]
+    }
+  ]
+}
