@@ -1,0 +1,66 @@
+{
+  "id": "119",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=119&cate_no=43&display_group=1",
+  "name": "마카롱 손잡이 박스",
+  "tagline": "창으로 마카롱이 보이는 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/e32020e7ea3cf9f8c699e80310f34ee3.png",
+  "options": [
+    {
+      "label": "소",
+      "size": "180 × 55 × 55",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    },
+    {
+      "label": "대",
+      "size": "180 × 105 × 55",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "마카롱 · 바람떡 포장으로",
+    "desc": "마카롱, 무지개떡 등\n작은 디저트를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/897ddbc7fcaf29b4360fa2e9ca67271d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/82a5b10b36ccaf45fd331f93ba816277.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/830435962a0253dd717f37a78e0f8582.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/79dbcb1564828eba4e1b1e0a3192c330.jpg"
+    },
+    {
+      "title": "투명창",
+      "desc": "창으로 담긴 디저트가\n잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/07/7aa170481ffd8e2_16677871949716140374.jpg"
+    },
+    {
+      "title": "소 · 대 두 가지",
+      "desc": "RIV350g 흰색 상자를\n두 가지 크기로 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/028780e6f19663cdee945da950db0504.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "마카롱 손잡이 박스",
+      "desc": "소 180×55×55 · 대 180×105×55",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/07/7aa170481ffd8e2_16677871787015464748.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/07/7aa170481ffd8e2_16677871855374618215.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/07/7aa170481ffd8e2_16677872283165345393.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/07/7aa170481ffd8e2_16677872550262605216.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

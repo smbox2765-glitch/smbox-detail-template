@@ -1,0 +1,86 @@
+{
+  "id": "314",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=314&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/F25YZ73z8dI",
+  "foldVideo": "https://www.youtube.com/embed/M97HE0GHQS4",
+  "name": "바스크 치즈 케이크박스 (밑판 포함)",
+  "tagline": "투명 PET 상짝으로 케이크가 돋보이는 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/7e5268b539dadb1c2352eaf275032b9b.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "160 × 160 × 70",
+      "unit": "50개",
+      "unitPrice": "680원",
+      "price": "34,000원"
+    },
+    {
+      "label": "크라",
+      "size": "160 × 160 × 70",
+      "unit": "50개",
+      "unitPrice": "680원",
+      "price": "34,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "치즈케이크 · 디저트 포장으로",
+    "desc": "리본과 초는 포함되지 않아요.\n스티커, 리본으로 꾸미면 더 고급스러워요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/befc76ec9abb9c0af2bb0b035cf17f2a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/23/6beec614d77152b_17349116786965631211.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/23/6beec614d77152b_17349116840271357139.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 상짝",
+      "desc": "내용물이 보여서\n제품이 더 돋보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/598bad131a261166b146a58a0d64a8ec.jpg"
+    },
+    {
+      "title": "밑판 포함",
+      "desc": "밑판이 있어 위생적이고\n밑면이 깔끔해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_17346556465991818151.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "음식을 바로\n담아도 괜찮아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/37c8f4efe3949163c9e7073b7a7a4d8c.jpg"
+    },
+    {
+      "title": "흰색 · 크라",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/65993f61b81469bcd5fbafebc3b22ded.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "160 × 160 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7ad5721c5f7fcbff42133e5a384f9621.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/caa2de588e1938b05f58c31fcb7b7f33.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_1734655692284936772.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_17346556974601208052.jpg",
+        "text": "박스 + 밑판 + PET 상짝"
+      }
+    },
+    {
+      "title": "크라",
+      "desc": "160 × 160 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_17346557055452751438.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_17346557145379300295.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_1734655710095290388.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/12/20/05d6dafc99c6578_17346557192752167432.jpg",
+        "text": "박스 + 밑판 + PET 상짝"
+      }
+    }
+  ]
+}

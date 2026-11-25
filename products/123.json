@@ -1,0 +1,81 @@
+{
+  "id": "123",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=123&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/ZzeWHPej8nE",
+  "foldVideo": "https://www.youtube.com/embed/VZv8RiiKwH4",
+  "name": "마카롱 박스 M-8 (뚱카롱)",
+  "tagline": "폭 넓은 뚱카롱을 두 줄로 담는 투명창 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/9a31fa2f3043586122fb178e47a2552a.jpg",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "240 × 125 × 60",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    },
+    {
+      "label": "분홍",
+      "size": "240 × 125 × 60",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "뚱카롱 · 바람떡 포장으로",
+    "desc": "필링 두께에 따라 수량이 달라요.\n박스 사이즈를 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/828a061dae2e3f602e4af535c0828905.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/95859ebb88687ab285178cf6ff72258a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_1551920982323901655.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "두꺼운 아스테지 창",
+      "desc": "내용물이 선명하게\n잘 보이고 튼튼해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/791dc0dc8a1d8a094ae63a3a23f60749.jpg"
+    },
+    {
+      "title": "식품용지 무광코팅",
+      "desc": "유분, 수분에 강하고\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/222197c8824d8ebe4d9607a79010dd83.jpg"
+    },
+    {
+      "title": "두 줄 뚱카롱 상자",
+      "desc": "폭 넓은 뚱카롱을\n넉넉하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/67c23d7cb81367a3dfe4bf621083a0ce.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "240 × 125 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519209904314385605.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519209974309813996.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/67c23d7cb81367a3dfe4bf621083a0ce.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519210413471879789.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "분홍",
+      "desc": "240 × 125 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519210077971450058.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519210148566152754.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519210210316944111.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/03/07/f0d49f9c91b3d9f_15519210269394492643.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

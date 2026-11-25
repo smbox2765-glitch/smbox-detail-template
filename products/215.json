@@ -1,0 +1,62 @@
+{
+  "id": "215",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=215&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/5qbYhnb8Yz0",
+  "foldVideo": "https://www.youtube.com/embed/5827LKE2VyM",
+  "name": "화과자 4구 원터치 박스",
+  "tagline": "펼쳐서 바로 쓰는 투명창 화과자 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/057339f9da74ee4a32c452b8827c14cc.png",
+  "options": [
+    {
+      "label": "화과자 4구",
+      "size": "123 × 123 × 50",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 디저트 답례품 포장으로",
+    "desc": "화과자 속 케이스는\n따로 판매하고 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250811/09098b29509ff33c48574020c75689c4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250811/0bcab73f47502bf84d26cc7a1e260364.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250811/f2276d7ebc285b663df250c121848ef8.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "원터치 사면접착",
+      "desc": "펼치기만 하면 돼서\n빠르게 포장해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b522eedd23c53e26afa6867a79e154d6.jpg"
+    },
+    {
+      "title": "두꺼운 아스테지 창",
+      "desc": "투명하고 깔끔하게\n제품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f9e70eba2df481f2fa686bd3ea264f3d.jpg"
+    },
+    {
+      "title": "화과자 케이스 4개",
+      "desc": "화과자 케이스 4개가\n맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bdf2db5b7fb7693c9b0c8e7227252cf7.jpg"
+    },
+    {
+      "title": "무광코팅",
+      "desc": "유분, 수분에 강하고\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6a727838768a701a74efda1312c0b0f2.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "화과자 4구",
+      "desc": "123 × 123 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/03/12e5e8df62b5b18_17121152821968962548.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/03/12e5e8df62b5b18_17121152884662722473.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/03/12e5e8df62b5b18_17121152984232702268.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "104",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=104&cate_no=43&display_group=1",
+  "name": "마카롱 박스 M-7 (원터치)",
+  "tagline": "두 줄로 담는 무늬 인쇄 원터치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/99cc0a716e16169958aedff5254c6026.jpg",
+  "options": [
+    {
+      "label": "M-7",
+      "size": "176 × 105 × 50",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "마카롱 · 바람떡 포장으로",
+    "desc": "마카롱, 무지개떡 등\n작은 디저트를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/767d7288511300a01ba60d20ad4152e1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b1063c336198d277c5a763320d0a0e8b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/02/20/312c39054209958_15821608258026907052.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "원터치 상자",
+      "desc": "간편하게 펼쳐서\n쓰는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2c0e21c216ce040d2ab99c641beca6e0.jpg"
+    },
+    {
+      "title": "인쇄 디자인",
+      "desc": "은은한 무늬가\n인쇄된 RIV350g 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/7d60a8b74ec5a4629532ea8114811fbe.jpg"
+    },
+    {
+      "title": "두 칸 구성",
+      "desc": "한 칸 176×50×50mm\n두 줄로 나눠 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ed0cc6ffe4c0f7e063e758f1c1710982.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "M-7",
+      "desc": "176 × 105 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/31/fba135f60385ef9_15356779281836435230.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/31/fba135f60385ef9_1535677938279410240.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/29/4ae0fe872c7198a_15355082014261677406.jpg"
+      ]
+    }
+  ]
+}

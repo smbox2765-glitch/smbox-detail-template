@@ -1,0 +1,106 @@
+{
+  "id": "46",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=46&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/CVffN-fog-Y",
+  "foldVideo": "https://www.youtube.com/embed/tQZqrIUAOho",
+  "name": "에그타르트 박스 (2 · 3 · 4 · 6구)",
+  "tagline": "칸막이가 들어 있는 에그타르트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/b2ef50750f91b9ce09e3f5b62b48b9c4.png",
+  "options": [
+    {
+      "label": "2구",
+      "size": "157 × 77 × 45",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    },
+    {
+      "label": "3구",
+      "size": "234 × 77 × 45",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "4구",
+      "size": "160 × 154 × 45",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "6구",
+      "size": "236 × 154 × 45",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    },
+    {
+      "label": "손잡이 4구",
+      "size": "155 × 155 × 45",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "손잡이 6구",
+      "size": "230 × 155 × 45",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "에그타르트 포장으로",
+    "desc": "2구, 3구는 조립할 때 속지가 뜰 수 있어요.\n에그타르트를 올리면 내려가요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5f63a5e2d8cc4e72196a7cd7a1d8f0ba.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/74f4f61e5c5a81d7096d9d24bd10b762.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6e711d2b5488c9094d855d505982d3a8.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "칸막이 포함",
+      "desc": "칸막이가 들어 있어\n포장하기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e4ef14dce035eba776a924d5ebf55029.jpg"
+    },
+    {
+      "title": "한 칸 75×75×45mm",
+      "desc": "에그타르트를\n한 칸에 하나씩 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9f03c55bfe3a7e5c0f605b0da9568c4b.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n바로 담아도 돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/97bb3fa0d13c63f07ff30763072a8646.jpg"
+    },
+    {
+      "title": "손잡이 4구 · 6구",
+      "desc": "손잡이가 있는 상자도\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/12/9fd2b7adb1a8d38_16181909283943395283.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손잡이 없는 상자",
+      "desc": "2구 · 3구 · 4구 · 6구",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/21/bb620de1fc52b44_17162530979868301299.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/21/bb620de1fc52b44_17162531036083498656.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/21/bb620de1fc52b44_1716253109156649579.jpg"
+      ]
+    },
+    {
+      "title": "손잡이 있는 상자",
+      "desc": "4구 · 6구",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/12/9fd2b7adb1a8d38_16181909334023938889.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/12/9fd2b7adb1a8d38_16181909584056125375.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/12/9fd2b7adb1a8d38_16181909640619780375.jpg"
+      ]
+    }
+  ]
+}

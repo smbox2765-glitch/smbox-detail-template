@@ -1,0 +1,59 @@
+{
+  "id": "77",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=77&cate_no=43&display_group=1",
+  "name": "에그타르트 트레이 1구",
+  "tagline": "에그타르트를 하나씩 올리는 흰색 트레이",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/724161f700ae8a44d9c3328511dcc33e.png",
+  "options": [
+    {
+      "label": "에그타르트 트레이",
+      "size": "75 × 75 × 30",
+      "unit": "100개",
+      "unitPrice": "50원",
+      "price": "5,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "에그타르트 포장으로",
+    "desc": "매장에서 하나씩 담아\n판매하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260617/ece4600e834c28321c0a9ab3cc573141.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b46330238d7bd02e5156d3a566b5696d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/10/6f05bd0da0aef0f_17048532162244671587.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "흰색 RIV350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d5774d36309145646639ba5e21d9c781.jpg"
+    },
+    {
+      "title": "1구 트레이",
+      "desc": "에그타르트 1개를\n올려 담는 트레이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/824f97477ab9e326e11276822bad2c13.jpg"
+    },
+    {
+      "title": "100개 단위",
+      "desc": "100개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/90b1d093bf2018b6f5be0b2e2041f684.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "에그타르트 트레이",
+      "desc": "75 × 75 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/10/6f05bd0da0aef0f_1704853223526327933.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/10/6f05bd0da0aef0f_17048532288611117233.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/EC82ACEBB3B820-IMG_3522.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2ef83e7df4d31b3c9e2e8cf14f48fe4e.jpg",
+        "text": "트레이 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

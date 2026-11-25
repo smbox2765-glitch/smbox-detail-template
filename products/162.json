@@ -1,0 +1,66 @@
+{
+  "id": "162",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=162&cate_no=43&display_group=1",
+  "name": "투명창 케이크박스 1호 (높이 17cm)",
+  "tagline": "손잡이가 달린 아이보리 케이크 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/6ff9013c0400a2480fba194c31adbeec.png",
+  "options": [
+    {
+      "label": "사각창문",
+      "size": "210 × 210 × 170",
+      "unit": "5개",
+      "unitPrice": "1,400원",
+      "price": "7,000원"
+    },
+    {
+      "label": "하드창문",
+      "size": "210 × 210 × 170",
+      "unit": "5개",
+      "unitPrice": "1,500원",
+      "price": "7,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "홀케이크 포장으로",
+    "desc": "5개 단위라\n소량으로 구매하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8603974a852f67acca820ddf718c83bf.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/de79a2448a07767fa28485e10c6b8a97.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578185802142287.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 케이크 박스",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/fb3f1760ab249a47dd268bc9dcd4db9e.jpg"
+    },
+    {
+      "title": "사각 창 · 하드 창",
+      "desc": "두 가지 창 중에서\n골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578487342455080.jpg"
+    },
+    {
+      "title": "높이 17cm",
+      "desc": "210×210×170mm\n1호 케이크용 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578853368749630.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "케이크박스 1호",
+      "desc": "210 × 210 × 170 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578992514958291.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579165972590921.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579341673743426.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579844297953874.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

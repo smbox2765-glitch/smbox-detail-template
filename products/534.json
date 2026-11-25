@@ -1,0 +1,65 @@
+{
+  "id": "534",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=534&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/F9GpcXXXjXs",
+  "name": "핫도그 트레이",
+  "tagline": "꼬치를 꽂을 수 있는 두꺼운 종이 트레이",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20261007/3104d48b96c78923fb65a44413e1a0a8.jpg",
+  "options": [
+    {
+      "label": "핫도그 트레이",
+      "size": "170 × 55 × 40",
+      "unit": "100개",
+      "unitPrice": "39원",
+      "price": "3,900원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "분식점 · 카페",
+    "how": "핫도그 포장으로",
+    "desc": "펼친 상태로 배송되고\n간단히 조립하면 완성돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/7cb2e3021ce3c9fd9704b57ac7acf3e4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/faf5f4d6949a4cd31f246fba4419499e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261007/c355679b9d4baa3fb39c775f0ed7c2bf.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "두꺼운 종이",
+      "desc": "더 두꺼운 종이라\n탄탄하게 지탱해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/2e0b264bab679af41168dd743d2a2441.jpg"
+    },
+    {
+      "title": "꼬치 꽂는 구조",
+      "desc": "꼬치를 꽂을 수 있게\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/4b62cf949da9905974d3a61c820aea05.jpg"
+    },
+    {
+      "title": "가운데 미싱선",
+      "desc": "먹다가 뜯어서\n간편하게 먹을 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/c3912a892a0cf91171180c8041ab6738.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "식품용지에 무광코팅을 해서\n위생적이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/4e4d200462533186652b29b433eda3fd.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "핫도그 트레이",
+      "desc": "170 × 55 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/434f78f6e67ea86a739bec957842207c.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/5457a46bb03a8058b7277ad4c6027d0e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261007/b45f8aae510cd81a4b87935bbee47a9a.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261007/03bc99a17595d5ea58e40312f37e4618.jpg",
+        "text": "트레이 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

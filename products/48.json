@@ -1,0 +1,55 @@
+{
+  "id": "48",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=48&cate_no=43&display_group=1",
+  "name": "조각케이크 밑판",
+  "tagline": "조각케이크 모양에 맞춘 흰색 받침",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/ada906ded53329807423668dda7b9b86.jpg",
+  "options": [
+    {
+      "label": "조각케이크 밑판",
+      "size": "125 × 7 × 20",
+      "unit": "100개",
+      "unitPrice": "50원",
+      "price": "5,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "조각케이크 받침으로",
+    "desc": "조각케이크 상자에 넣어\n받침으로 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1ba061e7bbca1ab1c83d6d718a78db44.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b530e70d42a19cb25aee6d299c1f1523.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/212d0efe259b43967f934b12ee058baf.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "흰색 RIV350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a80134ae531c79c125c3a3c24215fdac.jpg"
+    },
+    {
+      "title": "물방울 모양",
+      "desc": "조각케이크 모양에 맞춘\n밑판이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/11/27/f2211fd3b25bd65_17010670164278791451.jpg"
+    },
+    {
+      "title": "100개 단위",
+      "desc": "100개씩 넉넉하게\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/11/27/f2211fd3b25bd65_17010670222644730081.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "조각케이크 밑판",
+      "desc": "125 × 7 × 20 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/11/27/f2211fd3b25bd65_17010670268933550059.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/11/27/f2211fd3b25bd65_17010670315109553395.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/11/27/f2211fd3b25bd65_17010670367574111084.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "118",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=118&cate_no=43&display_group=1",
+  "name": "조각케이크 PET 박스",
+  "tagline": "케이크가 그대로 보이는 투명 PET 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/ae4c3745a17537bd86899f13a8a99880.jpg",
+  "options": [
+    {
+      "label": "조각케이크 PET",
+      "size": "143 × 93 × 66",
+      "unit": "100개",
+      "unitPrice": "200원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "조각케이크 포장으로",
+    "desc": "100개 단위라\n매장에서 넉넉히 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c2f1e999e66873cc2b473764760614c6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3ebae895d31206b26c48bfedfe63d300.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/31bb86150b6c7198e2c5b084abe3d1c6.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "투명해서 케이크가\n그대로 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/620eeb24f595a01caa2013ab42cb789e.jpg"
+    },
+    {
+      "title": "흰색 밑판",
+      "desc": "흰색 밑판에 케이크를\n올려서 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b122604ca0314a10318a30f4db7dbe93.jpg"
+    },
+    {
+      "title": "내경 120×70×55mm",
+      "desc": "외경 143×93×66mm\n(가로×세로×높이)",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120336252711182192.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "조각케이크 PET",
+      "desc": "143 × 93 × 66 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120313357512176252.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120313442158727714.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120313484521533948.jpg"
+      ]
+    }
+  ]
+}

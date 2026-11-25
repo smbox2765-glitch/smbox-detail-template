@@ -1,0 +1,94 @@
+{
+  "id": "175",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=175&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/H3F7XoGnT-U",
+  "name": "쿠키 · 디저트 원터치 박스",
+  "tagline": "앞면 2면 접착으로 포장이 쉬운 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/aa1ca7bb10d26cb6c86b5215f88a3009.jpg",
+  "options": [
+    {
+      "label": "소 · 흰색",
+      "size": "210 × 150 × 85",
+      "unit": "50개",
+      "unitPrice": "420원",
+      "price": "21,000원"
+    },
+    {
+      "label": "소 · 크라",
+      "size": "210 × 150 × 85",
+      "unit": "50개",
+      "unitPrice": "420원",
+      "price": "21,000원"
+    },
+    {
+      "label": "대 · 흰색",
+      "size": "240 × 180 × 85",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "대 · 크라",
+      "size": "240 × 180 × 85",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "쿠키 · 디저트 포장으로",
+    "desc": "쿠키, 디저트 등\n다용도로 쓸 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b07adf51522ba099021c69162b6fe98a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024268148895561357.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024268208571669251.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "앞면 2면 접착",
+      "desc": "앞면이 붙어 있어\n포장하기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/568592840ac1b079bdb65a95bfad2652.jpg"
+    },
+    {
+      "title": "흰색 로얄아이보리",
+      "desc": "로얄아이보리350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2d3c746491999a6715b5d9f9eca3bfbf.jpg"
+    },
+    {
+      "title": "크라프트 무코팅",
+      "desc": "코팅 없이 크라프트\n느낌을 살렸어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024271634293117789.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "소 210×150×85 · 대 240×180×85",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/8d8445391b06e70_16466246158212111669.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/8d8445391b06e70_1646624620016483278.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/21be943257c33dc814fb2608412c364e.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c7352e2e330f19df436c9a8ca70cdd09.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "크라",
+      "desc": "소 210×150×85 · 대 240×180×85",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024271570714926673.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024271712979847684.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/9a4d2622132bbbc509ee576002d4b8e8.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024271823418744552.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

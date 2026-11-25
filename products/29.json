@@ -1,0 +1,108 @@
+{
+  "id": "29",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=29&cate_no=43&display_group=1",
+  "name": "샌드위치 · 샐러드 박스",
+  "tagline": "투명 뚜껑으로 속이 보이는 샌드위치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/e04578d5c77f0d89d5898796ae37862d.jpg",
+  "options": [
+    {
+      "label": "샌드 직사각 흰색",
+      "size": "170 × 60 × 65",
+      "unit": "100개",
+      "unitPrice": "250원",
+      "price": "25,000원"
+    },
+    {
+      "label": "샌드 직사각 크라",
+      "size": "170 × 60 × 65",
+      "unit": "100개",
+      "unitPrice": "250원",
+      "price": "25,000원"
+    },
+    {
+      "label": "샌드 정사각 흰색",
+      "size": "120 × 110 × 65",
+      "unit": "100개",
+      "unitPrice": "300원",
+      "price": "30,000원"
+    },
+    {
+      "label": "샌드 정사각 크라",
+      "size": "120 × 110 × 65",
+      "unit": "100개",
+      "unitPrice": "300원",
+      "price": "30,000원"
+    },
+    {
+      "label": "샐러드 정사각 흰색",
+      "size": "120 × 110 × 90",
+      "unit": "100개",
+      "unitPrice": "350원",
+      "price": "35,000원"
+    },
+    {
+      "label": "샐러드 정사각 크라",
+      "size": "120 × 110 × 90",
+      "unit": "100개",
+      "unitPrice": "350원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "샌드위치 · 샐러드 · 버터떡 포장으로",
+    "desc": "빵, 쿠키, 마카롱 등\n다양하게 담을 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e5a06d931fd578e45c93da9fe2d93e93.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c61ced8804fd9090ffe1393776dd0974.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/268b1a008a08269a194e2ed9d0c8406e.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "뚜껑이 투명해서\n속이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3a29deece751c11f8de70a578a53bf60.jpg"
+    },
+    {
+      "title": "흰색 · 크라",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5a591461110256a847a88cf4086981a8.jpg"
+    },
+    {
+      "title": "세 가지 크기",
+      "desc": "샌드위치 2종, 샐러드 1종\n크기로 나와요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_1681694917475335008.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "샌드 직사각",
+      "desc": "170 × 60 × 65 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949360875362183.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949414965162001.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16817102589821159376.jpg"
+      ]
+    },
+    {
+      "title": "샌드 정사각",
+      "desc": "120 × 110 × 65 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949558757691138.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949606599520281.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16817102766154291383.jpg"
+      ]
+    },
+    {
+      "title": "샐러드 정사각",
+      "desc": "120 × 110 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949751178573437.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16816949808046438880.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/04/17/099df5b4a4dd6a2_16817102948151632936.jpg"
+      ]
+    }
+  ]
+}

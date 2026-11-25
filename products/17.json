@@ -1,0 +1,126 @@
+{
+  "id": "17",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=17&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/0cHfRvw9634",
+  "foldVideo": "https://www.youtube.com/embed/PUY6pKLezDY",
+  "name": "마카롱 박스 M-2",
+  "tagline": "투명 PET 덮개로 마카롱이 보이는 긴 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/33368f145bfe258c5dd375914f850182.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "220 × 50 × 55",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "민트(무광)",
+      "size": "220 × 50 × 55",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "빨강(유광)",
+      "size": "220 × 50 × 55",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "분홍(무광)",
+      "size": "220 × 50 × 55",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "마카롱 · 바람떡 포장으로",
+    "desc": "필링 두께에 따라 수량이 달라요.\n박스 사이즈를 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6ad91ba6412f214070c29dc3630877a9.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/50991bc9bda731a7a0fc9510a3003297.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/02/21/d524ca7ec3b2e33_15507211028863390474.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 상짝",
+      "desc": "투명하고 튼튼한\nPET 덮개예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/0034f3e8e10e277dfefbe5ca65fc385b.jpg"
+    },
+    {
+      "title": "밑판 포함",
+      "desc": "밑판이 함께 나가서\n디저트를 바로 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/06/13/e1b185284dff0e0_1465781341112400523.jpg"
+    },
+    {
+      "title": "네 가지 색상",
+      "desc": "흰색 · 민트 · 빨강 · 분홍\n중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043647900546150684.jpg"
+    },
+    {
+      "title": "220×50×55mm",
+      "desc": "하짝 높이 42mm,\nPET까지 55mm예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043647950503440636.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "220 × 50 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/be6920df8be31d7b65fec9c394691f8f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978299224719504740.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/06/13/e1b185284dff0e0_14657813090266616947.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/13/460dbb633ed0f7f_15341211953976234281.jpg",
+        "text": "밑판 + 박스 하짝 + PET"
+      }
+    },
+    {
+      "title": "민트(무광)",
+      "desc": "220 × 50 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/864ce13692debc0b6f912c09b94d149d.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/154687df248c4370d2ef962e37d10f73.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/13/460dbb633ed0f7f_15341211093967628562.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/08/13/460dbb633ed0f7f_15341211014288811932.jpg",
+        "text": "밑판 + 박스 하짝 + PET"
+      }
+    },
+    {
+      "title": "빨강(유광)",
+      "desc": "220 × 50 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2985d0aa6bd02b90f2567fc643d18c5e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/f1e1d01fbcff4eac11e250501115278e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/02/21/d524ca7ec3b2e33_15507210968601184227.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/02/21/d524ca7ec3b2e33_15507210914849118418.jpg",
+        "text": "밑판 + 박스 하짝 + PET"
+      }
+    },
+    {
+      "title": "분홍(무광)",
+      "desc": "220 × 50 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/290a3075e5476cfb018bd6d77a4b0900.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/192271c0c64aebd_16042788622594168385.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/192271c0c64aebd_16042788668986265895.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/192271c0c64aebd_16042788570793851452.jpg",
+        "text": "밑판 + 박스 하짝 + PET"
+      }
+    }
+  ]
+}

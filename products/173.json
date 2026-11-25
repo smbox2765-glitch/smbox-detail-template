@@ -1,0 +1,60 @@
+{
+  "id": "173",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=173&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/fpqD5X5NXvk",
+  "name": "햄버거 · 토스트 트레이",
+  "tagline": "주황색 Tasty 디자인 종이 트레이",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/7b6b0bd9da73cd452b7f07aa3d7d1a85.jpg",
+  "options": [
+    {
+      "label": "햄버거 트레이",
+      "size": "105 × 60 × 60",
+      "unit": "100개",
+      "unitPrice": "130원",
+      "price": "13,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 분식점",
+    "how": "토스트 · 햄버거 포장으로",
+    "desc": "음식은 유산지나 포장지로\n감싼 뒤 담아 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7d5be386be37b3caf0cb43798cb2e367.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f63346583519a6c7be6d4e865e8c97c3.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3dcf28aa7339090_16351374138193356253.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "Tasty 디자인",
+      "desc": "주황색 바탕에\nTasty 문구가 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/25df256d47dee1ba6106696d21819b2f.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "RIV350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1f3edb6b95989399400377b54cfd6491.jpg"
+    },
+    {
+      "title": "105×60×60mm",
+      "desc": "토스트, 햄버거, 베이글 등\n다용도로 써요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3c369b00fd8bc7b_16351422534821575994.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "햄버거 트레이",
+      "desc": "105 × 60 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3dcf28aa7339090_16351374554351876152.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3dcf28aa7339090_1635137460843357378.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3dcf28aa7339090_16351374658063988503.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/25/3dcf28aa7339090_16351374755022968334.jpg",
+        "text": "트레이 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

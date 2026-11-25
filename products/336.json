@@ -1,0 +1,86 @@
+{
+  "id": "336",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=336&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/6zNY7S8EA6I",
+  "foldVideo": "https://www.youtube.com/embed/iPNTSZGiuKE",
+  "name": "한입케이크 박스 (받침 포함)",
+  "tagline": "옆 창으로 미니 케이크가 보이는 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/f3c1cd1f30146634e1a8f4ccceed384f.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "90 × 90 × 90",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "PET",
+      "size": "90 × 90 × 90",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "한입 케이크 포장으로",
+    "desc": "PET는 반품이 어려워요.\n주문 전 사이즈를 꼭 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/24689211e65eaf49bb25372b9b36e277.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/13/899b89e1c3fe659_17418235454183613778.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3f112fd16cc7c8cd68d3f2683836142f.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "큰 아스테지 창",
+      "desc": "옆면 창을 크게 만들어\n케이크가 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/571b805b0b52f42d0ae68f4f8a60153f.jpg"
+    },
+    {
+      "title": "받침 포함",
+      "desc": "케이크 받침이\n함께 들어 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/27/2b03d43760b0bb6_17406197899754522985.jpg"
+    },
+    {
+      "title": "식품용지 무광코팅",
+      "desc": "유분, 수분에\n강한 재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d52c5bbda56d7d18da32e10721723676.jpg"
+    },
+    {
+      "title": "흰색 · PET",
+      "desc": "흰색 종이 박스와\n투명 PET 박스 중 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e22417117b3654b552b19054a157b2cb.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "90 × 90 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/27/2b03d43760b0bb6_17406197634674272921.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/27/2b03d43760b0bb6_17406197720887947729.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/be2703a1d82cff8e63c2253044e08c2f.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/27/2b03d43760b0bb6_17406197899754522985.jpg",
+        "text": "박스 + 받침"
+      }
+    },
+    {
+      "title": "PET",
+      "desc": "90 × 90 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/13/899b89e1c3fe659_17418237252424283087.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/12/6a1ad659127baa4_17417386092506191426.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/12/6a1ad659127baa4_17417386213256596208.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/12/6a1ad659127baa4_17417386451274602548.jpg",
+        "text": "박스 + 손잡이 + 받침"
+      }
+    }
+  ]
+}

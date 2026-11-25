@@ -1,0 +1,90 @@
+{
+  "id": "388",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=388&cate_no=43&display_group=1",
+  "name": "펄프 도시락 용기",
+  "tagline": "햄버거 · 조각케이크 · 버터떡을 담는 펄프 용기",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/e0c46a71023f9c0feae2605aecf3f4c3.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "105 × 105 × 84",
+      "unit": "50개",
+      "unitPrice": "150원",
+      "price": "7,500원"
+    },
+    {
+      "label": "흰색",
+      "size": "105 × 105 × 84",
+      "unit": "500개",
+      "unitPrice": "130원",
+      "price": "65,000원"
+    },
+    {
+      "label": "연한크라",
+      "size": "105 × 105 × 84",
+      "unit": "50개",
+      "unitPrice": "150원",
+      "price": "7,500원"
+    },
+    {
+      "label": "연한크라",
+      "size": "105 × 105 × 84",
+      "unit": "500개",
+      "unitPrice": "130원",
+      "price": "65,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "조각케이크 · 버터떡 포장으로",
+    "desc": "뚜껑이 붙어 있는 용기라\n간편하게 담아 닫을 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d5eb56778422e525d774e3215ffe8738.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/23b12b90b6de70709d26a22e6e44f701.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/15/2f97e947a9af510_16867867924703141825.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "펄프 소재",
+      "desc": "펄프로 만든\n일회용 용기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8ee7546a47b7be60c85461932f00d18c.jpg"
+    },
+    {
+      "title": "흰색 · 연한크라",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/225291b9483fd1987c818ac45e445734.jpg"
+    },
+    {
+      "title": "105×105×84mm",
+      "desc": "햄버거, 샌드위치 등\n다용도로 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ff5f6a876acd4725be0e246df9aeac60.jpg"
+    },
+    {
+      "title": "50개 · 500개 단위",
+      "desc": "50개, 500개 중\n필요한 만큼 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/322c11b85e8de38f0c94677d7e6de484.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "105 × 105 × 84 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848923383225314077.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848923494916863245.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848998358149224206.jpg"
+      ]
+    },
+    {
+      "title": "연한크라",
+      "desc": "105 × 105 × 84 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848923658596861340.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848923757753619318.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/24/ac1d14c66693658_16848998604633470709.jpg"
+      ]
+    }
+  ]
+}

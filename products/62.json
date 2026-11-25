@@ -1,0 +1,59 @@
+{
+  "id": "62",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=62&cate_no=43&display_group=1",
+  "name": "대왕 카스테라 박스",
+  "tagline": "큼직한 카스테라를 담는 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/177cd979e6d58dd6836c04e67ae4bc81.png",
+  "options": [
+    {
+      "label": "대왕 카스테라",
+      "size": "255 × 160 × 115",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "카스테라 · 디저트 포장으로",
+    "desc": "어린이집, 행사 답례품으로도\n쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/284f2c844c885bb6a90687242ca5859c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d1636fab10d97ab5f21f3de49c8add10.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046889645853825063.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bbc2b570403ecf6bd456e23da3d0f2be.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "깔끔한 흰색 지류에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/340f3b86d93102c16df8d1639cafac6e.jpg"
+    },
+    {
+      "title": "255×160×115mm",
+      "desc": "카스테라, 디저트 등\n큼직하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046889744787982078.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "대왕 카스테라",
+      "desc": "255 × 160 × 115 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046889797935554974.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046889840075914023.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/737c20925bbd917c05af8926234fca45.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/445cd2b68ba64a2860bd9e505ab95ffd.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

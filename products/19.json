@@ -1,0 +1,86 @@
+{
+  "id": "19",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=19&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/BosNJqVki6M",
+  "foldVideo": "https://www.youtube.com/embed/cR7448OpfNo",
+  "name": "화과자 6구 투명창 박스",
+  "tagline": "창을 크게 키운 Y형 화과자 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/563998888e2c5c767790e3251333310d.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "180 × 125 × 50",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "분홍",
+      "size": "180 × 125 × 50",
+      "unit": "50개",
+      "unitPrice": "520원",
+      "price": "26,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 마카롱 답례품 포장으로",
+    "desc": "화과자 속 케이스는\n따로 판매하고 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3678d7d38e27f0f776fdbad2dcf13a0d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/03b4391dd9091a94b2df000800e8be58.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/05/fe633bb0d00e22e_14966264363108693725.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "큰 아스테지 창",
+      "desc": "창을 최대한 키워서\n상품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/297509a4095526830188dc8a670d7ed3.jpg"
+    },
+    {
+      "title": "화과자 케이스 6구",
+      "desc": "화과자 케이스 6구가\n딱 맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687326732963222750.jpg"
+    },
+    {
+      "title": "흰색 · 분홍",
+      "desc": "흰색은 무광코팅,\n분홍은 기계코팅이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/78258ef25907d257a09adce182bb9714.jpg"
+    },
+    {
+      "title": "Y형 박스",
+      "desc": "접어서 쓰는\nY형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1aff5fb3880f5e2c18c768a1f06cb7ac.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "180 × 125 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687326594361819007.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687326642882948462.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/746b4bdcc4f8d666fe9541fbc85c9255.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687329299181664458.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "분홍",
+      "desc": "180 × 125 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687328671273264916.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/11/18/0043211b9b6e93b_16687328748297293343.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5714f1864e126231e7fe27a0876231ed.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/04/2ca9bf7ab707618_17386271345702420847.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

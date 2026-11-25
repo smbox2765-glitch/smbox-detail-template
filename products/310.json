@@ -1,0 +1,87 @@
+{
+  "id": "310",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=310&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/6SMHdAozUi4",
+  "foldVideo": "https://www.youtube.com/embed/SyG5vjFcJaM",
+  "name": "조각케이크 박스 (받침 포함)",
+  "tagline": "앞이 열리는 손잡이 조각케이크 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/3332b2b926627759dd500d71e8dd4c68.png",
+  "options": [
+    {
+      "label": "1구",
+      "size": "128 × 90 × 90",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "2구",
+      "size": "150 × 105 × 90",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "높은 1구",
+      "size": "128 × 90 × 120",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "높은 2구",
+      "size": "150 × 105 × 130",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "조각케이크 포장으로",
+    "desc": "높이가 높은 제품도 있어요.\n케이크 높이에 맞춰 골라 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/01/24b881cff90d0d4_15857042772121283825.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2647c8dd6eb58cd233924baa5483fa5c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/01/24b881cff90d0d4_15857042811428276886.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "앞열림 구조",
+      "desc": "앞이 열려서\n케이크를 넣기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c91958c8a4140654e7536ca77d1c7705.jpg"
+    },
+    {
+      "title": "밑판 포함",
+      "desc": "밑판이 함께 나가요\n추가 밑판은 100개씩 구매 가능해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/01/24b881cff90d0d4_15857043425045109420.jpg"
+    },
+    {
+      "title": "이면접착으로 간편하게",
+      "desc": "뒷면이 붙어 있어\n쉽게 접어 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/09c0c4b975999a66a6024b90be4bd548.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "식품용지라 케이크를\n바로 담아도 돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5fe5577f2a641baa158a759fd9c1da8c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "조각케이크 박스",
+      "desc": "1구 · 2구 · 높은 1구 · 높은 2구",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5df39128429b90f66077977241002b2a.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5fe5577f2a641baa158a759fd9c1da8c.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/01/24b881cff90d0d4_15857042695018753321.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/01/24b881cff90d0d4_15857043469444199669.jpg",
+        "text": "1구: 박스 + 밑판 1장\n2구: 박스 + 밑판 2장"
+      }
+    }
+  ]
+}

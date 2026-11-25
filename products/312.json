@@ -1,0 +1,93 @@
+{
+  "id": "312",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=312&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/RVn16Nv8Zmg",
+  "name": "호두과자 박스 (4 · 10 · 20구)",
+  "tagline": "칸막이에 호두과자를 하나씩 담는 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/ae92af789eda1bd544485d7e8f9099b4.png",
+  "options": [
+    {
+      "label": "4구",
+      "size": "85 × 83 × 47",
+      "unit": "50개",
+      "unitPrice": "230원",
+      "price": "11,500원"
+    },
+    {
+      "label": "10구",
+      "size": "206 × 83 × 47",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "20구",
+      "size": "206 × 163 × 47",
+      "unit": "50개",
+      "unitPrice": "520원",
+      "price": "26,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "교회 · 학교 행사",
+    "how": "호두과자 답례품 포장으로",
+    "desc": "진공포장 상품이라 개봉 후에는\n교환·반품이 어려워요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ef12e948a6406d29eedbc8eadfaae2da.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046780265558314291.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046780326734296676.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "칸막이 포함",
+      "desc": "호두과자끼리\n달라붙지 않아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8ea2cdc20b5007b7a06af4dcab72a3ec.jpg"
+    },
+    {
+      "title": "식품용지 무광코팅",
+      "desc": "유분, 수분에 강하고\n식품을 바로 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8acee4ea6ec712050d63ac8171fcc4d2.jpg"
+    },
+    {
+      "title": "4구 · 10구 · 20구",
+      "desc": "행사 규모에 맞춰\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/03/08/5d51d007bc7b968_17098558105265644334.jpg"
+    },
+    {
+      "title": "한 칸 40×40×47mm",
+      "desc": "호두과자 1개씩\n칸에 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046780871761914986.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "4구",
+      "desc": "85 × 83 × 47 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046786159854321994.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046780771863239113.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046780931928714865.jpg"
+      ]
+    },
+    {
+      "title": "10구",
+      "desc": "206 × 83 × 47 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046786439599988452.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046781154872377157.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046781203624386511.jpg"
+      ]
+    },
+    {
+      "title": "20구",
+      "desc": "206 × 163 × 47 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046786631408227710.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046781418962128966.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/01/08/3d94c95d831fe57_17046781468243931681.jpg"
+      ]
+    }
+  ]
+}

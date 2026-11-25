@@ -1,0 +1,55 @@
+{
+  "id": "54",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=54&cate_no=43&display_group=1",
+  "name": "케이크 1호 받침 (유광)",
+  "tagline": "1호 케이크에 맞는 흰색 유광 받침",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/0ff527a15c20ba142382533a74ea3fad.png",
+  "options": [
+    {
+      "label": "케이크 1호 받침",
+      "size": "204 × 204 × 8",
+      "unit": "5개",
+      "unitPrice": "350원",
+      "price": "1,750원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "홀케이크 받침으로",
+    "desc": "케이크 상자에 넣어\n받침으로 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403570327014865706.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403570481233328963.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6d62327e22024adf65b25f2dfc16302f.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "유광 받침",
+      "desc": "표면이 매끈한\n유광 케이크 받침이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/11696cf6bfed36ddbc2600a9b949ca39.jpg"
+    },
+    {
+      "title": "204×204mm",
+      "desc": "1호 케이크에\n맞는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d713e249849b7351522165d4b0689534.jpg"
+    },
+    {
+      "title": "5개 단위",
+      "desc": "5개씩 필요한 만큼\n구매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ff7e73bd16cb2cfc81459b3f0d1fed78.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "케이크 1호 받침",
+      "desc": "204 × 204 × 8 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403569523877901845.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/269cc8dcd9fa5b0336ea4e09ad368b3f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403569760986674021.jpg"
+      ]
+    }
+  ]
+}

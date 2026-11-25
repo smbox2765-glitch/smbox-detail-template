@@ -1,0 +1,73 @@
+{
+  "id": "487",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=487&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/lxkR-HibVXI",
+  "foldVideo": "https://www.youtube.com/embed/nV0X5NcEBJM",
+  "name": "조각피자 박스",
+  "tagline": "삼각형 조각피자 테이크아웃 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/724b3d481573647181ebff9a3ca43cf1.png",
+  "options": [
+    {
+      "label": "20cm",
+      "size": "200 × 200 × 45",
+      "unit": "50개",
+      "unitPrice": "200원",
+      "price": "10,000원"
+    },
+    {
+      "label": "27cm",
+      "size": "275 × 275 × 40",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "피자 가게 · 카페",
+    "how": "조각피자 테이크아웃 포장으로",
+    "desc": "피자는 포함되지 않아요.\n박스만 판매해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/ce6fc78b250bf5e7d643094dfa1fe0b4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/426d1818e9aa81a4b96988749f2731a1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/dc9575f4db33ab2198d7d0930abf3706.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "숨구멍",
+      "desc": "뒷면 숨구멍으로\n눅눅해지는 걸 막아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/436cecae7c619d87a5f4d7f64a56a194.jpg"
+    },
+    {
+      "title": "두꺼운 식품용지",
+      "desc": "더 두꺼운 식품용지로\n튼튼하게 만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/1f8ae396db491898c9ebe7a2bec8835c.jpg"
+    },
+    {
+      "title": "20cm · 27cm",
+      "desc": "조각 크기에 맞춰\n두 가지로 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/b77858ef5830c13a28afc7a7459e93a9.jpg"
+    },
+    {
+      "title": "펼친 상태로 배송",
+      "desc": "간단한 조립이\n필요해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/de1396cc131f7febdabd679532a0dbbf.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "조각피자 박스",
+      "desc": "20cm · 27cm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/c87576e6d0636729a5bd3bd94be5f530.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260414/f7be382f00d3f5c587e257d8b0ba098f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260414/76a95b896aaa1caff659c8f662113dab.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260414/0a5b7f9895f04894923cce46a7e75032.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

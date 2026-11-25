@@ -1,0 +1,60 @@
+{
+  "id": "51",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=51&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/6mTJ5mH7xi8",
+  "name": "모찌 6구 다용도 박스",
+  "tagline": "두꺼운 RIV400g으로 만든 흰색 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/7ff22d4790cbbd9762ea8276e5b1bc36.jpg",
+  "options": [
+    {
+      "label": "모찌 6구",
+      "size": "210 × 140 × 60",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 행사 · 카페",
+    "how": "디저트 답례품 포장으로",
+    "desc": "기업 행사, 디저트, 답례품\n포장에 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/09542bee33afdf65505c9412adfe732c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/4b9561238b3c2aa00ea202c6dea9fd5b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/28/bcb6c78facd2243_16354044930695452691.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "두꺼운 RIV400g",
+      "desc": "기존보다 두꺼운 용지라\n튼튼해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/eb23919c868a4c249ffa670b1071cddd.jpg"
+    },
+    {
+      "title": "무광코팅",
+      "desc": "유분, 수분에 강하고\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3c6cf93ea3a24518636eaf83c0ff8bd2.jpg"
+    },
+    {
+      "title": "간단한 조립",
+      "desc": "간단하게 조립하면\n완성돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c64ba7a3272a82f4ef4fa43c329bd3af.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "모찌 6구",
+      "desc": "210 × 140 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/28/bcb6c78facd2243_16354045069854567439.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/28/bcb6c78facd2243_16354045131743901234.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/28/bcb6c78facd2243_16354045180552798361.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/10/28/bcb6c78facd2243_16354045227686161913.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

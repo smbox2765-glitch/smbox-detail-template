@@ -1,0 +1,80 @@
+{
+  "id": "543",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=543&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/nK9w8_WgrDQ",
+  "foldVideo": "https://www.youtube.com/embed/TTh_ARdsWlk",
+  "name": "손잡이 휘낭시에 박스 (3 · 5 · 6구)",
+  "tagline": "쌓아 둘 수 있는 손잡이 구움과자 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20261110/8a92e1679f84622e2cb1996c6c446418.png",
+  "options": [
+    {
+      "label": "손잡이 3구",
+      "size": "130 × 85 × 45",
+      "unit": "50개",
+      "unitPrice": "220원",
+      "price": "11,000원"
+    },
+    {
+      "label": "손잡이 5구",
+      "size": "220 × 85 × 45",
+      "unit": "50개",
+      "unitPrice": "280원",
+      "price": "14,000원"
+    },
+    {
+      "label": "손잡이 6구",
+      "size": "260 × 85 × 45",
+      "unit": "50개",
+      "unitPrice": "320원",
+      "price": "16,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "휘낭시에 · 마들렌 답례품 포장으로",
+    "desc": "펼친 상태로 배송되고\n간단히 조립하면 완성돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/b6119575fc1c035a13b66da609ad3f20.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/6291587f2cf527a379986b5850090b82.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/136ae5b978a48ada3d4b500ce2c8993d.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달린\n답례용 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/6284bd3abb99bda750ffa24dbd4ffcb3.jpg"
+    },
+    {
+      "title": "쌓을 수 있는 구조",
+      "desc": "손잡이를 꽂아서\n대량 포장 때 쌓을 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/e4c211355b8cf20703e28fc1251749b9.jpg"
+    },
+    {
+      "title": "코팅 없는 식품용지",
+      "desc": "종이 본연의 질감을\n살린 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/7560f687b470cfb8e4023c2602dbda3e.jpg"
+    },
+    {
+      "title": "휘낭시에 · 마들렌",
+      "desc": "둘 다 들어가는\n사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/adf8d2a56b526dbb10e07c48fb1d2ff5.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손잡이 휘낭시에 박스",
+      "desc": "3구 · 5구 · 6구",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20261110/72367f7809caab5375710617ca793585.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261110/3cfcb177b66b25334505b8787425790c.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261110/2df7de094f9536fac8df2d1ee566013a.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20261110/224c73a4f5991c180e16154681008576.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "505",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=505&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/u78GTmqNVnI",
+  "name": "화과자 6구 원터치 박스",
+  "tagline": "펼쳐서 바로 쓰는 투명창 원터치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260716/75975577dad023f701953aabab743454.jpg",
+  "options": [
+    {
+      "label": "화과자 6구",
+      "size": "180 × 125 × 50",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 디저트 답례품 포장으로",
+    "desc": "포장 시간을 줄여 주는\n간편한 상자예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/7071d0c398208cb17fa30fc9c054155e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/61c72154f0c7e6b03c1b8e632e35e0c7.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/b9f4c2cc1500494a0c08009c6c513a54.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "원터치 사면접착",
+      "desc": "펼쳐서 바로 쓰는\n원터치 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/6a512be5614e595a2dca40b11cde0e04.jpg"
+    },
+    {
+      "title": "큰 아스테지 창",
+      "desc": "두꺼운 아스테지 창을\n최대한 키웠어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/03fd1fa6e14c590d11c2eb8d2c1e7afd.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n위생적이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/a5f055bbfed859026043e813ae9dd9d1.jpg"
+    },
+    {
+      "title": "화과자 케이스 6개",
+      "desc": "화과자 케이스 6개가\n맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/4cbc8c07f818ad9215de72b937ebdd2b.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "화과자 6구",
+      "desc": "180 × 125 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260716/f17c855530b2da95e8dc4c31de5603a5.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260716/409d43da986b16a079b5ba484fdff528.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260716/0893f55c19b24749b25448feb8b66d1e.jpg"
+      ]
+    }
+  ]
+}

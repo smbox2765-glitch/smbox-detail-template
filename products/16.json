@@ -1,0 +1,79 @@
+{
+  "id": "16",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=16&cate_no=43&display_group=1",
+  "name": "수제청 박스 (1구 · 2구)",
+  "tagline": "작은 병을 담는 검정 투명창 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/98846218e2e640d3af7f6898fb9280cb.png",
+  "options": [
+    {
+      "label": "1구",
+      "size": "91 × 86 × 129",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    },
+    {
+      "label": "2구",
+      "size": "175 × 86 × 129",
+      "unit": "50개",
+      "unitPrice": "950원",
+      "price": "47,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "수제청 공방 · 카페",
+    "how": "수제청 · 작은 병 포장으로",
+    "desc": "과일청, 수제청 답례품을\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a636c3304eb7645a718a0151dae2c415.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e3d0941406250678476e78c2205bed93.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/64106af75b28b6bb30c581d957e497c2.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9079f90b782fe986ea4d9a30ab63a055.jpg"
+    },
+    {
+      "title": "투명창",
+      "desc": "창으로 담긴 병이\n보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/004da1ff7b5bef9eaba292b8718b85f8.jpg"
+    },
+    {
+      "title": "양수 E골 검정",
+      "desc": "튼튼한 검정 E골로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/37091f0ec749854afd8fbe2803154aca.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "1구",
+      "desc": "91 × 86 × 129 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5277f8cf1390043c2c86db80b184b221.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/03/f315040e18e6362_15858782113711590808.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/03/f315040e18e6362_15858782214093492584.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/03/f315040e18e6362_15858782257342688088.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    },
+    {
+      "title": "2구",
+      "desc": "175 × 86 × 129 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ba6ff2d9e89d234ecb5fbf7c14f35ade.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/03/f315040e18e6362_15858784198694486423.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2416aa6b821dc72de5012f23f2013dc5.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/03/f315040e18e6362_15858784395509623912.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "503",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=503&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/4IQLQBfYjnY",
+  "name": "휘낭시에 트레이 · PET 맞뚜껑",
+  "tagline": "휘낭시에를 1개씩 담는 트레이와 투명 뚜껑",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260713/7ade4537f749fe0a48f0c8bfbd71f642.jpg",
+  "options": [
+    {
+      "label": "트레이만",
+      "size": "50 × 85 × 25",
+      "unit": "100개",
+      "unitPrice": "40원",
+      "price": "4,000원"
+    },
+    {
+      "label": "트레이 + PET 맞뚜껑",
+      "size": "52 × 40 × 87",
+      "unit": "100개",
+      "unitPrice": "190원",
+      "price": "19,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "휘낭시에 · 구움과자 포장으로",
+    "desc": "카페에 진열해 두고\n바로 판매하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/6ca4c2b1a4161915926b0bd5848e2c3a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/8090ddb742e904773b6a38c0e412be5b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/2aef21fe29aff229ed23e57e36b24bab.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "식품 무광코팅 트레이",
+      "desc": "위생적이고 안전한\n식품용지 트레이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/28e1a865e074df57662ef6df452e3a9e.jpg"
+    },
+    {
+      "title": "투명 PET 맞뚜껑",
+      "desc": "투명하고 깨끗해서\n상품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/d39692283f93b3d1f219358ae5ed5eca.jpg"
+    },
+    {
+      "title": "외부 접착 PET",
+      "desc": "접착 부위가 바깥이라\n상품에 닿지 않아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/1fbe410220930aa78d715e2403ab6634.jpg"
+    },
+    {
+      "title": "트레이만 구매 가능",
+      "desc": "휘낭시에 트레이만\n따로 살 수도 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/b4b1ec8e40543bc38ee1884659d42110.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "휘낭시에 트레이 1구",
+      "desc": "트레이 · PET 맞뚜껑",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/89fa858dfa11dd9604ffd5ab5e497cad.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/5ea1bf2a5578ee3390bce25e12228fee.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/d502ee7b20b920cb868dc53a9d9512cd.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/b4b1ec8e40543bc38ee1884659d42110.jpg",
+        "text": "트레이 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

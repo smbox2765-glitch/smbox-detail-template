@@ -1,0 +1,71 @@
+{
+  "id": "92",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=92&cate_no=43&display_group=1",
+  "name": "손잡이 쿠키 박스 (소 · 대)",
+  "tagline": "르뱅쿠키 · 오란다를 담는 흰색 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/415966ec0c1d30ac7921e10a8184d7fd.jpg",
+  "options": [
+    {
+      "label": "쿠키(소)",
+      "size": "105 × 100 × 105",
+      "unit": "50개",
+      "unitPrice": "370원",
+      "price": "18,500원"
+    },
+    {
+      "label": "쿠키(대)",
+      "size": "210 × 100 × 105",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "르뱅쿠키 · 오란다 포장으로",
+    "desc": "쿠키, 오란다 등\n디저트를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c25ee6ab5b63561ae3eacf2b77f2a3eb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/05453c503e7ca1b2081743feea882886.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/1123a14da7b823a_16043025620749281966.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d4b507f450d99655cad4b01a9f3191e3.jpg"
+    },
+    {
+      "title": "RIV350g 무광코팅",
+      "desc": "흰색 RIV350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/239c13ff4ad6ebd8b7384ca6d7c75762.jpg"
+    },
+    {
+      "title": "소 · 대 두 가지",
+      "desc": "담을 양에 맞춰\n크기를 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bd4d9ec4b34abe79fd3b2fb1305e188a.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "쿠키(소)",
+      "desc": "105 × 100 × 105 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1cf577c13e69503f3dab30576a57819d.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/1123a14da7b823a_16043025271831171745.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/8637be9f4616d81_16043063355608510269.png"
+      ]
+    },
+    {
+      "title": "쿠키(대)",
+      "desc": "210 × 100 × 105 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/1123a14da7b823a_16043025013968279161.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/1123a14da7b823a_16043025093639450521.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/02/8637be9f4616d81_16043073287645211708.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "455",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=455&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/48or0NDMHok",
+  "foldVideo": "https://www.youtube.com/embed/ivB38Ym-wwI",
+  "name": "컵케이크 · 머핀 투명 PET 박스",
+  "tagline": "투명 PET 뚜껑으로 덮는 4구 · 6구 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/2b951f53fed9b2e75d1a55e92251cf83.png",
+  "options": [
+    {
+      "label": "4구",
+      "size": "지름 65 · 높이 110",
+      "unit": "50개",
+      "unitPrice": "1,100원",
+      "price": "55,000원"
+    },
+    {
+      "label": "6구",
+      "size": "지름 65 · 높이 110",
+      "unit": "50개",
+      "unitPrice": "1,200원",
+      "price": "60,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "컵케이크 · 앙금플라워 포장으로",
+    "desc": "높이가 넉넉해서\n앙금플라워 케이크도 담을 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/fa8dc5fe627418dd23710d254442f844.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/7e12b7d2d76cae38df52c93a63537d85.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/19ad4f33c7be0e048b6666737bdda098.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "제품이 선명하고\n깔끔하게 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/052df79adbe84e964840e18901683617.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "식품용지에 무광코팅을 해서\n위생적이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/8d8e756f3da78e92d77fb70f19836598.jpg"
+    },
+    {
+      "title": "칸 지름 65mm · 높이 110mm",
+      "desc": "머핀, 앙금플라워, 컵케이크,\n에그타르트까지 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/5cdc028766ed837531e49972a94d3b8d.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "4구",
+      "desc": "칸 4개",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/cbb3d18eedbbd3027e7eef7a3d887837.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250916/0e9e12d3b63a490185143967c928db19.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250916/b06b65f2355dcda38ba2732c90e1a97d.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250915/97a1810f0cb257f3d726340d0e4c49ae.jpg",
+        "text": "박스 + 칸막이 + PET 뚜껑"
+      }
+    },
+    {
+      "title": "6구",
+      "desc": "칸 6개",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/6a6cf5031f25dd9709d81619806fedd6.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250915/d9ef638f555547831e7c585df01ba15b.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250915/2b4cbd1bc12f4bb7f6a0300164da38d8.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250915/43e39979f49a5487eafca2a6d74594be.jpg",
+        "text": "박스 + 칸막이 + PET 뚜껑"
+      }
+    }
+  ]
+}

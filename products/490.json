@@ -1,0 +1,66 @@
+{
+  "id": "490",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=490&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/ACZIleLtUX8",
+  "foldVideo": "https://www.youtube.com/embed/zTVvgzPN5sI",
+  "name": "무지 스파게티 박스",
+  "tagline": "배달 · 테이크아웃용 흰색 파스타 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/bac863fb0d45d9c5e8d74856bcc1afa8.png",
+  "options": [
+    {
+      "label": "스파게티 박스",
+      "size": "195 × 150 × 42",
+      "unit": "50개",
+      "unitPrice": "220원",
+      "price": "11,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "식당 · 배달 매장",
+    "how": "스파게티 · 파스타 포장으로",
+    "desc": "호일은 포함되지 않아요.\n두꺼운 합지 박스가 아니에요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/1d35763efaa8368aad9414f7761b1585.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/74306d9dbe1b2894657dc3ec94a8e288.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/27ccca9a2638b6eed0fae86c39f92cc1.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "고급 식품용지 350g",
+      "desc": "더 두꺼운 350g\n식품용지로 만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/edab093d7d6f170c36eb15b6a48da8c5.jpg"
+    },
+    {
+      "title": "반원 손잡이",
+      "desc": "앞쪽 반원 손잡이로\n열고 닫기 쉬워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/82e80bfa8c1ef12be3c27f2cc9bc4aef.jpg"
+    },
+    {
+      "title": "숨구멍",
+      "desc": "뒤쪽 숨구멍으로\n눅눅해지는 걸 막아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/6e47fceee0c360a46923b6bfaf5b288d.jpg"
+    },
+    {
+      "title": "무지 상자",
+      "desc": "상호명 스티커나\n스탬프를 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/a057a7e445603a9d86f5e8743bbb100c.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "스파게티 박스",
+      "desc": "195 × 150 × 42 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/6c33e5b65334d9ddeb8c0ca1b2804f55.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260506/e769b07eec45613b33d54c1ac1d1ec2f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260506/ebbd2a9c0c0f238c626ae531d6ac5a38.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260506/e7a0a72a4b6279a86e948b05366e16c1.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

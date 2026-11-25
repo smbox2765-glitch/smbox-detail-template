@@ -1,0 +1,78 @@
+{
+  "id": "444",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=444&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/CinfGl16v_o",
+  "foldVideo": "https://www.youtube.com/embed/egZe94EJL_c",
+  "name": "에그타르트 원터치 박스 (4구 · 6구)",
+  "tagline": "포장 시간을 줄여 주는 투명창 원터치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/2a6812683a5fce6148cf70813bf5348e.png",
+  "options": [
+    {
+      "label": "원터치 4구",
+      "size": "154 × 154 × 48",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    },
+    {
+      "label": "원터치 6구",
+      "size": "231 × 154 × 48",
+      "unit": "50개",
+      "unitPrice": "650원",
+      "price": "32,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "에그타르트 포장으로",
+    "desc": "투명창으로 에그타르트가\n잘 보여요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/ade7d6c05bb2b7eedc5af3ea2913cebb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/9947147570d69b70a7e0c567b3776dcb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/b94e9ba1c1edb96a249f1d00c34fbad3.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "원터치 박스",
+      "desc": "펼치기만 하면 돼서\n포장 시간이 줄어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250702/ab8a8777344d597a14bd50c154679fdd.jpg"
+    },
+    {
+      "title": "칸막이 포함",
+      "desc": "칸막이가 들어 있어\n포장하기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250702/140d30f0dd62d3b84bb513cd4ef39c5e.jpg"
+    },
+    {
+      "title": "한 칸 75×75×48mm",
+      "desc": "에그타르트를\n한 칸에 하나씩 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/8e29ca9b4f98907540231500503ee870.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n위생적이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250702/f2bf472e45944b3628c832f6f782814c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "원터치 4구",
+      "desc": "154 × 154 × 48 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/8e29ca9b4f98907540231500503ee870.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250703/d43f1a96e7f1a3bfa6e1e2b12ad6a32c.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/d07318c5e4e8492a569c1b6bab9bc4a5.jpg"
+      ]
+    },
+    {
+      "title": "원터치 6구",
+      "desc": "231 × 154 × 48 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250702/a13b9da99fc09d30fcbf00d7952e9911.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/b3bbb247f3b516c3e327e9dc75a7c3b4.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/670c14dacd32424a10632922d6024570.jpg"
+      ]
+    }
+  ]
+}

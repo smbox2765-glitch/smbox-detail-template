@@ -1,0 +1,101 @@
+{
+  "id": "441",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=441&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/jjPbMZHTzl8",
+  "foldVideo": "https://www.youtube.com/embed/e9uoiHi1d8c",
+  "name": "오란다 박스 (끈 손잡이)",
+  "tagline": "큰 창으로 오란다가 보이는 팁끈 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/b8414320d98ff1918c98b7fc28988c13.jpg",
+  "options": [
+    {
+      "label": "소 · 오크색",
+      "size": "150 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "540원",
+      "price": "27,000원"
+    },
+    {
+      "label": "소 · 초록 리본",
+      "size": "150 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "소 · 연분홍 리본",
+      "size": "150 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "대 · 오크색",
+      "size": "200 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "640원",
+      "price": "32,000원"
+    },
+    {
+      "label": "대 · 초록 리본",
+      "size": "200 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    },
+    {
+      "label": "대 · 연분홍 리본",
+      "size": "200 × 100 × 100",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "오란다 · 디저트 포장으로",
+    "desc": "식품용지에 무광코팅을 해서\n수분, 유분에 강해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250610/a6fc1deef7dc336e61945f19ed022689.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494332509813976947.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334754946214250.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "큰 아스테지 창",
+      "desc": "창을 최대로 키워\n상품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250610/3e4d1f2fcb0205ea3028b40d2b0215dc.jpg"
+    },
+    {
+      "title": "삼면접착 밑면",
+      "desc": "조립이 간편하고\n물건이 빠지지 않아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494333275586262854.jpg"
+    },
+    {
+      "title": "소 5~6개 · 대 7~9개",
+      "desc": "세우고 눕혀서\n오란다를 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250610/6d16554e314b13adf83cea3f8d788599.jpg"
+    },
+    {
+      "title": "팁끈 세 가지",
+      "desc": "오크색, 초록 리본,\n연분홍 리본 중에 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/10/75448bdf5a5d43e_17495158332894949454.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "오란다 박스",
+      "desc": "소 150×100×100 · 대 200×100×100",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494331829587416948.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494331934192396077.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334196742221845.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_1749433501951533368.jpg",
+        "text": "박스 + 팁끈 (펼친 모습)"
+      }
+    }
+  ]
+}

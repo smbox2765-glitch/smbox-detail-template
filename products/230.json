@@ -1,0 +1,80 @@
+{
+  "id": "230",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=230&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/OnFyrQjcTWE",
+  "name": "르뱅쿠키 · 롤케이크 박스",
+  "tagline": "투명 뚜껑으로 디저트가 보이는 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/5d07e255b1197cadad587944161b7717.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "188 × 105 × 105",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    },
+    {
+      "label": "분홍",
+      "size": "188 × 105 × 105",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "르뱅쿠키 · 롤케이크 포장으로",
+    "desc": "오란다, 쿠키 등\n여러 디저트를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/084a4da34dffb6b0407de2095485c87b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e059c8b39355cb7545165031bff4e803.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877431635203631859.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "투명창 뚜껑으로\n제품이 선명하게 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b0c9892893c1a4ea04540a15aee5814f.jpg"
+    },
+    {
+      "title": "로얄아이보리 무광코팅",
+      "desc": "식품용지라 바로\n담아서 판매할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c79108885530406e88144015e80d80ef.jpg"
+    },
+    {
+      "title": "188×105×105mm",
+      "desc": "르뱅쿠키, 롤케이크 등\n디저트 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/6584d77fe55e62f_16877471789621349378.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "188 × 105 × 105 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877431684009429515.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877431785659502883.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877431847096305004.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877431932964306681.jpg",
+        "text": "담는 박스 + 밑판 + PET 뚜껑"
+      }
+    },
+    {
+      "title": "분홍",
+      "desc": "188 × 105 × 105 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877432018868188545.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877432071474963253.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877432127983731713.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/26/66bea8a27ed0823_16877432231507872225.jpg",
+        "text": "담는 박스 + 밑판 + PET 뚜껑"
+      }
+    }
+  ]
+}

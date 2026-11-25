@@ -1,0 +1,71 @@
+{
+  "id": "196",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=196&cate_no=43&display_group=1",
+  "name": "D-2 하우스박스",
+  "tagline": "손잡이가 달린 작은 하우스 모양 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/b97648fe37dd5392b1475bbc40e7ffa6.jpg",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "100 × 100 × 50",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    },
+    {
+      "label": "크라",
+      "size": "100 × 100 × 50",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "쿠키 · 디저트 답례품 포장으로",
+    "desc": "작고 귀여운 모양이라\n답례품으로 나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/deb82180fb30d07718f2fe81d699618e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000241392241965.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/739fb2556d648ad7e3680e8d0f4fe08a.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 하우스 모양",
+      "desc": "손잡이가 달린\n하우스 모양 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/7276ee370099eb3a999c32e4e3e5f658.jpg"
+    },
+    {
+      "title": "흰색 · 크라프트",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000310597875820.jpg"
+    },
+    {
+      "title": "100×100×50mm",
+      "desc": "쿠키, 디저트를\n담기 좋은 작은 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2bcd7162d09f3d27668200e7c0c2ea43.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "100 × 100 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000385093503200.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000448805929772.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000525109196108.jpg"
+      ]
+    },
+    {
+      "title": "크라",
+      "desc": "100 × 100 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fa57ea78060bd939a61d538ebc826d18.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/02/5d4ba347bb40325_14937000310597875820.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/739fb2556d648ad7e3680e8d0f4fe08a.jpg"
+      ]
+    }
+  ]
+}

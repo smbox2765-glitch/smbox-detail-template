@@ -1,0 +1,83 @@
+{
+  "id": "454",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=454&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/dSrIaU0qRio",
+  "foldVideo": "https://www.youtube.com/embed/K_bsqcwRvB4",
+  "name": "높은 에그타르트 박스 (2 · 3 · 4 · 6구)",
+  "tagline": "대왕 에그타르트도 담는 높은 칸막이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/935b02ade9344cf714b15bc34edce385.png",
+  "options": [
+    {
+      "label": "높은 2구",
+      "size": "157 × 77 × 70",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "높은 3구",
+      "size": "234 × 77 × 70",
+      "unit": "50개",
+      "unitPrice": "470원",
+      "price": "23,500원"
+    },
+    {
+      "label": "높은 4구",
+      "size": "157 × 154 × 70",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    },
+    {
+      "label": "높은 6구",
+      "size": "234 × 154 × 70",
+      "unit": "50개",
+      "unitPrice": "650원",
+      "price": "32,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "에그타르트 포장으로",
+    "desc": "여닫기 쉬운 상자라\n대량 포장에도 편해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250908/d6107aef2cb4a8dd490ab10e151cd08f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250908/4cf97d2466e2eda0a4fcf9a66f848178.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250908/c77c31417675c6e1f688f1e0caffc981.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "칸막이 포함",
+      "desc": "칸막이가 들어 있어\n포장하기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250908/3788183c36404821b1027d819f3d1fd2.jpg"
+    },
+    {
+      "title": "한 칸 75×75×70mm",
+      "desc": "대왕 에그타르트도\n담을 수 있는 높이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250908/3761f6e6d3871618e2b440ab6f1313d6.jpg"
+    },
+    {
+      "title": "칸막이와 같은 높이",
+      "desc": "상품끼리 닿지 않고\n쌓아도 덜 눌려요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250905/50f02894c27da0bbb4390619a3c80573.jpg"
+    },
+    {
+      "title": "식품 무광코팅",
+      "desc": "유분, 수분에 강하고\n바로 담아도 돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250905/ab2b5744a2ff9b57ba6f964e08fe9176.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "높은 에그타르트 박스",
+      "desc": "2구 · 3구 · 4구 · 6구",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250905/3ee6c64a36292ba916289d0bf042fd57.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250908/7e21c71eef5643ac3f2095f7dd084535.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/bab9c92592b47c1f52526cc85616e748.jpg"
+      ]
+    }
+  ]
+}

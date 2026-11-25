@@ -1,0 +1,65 @@
+{
+  "id": "500",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=500&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/y-DD0Ax3oa8",
+  "name": "에그타르트 트레이 + PET 맞뚜껑 세트",
+  "tagline": "트레이와 투명 맞뚜껑이 한 세트인 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260713/4308c6c3c3f0c749c5074288c6d1cfc8.jpg",
+  "options": [
+    {
+      "label": "트레이 + PET 맞뚜껑",
+      "size": "75 × 75 × 30",
+      "unit": "100개",
+      "unitPrice": "220원",
+      "price": "22,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "에그타르트 포장으로",
+    "desc": "카페에 진열해 두고\n바로 판매하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/7dae84bf18e5acf5cb447f5842ab2a48.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/860f4b80ff44c6ac2a1c2831c35149b8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/8f35704a31d9f15a60760881124924e7.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 맞뚜껑",
+      "desc": "투명하고 깨끗해서\n상품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/32eb04ff66de6c7025f5ecc76fccbfa8.jpg"
+    },
+    {
+      "title": "식품 무광코팅 트레이",
+      "desc": "위생적이고 안전한\n식품용지 트레이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/1c9ddb31b3a3e72b5bc143bb35cb0aeb.jpg"
+    },
+    {
+      "title": "외부 접착 PET",
+      "desc": "PET 접착면이 바깥이라\n상품에 닿지 않아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/659496793c4d2e36372109098d2335a7.jpg"
+    },
+    {
+      "title": "PET 77×50×77mm",
+      "desc": "펼친 상태로 나가고\n맞뚜껑으로 쉽게 조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/f0d3a9d06827cf41efa4c8716f231b5c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "트레이 + PET 맞뚜껑",
+      "desc": "트레이 75×75×30 · PET 77×50×77",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/11cf3aa5b522ff5105c61dfae0c3b75a.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/8fc6fc25fe9b39ae7d997bc7789d6b03.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/e04731667cf40424e292c5e46d34adbc.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/a35a0675f825baa93bfa3b7ee36545b9.jpg",
+        "text": "트레이 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

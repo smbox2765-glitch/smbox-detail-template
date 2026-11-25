@@ -1,0 +1,72 @@
+{
+  "id": "23",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=23&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/tOsDxenaBpI",
+  "name": "다쿠아즈 박스 (소 · 대)",
+  "tagline": "구움과자가 보이는 투명창 디저트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/5a6e0a0d01a95ca1cbe8c18d71b85a18.png",
+  "options": [
+    {
+      "label": "소",
+      "size": "190 × 80 × 55",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "대",
+      "size": "190 × 160 × 55",
+      "unit": "50개",
+      "unitPrice": "600원",
+      "price": "30,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "다쿠아즈 · 구움과자 포장으로",
+    "desc": "필링 두께에 따라 수량이 달라요.\n박스 사이즈를 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/656892a0cfd90fa1bf52098dd92042c5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/de2f178e5d0fc539cf4500d20861a9df.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/04/7b57b42bb02d0a7_15754192136314333770.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "두꺼운 아스테지 창",
+      "desc": "투명하고 깔끔하게\n제품이 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/22c5a1d93032ff0d3b1e0529562327f9.jpg"
+    },
+    {
+      "title": "식품용지 무광코팅",
+      "desc": "유분, 수분에 강하고\n바로 담아도 돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/4c59af73476c3f39f486bb208283a533.jpg"
+    },
+    {
+      "title": "소 5구 · 대 10구",
+      "desc": "기본 필링 두께 기준으로\n소 5개, 대 10개가 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9e0bf49b1e1524ffbdadeab0d63bc800.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "소",
+      "desc": "190 × 80 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/000f33e6107c62c5591655e756da3999.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/04/7b57b42bb02d0a7_15754192476875535463.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/04/7b57b42bb02d0a7_15754192646648692950.jpg"
+      ]
+    },
+    {
+      "title": "대",
+      "desc": "190 × 160 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d3076bf71e9e9042b1ae4bf567c640ef.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/04/7b57b42bb02d0a7_15754198088468614142.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7ec68be3488e864efe252f481f4a18c1.jpg"
+      ]
+    }
+  ]
+}

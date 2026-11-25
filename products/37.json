@@ -1,0 +1,60 @@
+{
+  "id": "37",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=37&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/PCD2s-CIWxs",
+  "name": "쿠키 박스 (투명 뚜껑)",
+  "tagline": "리본 홈이 있는 크라프트 투명창 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/b290516db228a9ebc0c634f9d3c6500a.jpg",
+  "options": [
+    {
+      "label": "쿠키박스",
+      "size": "170 × 170 × 85",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "쿠키 · 디저트 선물 포장으로",
+    "desc": "리본과 초핑지는\n포함되지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984376929476203143.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/61e8f192ed58a07c6a67f541362d43d3.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5357b869d33904a37751d101a487e3f7.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PVC 뚜껑",
+      "desc": "투명 뚜껑으로\n담긴 쿠키가 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f728f0545cff293e254b45ae9d729ed1.jpg"
+    },
+    {
+      "title": "리본 홈",
+      "desc": "PVC 사방에 홈이 있어\n리본 장식이 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043636341802843388.jpg"
+    },
+    {
+      "title": "무염료 크라프트350g",
+      "desc": "내추럴한\n무염료 크라프트지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043636241206910248.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "쿠키박스",
+      "desc": "170 × 170 × 85 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043636295482177270.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_1604363638638642262.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/89819a53fcd0c1415c52c01828aab149.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/11/03/0e74f16d54e6f92_16043636517674963839.jpg",
+        "text": "박스 + PVC 뚜껑 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "495",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=495&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/gQDYXilPUCo",
+  "foldVideo": "https://www.youtube.com/embed/SxqttpYBsDc",
+  "name": "드립백 박스 (5개입 · 10개입)",
+  "tagline": "끈 손잡이를 고를 수 있는 드립백 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260603/f144a0fddafa4c2b5b8dc0ec4514c387.png",
+  "options": [
+    {
+      "label": "5개입 상자만",
+      "size": "110 × 55 × 130",
+      "unit": "50개",
+      "unitPrice": "230원",
+      "price": "11,500원"
+    },
+    {
+      "label": "5개입 끈 포함",
+      "size": "110 × 55 × 130",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    },
+    {
+      "label": "10개입 상자만",
+      "size": "110 × 90 × 130",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    },
+    {
+      "label": "10개입 끈 포함",
+      "size": "110 × 90 × 130",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 로스터리",
+    "how": "드립백 답례품 포장으로",
+    "desc": "드립백 10g 기준이에요.\n중량에 따라 수량이 달라질 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/12150308e2e95fb02b1a0c2250748203.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/f5b58ebd18dc596c22525a02bbfcab2e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/5402d7fa22683d4a0ab23c91a21fe194.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 포함 · 끈 없이",
+      "desc": "끈 손잡이가 있는 상자와\n상자만 중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/98bf345a88d0b2f7245ec2cc8cc56016.jpg"
+    },
+    {
+      "title": "코팅 없는 식품용지",
+      "desc": "겉은 아이보리, 안은 흰색인\n종이 본연의 재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/1bda3b6667b8966a14fdacf1dae97abc.jpg"
+    },
+    {
+      "title": "원터치 밑면",
+      "desc": "삼면접착이라\n펼치면 완성돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/2ffb0191cd96153e1cd97275d8071fc3.jpg"
+    },
+    {
+      "title": "끈 구멍",
+      "desc": "끈 없는 상자도 끈 자리를 누르면\n구멍이 생겨요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260603/8db8345e27a60998369f0e55a002c998.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "드립백 박스",
+      "desc": "5개입 110×55×130 · 10개입 110×90×130",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260603/948f092f205f2a6c2b222453271eaa9e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260603/4a8525ab1b383909b5fcbdbb1f36944e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260603/f60ffc0cc493bae0f167fc7af91f9c0e.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260603/9c83d8c718dcf8b25d395117daebb9d1.jpg",
+        "text": "박스 + 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

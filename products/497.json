@@ -1,0 +1,55 @@
+{
+  "id": "497",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=497&cate_no=43&display_group=1",
+  "name": "드립백 PET 손잡이 박스",
+  "tagline": "드립백이 보이는 투명 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/4565587bc85ea894abcd3cad296132f5.jpg",
+  "options": [
+    {
+      "label": "드립백 PET",
+      "size": "105 × 105 × 135",
+      "unit": "50개",
+      "unitPrice": "580원",
+      "price": "29,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 로스터리",
+    "how": "드립백 답례품 포장으로",
+    "desc": "드립백은 포함되지 않아요.\nPET 상자만 판매해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/f15025de9214b89e848c99c037e6bde3.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/2280cd5b56aa3c6805939aafd69358e8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260611/02911e4e2d851c2ba39181af1b4b4f3a.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET",
+      "desc": "투명해서 내용물이\n잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/f15025de9214b89e848c99c037e6bde3.jpg"
+    },
+    {
+      "title": "삼면접착 밑면",
+      "desc": "펼치면 완성되고\n물건이 빠지지 않아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/2280cd5b56aa3c6805939aafd69358e8.jpg"
+    },
+    {
+      "title": "드립백 10~12개",
+      "desc": "드립백이 10~12개\n정도 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260611/8bd664fa2ac88f4c2d1ecf24c6b91d8c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "드립백 PET",
+      "desc": "105 × 105 × 135 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/2280cd5b56aa3c6805939aafd69358e8.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260611/496a3f18c204b57941272912d2329594.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260611/f15025de9214b89e848c99c037e6bde3.jpg"
+      ]
+    }
+  ]
+}

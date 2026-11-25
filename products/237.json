@@ -1,0 +1,67 @@
+{
+  "id": "237",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=237&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/5jHQ9yertlM",
+  "name": "파이 · 타르트 박스",
+  "tagline": "손잡이 창이 있는 받침 포함 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/ce9f59b545aadc010bf950d92eaa0f55.png",
+  "options": [
+    {
+      "label": "소",
+      "size": "165 × 165 × 60",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    },
+    {
+      "label": "대",
+      "size": "205 × 205 × 65",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "파이 · 타르트 포장으로",
+    "desc": "호두파이, 치즈케이크 등\n동그란 디저트를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d80351ecc55194273bb617230c8a2e8f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8e71af615071743116ab9c77be297138.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/01/02/21bca7ac9b65c74_15779508762917723699.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 창",
+      "desc": "손잡이 부분에\n아스테지 창이 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/48bd46eb4266cf9ffe6a49a472aeddf5.jpg"
+    },
+    {
+      "title": "RIV450g 무광코팅",
+      "desc": "식품지라 음식이\n바로 닿아도 괜찮아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/4c075ff35443fc5509ef0c009a38a76a.jpg"
+    },
+    {
+      "title": "받침 포함",
+      "desc": "소 받침 160×160mm\n대 받침 200×200mm",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f492d3fd3578250e6a4204f5eb9f3875.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "파이박스",
+      "desc": "소 165×165×60 · 대 205×205×65",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/01/02/8784f6f9d97bf5e_15779462123267411690.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/0c49a95987ed289a79cd606a0460db70.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c7cbc23ac98da7923dc04eec8660e495.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/01/02/f4b51277ec34dee_15779329081948736912.jpg",
+        "text": "박스 + 받침"
+      }
+    }
+  ]
+}
