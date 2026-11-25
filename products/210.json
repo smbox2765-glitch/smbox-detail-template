@@ -1,0 +1,79 @@
+{
+  "id": "210",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=210&cate_no=43&display_group=1",
+  "name": "C형 비누 1구 상자",
+  "tagline": "한 장을 접어 만드는 흰색 · 크라 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/45ceba83d34c4d8a5f3ee48714574b3e.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "80 × 80 × 35",
+      "unit": "50개",
+      "unitPrice": "140원",
+      "price": "7,000원"
+    },
+    {
+      "label": "크라",
+      "size": "80 × 80 × 35",
+      "unit": "50개",
+      "unitPrice": "150원",
+      "price": "7,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 쥬얼리 공방",
+    "how": "선물 포장으로",
+    "desc": "작은 선물을 하나씩 담기\n좋은 사이즈예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267514739195751.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/440362d208805749d2ee56df84e179c8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3a1c6aa97ab7c979e37da3ac61f21f62.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 · 크라",
+      "desc": "흰색은 RIV350g 무광코팅\n크라는 크라350g이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267580226205389.jpg"
+    },
+    {
+      "title": "다용도 상자",
+      "desc": "비누, 쥬얼리, 악세사리 등\n여러 가지로 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878268126762704541.jpg"
+    },
+    {
+      "title": "한 장으로 접는 상자",
+      "desc": "펼친 한 장을 접어서\n만드는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878268051433542630.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "80 × 80 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267670605661667.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/16c89ec539f52aeb6993124444a66e99.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267761686713276.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267809054408371.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "크라",
+      "desc": "80 × 80 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878267893831265637.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d5928e5306b9f948bfaa7a7b01c95573.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878268001474301996.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bd28faf9b9c7ad5e2b013305d07ec7a2.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

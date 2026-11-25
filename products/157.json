@@ -1,0 +1,65 @@
+{
+  "id": "157",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=157&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/bLEZY12MLI8",
+  "name": "수E골 1구 조립식 상자 (검정)",
+  "tagline": "비누 · 쥬얼리를 담는 E골 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/00f326dc83bf6dc33213bd1af090cc2d.jpg",
+  "options": [
+    {
+      "label": "수E골 1구(검정)",
+      "size": "95 × 90 × 30",
+      "unit": "300개",
+      "unitPrice": "330원",
+      "price": "99,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 쥬얼리 공방",
+    "how": "선물 포장으로",
+    "desc": "300개 단위라\n대량 포장에 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/336f82e665fa1023aaa34f456fc431d9.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c470f954c182243d559f5c44fc45c19f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5cfc2b5e26dea20ad02e7789ce149d88.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흑색 양면 E골",
+      "desc": "안팎 모두 검정색인\nE골 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_15838917273897537386.jpg"
+    },
+    {
+      "title": "내경 86×86×30mm",
+      "desc": "외경 95×90×30mm\n(가로×세로×높이)",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_1583891731499887224.jpg"
+    },
+    {
+      "title": "조립식 C형 박스",
+      "desc": "펼친 상태에서 접어\n조립하는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3fd4b8dc0cbfb39af81027b9ce2d8265.jpg"
+    },
+    {
+      "title": "다용도 상자",
+      "desc": "비누, 쥬얼리, 악세사리 등\n여러 가지로 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_15838917401084820403.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "수E골 1구(검정)",
+      "desc": "95 × 90 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_15838917360272837399.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_15838917440098140690.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1a96284d20cb54372a55d78cb5252304.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/03/11/bc440a7d4e8a579_15838917543273291073.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "154",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=154&cate_no=43&display_group=1",
+  "name": "레이스 레이저 비누박스",
+  "tagline": "레이스 무늬로 커팅한 고급 답례 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/72ac5915e397cdc5354f3aaba46de3c0.jpg",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "102 × 33 × 80",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    },
+    {
+      "label": "검정",
+      "size": "102 × 33 × 80",
+      "unit": "50개",
+      "unitPrice": "750원",
+      "price": "37,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "고급 답례품 포장으로",
+    "desc": "레이스 무늬가 고급스러워\n답례품으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/08124c652c3ac8722a54eb1b7dbe7144.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/486b5d8b48adf7da3eef7b0e3d05455e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_1468894099203108639.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "레이스 무늬 커팅",
+      "desc": "레이스 무늬로 커팅된\n고급스러운 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ba3ee8041b959b0e121d33bef37ff037.jpg"
+    },
+    {
+      "title": "흰색 · 검정",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/24/97093c46bfb31f5_15008777412615406412.jpg"
+    },
+    {
+      "title": "102×33×80mm",
+      "desc": "비누 하나를\n담기 좋은 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_14688941093775123858.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "102 × 33 × 80 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/10/13/223c566cd2c0929_14763276375104389468.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/10/13/223c566cd2c0929_14763276463765326767.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/10/13/223c566cd2c0929_14763276257298629737.jpg"
+      ]
+    },
+    {
+      "title": "검정",
+      "desc": "102 × 33 × 80 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_14688940875554280727.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/39ef58aa3d22117a1bf88d8b4addc1ab.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_14688941197425392846.jpg"
+      ]
+    }
+  ]
+}

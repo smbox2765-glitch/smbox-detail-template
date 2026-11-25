@@ -92,7 +92,7 @@ function render(base, fontCss, pc = false) {
       <p class="smd-eyebrow">SIZE &amp; PRICE</p>
       <h2 class="smd-h2">사이즈 · 가격 안내</h2>
       <div class="smd-card smd-table-card">
-        <table class="smd-table">
+        <table class="smd-table${p.options.length > 1 ? ' smd-table-opt' : ''}">
           <thead><tr>
             ${p.options.length > 1 ? '<th>옵션</th>' : ''}
             <th>사이즈<small><span class="smd-nw">가로×세로×높이</span> (${esc(p.sizeUnit || 'mm')})</small></th><th>주문단위</th><th>개당가격</th><th>가격</th>
@@ -301,6 +301,8 @@ const CSS = `
   .smd-pad{padding:56px 20px}
   .smd-title{font-size:30px}.smd-tagline{font-size:17px}.smd-h2{font-size:26px}
   .smd-table{font-size:15px}.smd-table th{font-size:14px;padding:14px 4px}.smd-table td{padding:16px 4px}
+  .smd-table-opt{font-size:13px;letter-spacing:-0.02em}.smd-table-opt th{font-size:12px;padding:12px 2px}.smd-table-opt th small{font-size:11px}.smd-table-opt td{padding:14px 2px}
+  .smd-table-opt .smd-opt span{min-width:0;padding:3px 6px;font-size:12px;word-break:keep-all}.smd-table-opt .smd-price{white-space:nowrap}
   .smd-feat{flex-direction:column;gap:20px;padding:24px}.smd-feat-img{flex:none;width:100%}
   .smd-ship-badge{font-size:18px;padding:10px 22px}.smd-ship-title{font-size:56px;gap:12px}.smd-ship-title em{margin-left:-12px}.smd-truck{width:62px;height:44px}
   .smd-store{padding:32px 20px;gap:16px}.smd-store-icon{flex-basis:56px;height:56px}.smd-store-icon svg{width:30px;height:30px}.smd-store-h{font-size:20px}.smd-info-lg li{font-size:15px}

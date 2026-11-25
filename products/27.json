@@ -1,0 +1,61 @@
+{
+  "id": "27",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=27&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "E골 중 3구 박스",
+  "tagline": "골판지로 만든 친환경 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/1553d7b09b0f20f3ceb6936155613773.jpg",
+  "options": [
+    {
+      "label": "E골 중 3구",
+      "size": "260 × 120 × 37",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·한과 답례품 포장으로",
+    "desc": "안에 칸막이는 따로 없어요.\n구매 전 참고해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/33b80a5980fdb94ce8a09a87bda8cf0f.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/99a72bf0dd9edcf8692221a3e0cd2be0.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401205268505828564.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401205541617308097.png"
+    },
+    {
+      "title": "칸막이 없는 상자",
+      "desc": "안에 칸막이는 따로 없어요\n구매 전 참고해 주세요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/637c8387cc0961236ec2d2942c7d61c2.png"
+    },
+    {
+      "title": "260×120×37mm",
+      "desc": "비누나 떡 3개를\n나란히 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2683e6ee87ce35187bbab62c0411a25e.png"
+    },
+    {
+      "title": "비누 · 떡 · 한과 포장",
+      "desc": "비누, 떡, 한과 답례품\n포장에 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401205736176202261.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 중 3구",
+      "desc": "260 × 120 × 37 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401205918321533555.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ccaf9f96beb47891f208278f532a2e0d.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401205093757265196.png"
+      ]
+    }
+  ]
+}

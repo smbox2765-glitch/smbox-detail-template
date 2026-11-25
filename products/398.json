@@ -1,0 +1,78 @@
+{
+  "id": "398",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=398&cate_no=43&display_group=1",
+  "name": "A3 복주머니 상자",
+  "tagline": "복주머니 모양의 파스텔 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/5427b0d575f7724faeccc74a3f81f26a.png",
+  "options": [
+    {
+      "label": "핑크",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "320원",
+      "price": "16,000원"
+    },
+    {
+      "label": "하늘",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "320원",
+      "price": "16,000원"
+    },
+    {
+      "label": "흰색",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "320원",
+      "price": "16,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 돌잔치",
+    "how": "답례품 포장으로",
+    "desc": "복주머니 모양이라\n귀여운 답례품이 돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317035523477739.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ab0bde64da6ca92a797c200311e9fb6e.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317094974631989.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "복주머니 모양",
+      "desc": "복주머니처럼 생긴\n귀여운 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317094974631989.jpg"
+    },
+    {
+      "title": "하트 구멍 손잡이",
+      "desc": "손잡이에 하트 구멍이 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317134714557661.jpg"
+    },
+    {
+      "title": "핑크 · 하늘 · 흰색",
+      "desc": "세 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ab0bde64da6ca92a797c200311e9fb6e.png"
+    },
+    {
+      "title": "RIV350g 유광코팅",
+      "desc": "RIV350g에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317180913334732.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "A3 복주머니",
+      "desc": "95 × 60 × 67 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317035523477739.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317134714557661.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317094974631989.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/25/416d21a0a116614_15640317228336723793.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "397",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=397&cate_no=43&display_group=1",
+  "name": "A2 가방 상자",
+  "tagline": "가방처럼 손잡이가 달린 파스텔 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/8fc272175eb55c17f735def530a16d44.png",
+  "options": [
+    {
+      "label": "핑크",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "180원",
+      "price": "9,000원"
+    },
+    {
+      "label": "하늘",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "180원",
+      "price": "9,000원"
+    },
+    {
+      "label": "흰색",
+      "size": "95 × 60 × 67",
+      "unit": "50개",
+      "unitPrice": "180원",
+      "price": "9,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 돌잔치",
+    "how": "답례품 포장으로",
+    "desc": "작고 귀여운 가방 모양이라\n답례품으로 나눠 주기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c37f7a6398a0d2aa00230f361f8b23e1.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768438909465969.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768561826699955.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "가방 모양 손잡이",
+      "desc": "가방처럼 손잡이가 달린\n귀여운 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e6bfc1853025685ca9e59c29d9ce7aba.png"
+    },
+    {
+      "title": "핑크 · 하늘 · 흰색",
+      "desc": "세 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768561826699955.png"
+    },
+    {
+      "title": "RIV350g 유광코팅",
+      "desc": "RIV350g에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768438909465969.png"
+    },
+    {
+      "title": "95×60×67mm",
+      "desc": "어린이집, 결혼식, 돌\n답례품으로 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7d5252eb82a467cd9fe7b37dc417355c.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "A2 가방",
+      "desc": "95 × 60 × 67 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e6bfc1853025685ca9e59c29d9ce7aba.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768561826699955.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768438909465969.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/30/dbd372d28cc9c84_17485768663184536342.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "165",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=165&cate_no=43&display_group=1",
+  "name": "핸드메이드 손잡이 끈 상자 (소)",
+  "tagline": "끈 손잡이가 달린 미니 구디백 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/4a0a50ce3d168fb408d0e3ccf3f6d1e3.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "115 × 43 × 125",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    },
+    {
+      "label": "영문인쇄",
+      "size": "115 × 43 × 125",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "구디백 · 답례품 포장으로",
+    "desc": "손잡이가 있어서\n답례품으로 나눠 주기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8929b7ea06e1f678211dd11dcc2ac324.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449386104543394187.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/12e2bf5889613e071b92970c5d747782.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9d748d93aa8cf1fa17ba3a0608df9468.jpg"
+    },
+    {
+      "title": "흰색 · 영문인쇄",
+      "desc": "두 가지 디자인으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449386203023968191.jpg"
+    },
+    {
+      "title": "FBB 300g",
+      "desc": "튼튼한 FBB 300g\n재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ef6fe84875cab7bbac7367e0ebe83623.jpg"
+    },
+    {
+      "title": "115×43×125mm",
+      "desc": "비누 박스, 다용도 박스로\n쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c75872c7561a859609018d832037d77c.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "115 × 43 × 125 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449387177236778614.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_1744938769277590850.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449387967935199752.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449388271411397225.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    },
+    {
+      "title": "영문인쇄",
+      "desc": "115 × 43 × 125 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449388644831460251.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449388993791210091.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449389142146585997.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449389422278612299.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

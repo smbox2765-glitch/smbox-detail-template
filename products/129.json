@@ -1,0 +1,59 @@
+{
+  "id": "129",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=129&cate_no=43&display_group=1",
+  "name": "종이 클로버 비누박스 (빨강)",
+  "tagline": "클로버 모양 뚜껑의 빨간 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/971307fb41c9c4605c7a8cdc6469ccdd.jpg",
+  "options": [
+    {
+      "label": "종이크로버 빨강",
+      "size": "78 × 67 × 33",
+      "unit": "50개",
+      "unitPrice": "220원",
+      "price": "11,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·쿠키 답례품 포장으로",
+    "desc": "선명한 빨간색이라\n축하 답례품으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494057956284880.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494100487662550.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/small/20260610/ea64af545b3689b9d0c407951cefba9a.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "클로버 모양 뚜껑",
+      "desc": "클로버 모양 뚜껑을\n끼워서 닫아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494100487662550.jpg"
+    },
+    {
+      "title": "빨강 RIV350g 유광코팅",
+      "desc": "선명한 빨간색에\n유광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494057956284880.jpg"
+    },
+    {
+      "title": "78×67×33mm",
+      "desc": "떡, 쿠키, 비누를\n하나씩 담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494141679904985.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "종이크로버 빨강",
+      "desc": "78 × 67 × 33 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494183733343214.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494057956284880.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494100487662550.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/30/facd23737b95e60_15644494221535759997.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

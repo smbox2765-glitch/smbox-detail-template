@@ -1,0 +1,92 @@
+{
+  "id": "225",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=225&cate_no=43&display_group=1",
+  "name": "틴케이스 비누박스",
+  "tagline": "비누와 캔들을 담는 정사각 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/6400db6d71e1f61260a2419dd875665b.jpg",
+  "options": [
+    {
+      "label": "크라",
+      "size": "75 × 75 × 40",
+      "unit": "50개",
+      "unitPrice": "200원",
+      "price": "10,000원"
+    },
+    {
+      "label": "흰색",
+      "size": "75 × 75 × 40",
+      "unit": "50개",
+      "unitPrice": "200원",
+      "price": "10,000원"
+    },
+    {
+      "label": "흑지",
+      "size": "75 × 75 × 40",
+      "unit": "50개",
+      "unitPrice": "260원",
+      "price": "13,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 캔들 공방",
+    "how": "선물 포장으로",
+    "desc": "비누와 캔들을 하나씩 담아\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/33deceee46a08968df697d31de233d65.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/136ba947a480c2b602da02ddb1a666a5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/dfe4bcfdc75f7eac77e650a8bf5eeb33.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "세 가지 색상",
+      "desc": "크라 · 흰색은 맞뚜껑\n흑지는 십자 방식이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/05/01/00d9ce8743a128b_15251371560418206313.jpg"
+    },
+    {
+      "title": "비누도, 캔들도",
+      "desc": "비누박스와 캔들박스로\n모두 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fc7056eb031cbeea3b602895e4569d13.jpg"
+    },
+    {
+      "title": "RIV350g · 크라프트350g",
+      "desc": "흰색은 RIV350g, 크라는 크라프트350g\n흑지는 400g 재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fafcd1f65679ec86ed38adf5fbc16ba6.jpg"
+    },
+    {
+      "title": "75×75×40mm",
+      "desc": "비누나 캔들 하나를\n담기 좋은 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/09f6d01f1010ae7d6d34206723ae9f21.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "크라",
+      "desc": "75 × 75 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/02/02/a6f7b5e990f1a84_14228378904942410582.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/02/02/a6f7b5e990f1a84_142283790184482005.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/02/02/a6f7b5e990f1a84_14228379097618673512.jpg"
+      ]
+    },
+    {
+      "title": "흰색",
+      "desc": "75 × 75 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/12/d160cb1e3a832e7_14525593079746127260.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/12/d160cb1e3a832e7_1452559318884100811.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980064265127690558.jpg"
+      ]
+    },
+    {
+      "title": "흑지",
+      "desc": "75 × 75 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/04/e7113b0566cfcc0_14518669542725482049.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/04/e7113b0566cfcc0_14518669947378278541.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/04/e7113b0566cfcc0_14518669709992868051.jpg"
+      ]
+    }
+  ]
+}

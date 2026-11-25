@@ -1,0 +1,65 @@
+{
+  "id": "87",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=87&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/rA9JfJqOp0k",
+  "name": "청실홍실 수세미 포장박스",
+  "tagline": "투명 PET 상짝을 꽂는 정사각 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/f750e0db86d76be92cff7fe7736a7dc0.jpg",
+  "options": [
+    {
+      "label": "청실홍실",
+      "size": "131 × 131 × 32",
+      "unit": "50개",
+      "unitPrice": "360원",
+      "price": "18,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "수세미 공방 · 행사",
+    "how": "수세미 답례품 포장으로",
+    "desc": "수제 수세미가 알맞게 들어가요.\n수세미 외 다용도로도 쓸 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9d133d64d0cdd773e322003932120342.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706334917950452.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706383198841891.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 상짝",
+      "desc": "내용물이 잘 보이고\n튼튼해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e45359cd5bc3aacc4639cc85f764e2f8.jpg"
+    },
+    {
+      "title": "유광 느낌 CCP 용지",
+      "desc": "고급 CCP 용지로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/778b76fcf1ad127d3e313d0883114d36.jpg"
+    },
+    {
+      "title": "위에서 꽂는 PET",
+      "desc": "PET를 위에서 꽂고\n스티커로 마감하면 깔끔해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706440476102333.jpg"
+    },
+    {
+      "title": "131×131×32mm",
+      "desc": "수제 수세미가\n알맞게 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706480289391431.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "청실홍실",
+      "desc": "131 × 131 × 32 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706480289391431.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_17180706440476102333.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/778b76fcf1ad127d3e313d0883114d36.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/11/d487f684d25364f_1718070652413411982.jpg",
+        "text": "PET 상짝 + 밑판 박스"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "114",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=114&cate_no=43&display_group=1",
+  "name": "틴케이스 2구 비누박스",
+  "tagline": "칸막이로 비누 2개를 나눠 담는 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/1f768cdd5bc196a2bc8474fddd701a1e.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "157 × 77 × 40",
+      "unit": "50개",
+      "unitPrice": "380원",
+      "price": "19,000원"
+    },
+    {
+      "label": "흑지",
+      "size": "157 × 77 × 40",
+      "unit": "50개",
+      "unitPrice": "380원",
+      "price": "19,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·쿠키 답례품 포장으로",
+    "desc": "비누 2개를 나란히 담아\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a3adb068c44d02da3be1caa7d3144356.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6dbc02d3d271c02229f423ca7c2555e6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/1d563544c63fb617ce990dd5830d4ec0.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "칸막이로 2칸",
+      "desc": "가운데 칸막이로\n비누 2개를 나눠 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/08/11/384f87bdd8ff303_15971082128351417124.jpg"
+    },
+    {
+      "title": "흰색 · 흑지",
+      "desc": "RIV350g · 흑지400g\n두 가지 색으로 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130708551418899.jpg"
+    },
+    {
+      "title": "157×77×40mm",
+      "desc": "비누 2개를 담는\n다용도 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130616638356870.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "157 × 77 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130779087367538.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130616638356870.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/2ddc317000d8f9f3f6c184f940cda7ea.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130827651476737.jpg",
+        "text": "박스 + 칸막이"
+      }
+    },
+    {
+      "title": "흑지",
+      "desc": "157 × 77 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/08/11/384f87bdd8ff303_15971082069816915457.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/08/11/384f87bdd8ff303_15971082128351417124.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130708551418899.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/07/27/e8620b4975e61d3_15958130870321186210.jpg",
+        "text": "박스 + 칸막이"
+      }
+    }
+  ]
+}

@@ -54,12 +54,12 @@
     {
       "title": "내경 88×78×40mm",
       "desc": "외경 100×90×40mm\n이중고는 각 5mm예요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/9.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/28.jpg"
     },
     {
       "title": "박스 + PET 1세트",
       "desc": "박스와 PET 뚜껑이\n한 세트로 구성돼요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_17267085042822781771.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/94f5c5460403f8aae8ae7bda863b72b0.jpg"
     }
   ],
   "gallery": [
@@ -70,16 +70,24 @@
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/11/13/e837062de64caa4_17314548532383586529.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401009515964985103.png",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401009402054292945.png"
-      ]
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_17267085042822781771.jpg",
+        "text": "박스 + PET 뚜껑 1세트"
+      }
     },
     {
       "title": "크라",
       "desc": "100 × 90 × 40 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/00.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/28.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_1726708511483927893.jpg"
-      ]
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/063e29bebb4b1f1bd96306ea53eda26f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/9.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_1726708511483927893.jpg",
+        "text": "박스 + PET 뚜껑 1세트"
+      }
     },
     {
       "title": "검정",
@@ -87,8 +95,12 @@
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/11/13/e837062de64caa4_17314549426546683251.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/3721081ddd7a5af84cde7159bf452d43.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/11/13/e837062de64caa4_1731454985319962594.jpg"
-      ]
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/4e3ce65f8094d2b1eabd485dff6af317.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/11/13/e837062de64caa4_1731454985319962594.jpg",
+        "text": "박스 + PET 뚜껑 1세트"
+      }
     }
   ]
 }

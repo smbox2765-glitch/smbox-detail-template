@@ -1,0 +1,61 @@
+{
+  "id": "201",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=201&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "E골 소 2구 박스",
+  "tagline": "골판지로 만든 친환경 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/b060bbe6fefd9b845ef50c69ff4bf0a0.jpg",
+  "options": [
+    {
+      "label": "E골 소 2구",
+      "size": "180 × 110 × 35",
+      "unit": "50개",
+      "unitPrice": "650원",
+      "price": "32,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·한과 답례품 포장으로",
+    "desc": "안에 칸막이는 따로 없어요.\n구매 전 참고해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c6b60143be3ffdf7eb904e17a4e29d94.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6724ba3678b633c79569f1ac5460db32.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6467d484c22bccf20baf10984b8ddd1d.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401199717377826768.png"
+    },
+    {
+      "title": "칸막이 없는 상자",
+      "desc": "안에 칸막이는 따로 없어요\n구매 전 참고해 주세요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ba4a20bc36869d13c616ace6b923b73f.png"
+    },
+    {
+      "title": "180×110×35mm",
+      "desc": "비누나 떡 2개를\n나란히 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401199919564657488.png"
+    },
+    {
+      "title": "비누 · 떡 · 한과 포장",
+      "desc": "비누, 떡, 한과 답례품\n포장에 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401199819415656700.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 소 2구",
+      "desc": "180 × 110 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401200035045225010.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401199613139557316.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/93562fdeaf253b7b8e6c3a621e291092.png"
+      ]
+    }
+  ]
+}

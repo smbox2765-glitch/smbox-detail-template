@@ -1,0 +1,61 @@
+{
+  "id": "199",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=199&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "E골 대 6구 박스",
+  "tagline": "골판지로 만든 친환경 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/ca3e0c5482b71a543302e09c2b3f05d0.jpg",
+  "options": [
+    {
+      "label": "E골 대 6구",
+      "size": "260 × 180 × 35",
+      "unit": "50개",
+      "unitPrice": "850원",
+      "price": "42,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·한과 답례품 포장으로",
+    "desc": "안에 칸막이는 따로 없어요.\n구매 전 참고해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/eb8ed05395e3d193510e1c5e8bfd3656.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/d156f1c7e9ce1e13f5b0dec14cae4d22.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401208528489679169.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_1740120865121371952.png"
+    },
+    {
+      "title": "칸막이 없는 상자",
+      "desc": "안에 칸막이는 따로 없어요\n구매 전 참고해 주세요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/f891ead1ee1e279dd87908a35b83bb4a.png"
+    },
+    {
+      "title": "260×180×35mm",
+      "desc": "비누나 떡 6개를\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/adfe1afbd1b106d1a57c7363e0cbf7a8.png"
+    },
+    {
+      "title": "비누 · 떡 · 한과 포장",
+      "desc": "비누, 떡, 한과 답례품\n포장에 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401208793642883711.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 대 6구",
+      "desc": "260 × 180 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401208929584861027.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/60022cbf4acebcc6a7693f020bea2ef9.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401208389041390695.png"
+      ]
+    }
+  ]
+}

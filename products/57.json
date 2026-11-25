@@ -1,0 +1,55 @@
+{
+  "id": "57",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=57&cate_no=43&display_group=1",
+  "name": "PG 크라프트 상자",
+  "tagline": "떡 · 쿠키 · 비누를 담는 크라프트 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/191bb8e667219b60709cc63930dcd6ad.jpg",
+  "options": [
+    {
+      "label": "PG 크라프트",
+      "size": "220 × 100 × 40",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡·쿠키·비누 답례품 포장으로",
+    "desc": "비누박스, 떡박스로\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/9246c1c0603a25acb05bd8f1d6be905a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_1499647719368325066.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fac38589d13dfe0f847a420c6c34ecb3.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트350g",
+      "desc": "내추럴한 크라프트지로\n만든 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fac38589d13dfe0f847a420c6c34ecb3.png"
+    },
+    {
+      "title": "220×100×40mm",
+      "desc": "떡, 쿠키, 비누, 인절미\n답례품 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996477251769974441.jpg"
+    },
+    {
+      "title": "상하짝 구조",
+      "desc": "뚜껑과 바닥이 나뉜\n상하짝 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17400993525346668997.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "PG 크라프트",
+      "desc": "220 × 100 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996477251769974441.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17400993525346668997.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/small/20260610/f5769fa4aab48808ff0fcc89bace0be7.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "170",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=170&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "청동 2구 박스",
+  "tagline": "청동 무늬가 고급스러운 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/4e4b15c55e956cbc77f7965fffa344c5.jpg",
+  "options": [
+    {
+      "label": "청동 2구",
+      "size": "180 × 110 × 37",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·한과 답례품 포장으로",
+    "desc": "행사 답례품을 담아\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fe6a71f1c6f81c12799b7939b67de95b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/9a9f011a7a90eafeede928fa314d0489.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912339645621228.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/544c401a20f1c62f74c4002368896e3a.jpg"
+    },
+    {
+      "title": "180×110×37mm",
+      "desc": "E골(소)와 사이즈가 같고\n상짝 높이만 달라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c54188cd24fd0e343d089381ae46165e.jpg"
+    },
+    {
+      "title": "비누 · 떡 · 한과 포장",
+      "desc": "비누, 떡, 한과 답례품\n포장에 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912339645621228.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "청동 2구",
+      "desc": "180 × 110 × 37 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912396783436337.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912438413633295.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912478594930267.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/11/29/fb9b6fb9553990a_15749912522549639256.jpg",
+        "text": "상짝 + 하짝 (펼친 모습)"
+      }
+    }
+  ]
+}

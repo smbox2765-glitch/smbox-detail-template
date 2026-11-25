@@ -1,0 +1,84 @@
+{
+  "id": "182",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=182&cate_no=43&display_group=1",
+  "name": "A7 막힌 비누박스",
+  "tagline": "창 없이 깔끔한 크라 · 검정 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/113872e1a3cf0618eb3a60887b7b6752.jpg",
+  "options": [
+    {
+      "label": "크라",
+      "size": "80 × 32 × 80",
+      "unit": "100개",
+      "unitPrice": "150원",
+      "price": "15,000원"
+    },
+    {
+      "label": "검정",
+      "size": "80 × 32 × 80",
+      "unit": "100개",
+      "unitPrice": "150원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "대량 답례품 포장으로",
+    "desc": "비누를 하나씩 담아\n답례품으로 나누기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/90da68f957457adb1741a5b91fcd7edf.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/05/02/8032f74dfb77f2f_15252247731953153972.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/05/02/8032f74dfb77f2f_15252247791574337145.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "창 없는 막힌 타입",
+      "desc": "창 없이 깔끔하게\n막힌 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/320591690be29caf125a61c7cbb3aca3.jpg"
+    },
+    {
+      "title": "크라 · 검정",
+      "desc": "RIV350g · 크라프트350g\n두 가지 색으로 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/05/02/8032f74dfb77f2f_15252247853757468048.jpg"
+    },
+    {
+      "title": "80×32×80mm",
+      "desc": "비누 하나를\n담는 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2c000c147dbe101497613c40c7e8262e.jpg"
+    },
+    {
+      "title": "100개 단위",
+      "desc": "100개씩 판매해서\n대량 답례품에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/33d9ec89381250fa5a06a564e5dd53fb.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "크라",
+      "desc": "80 × 32 × 80 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/7869fe56a2b6f30234c4096df2390015.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990427585743463.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990427528528178280.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/11/30/8595bdec8cbd951_14488482263113154853.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "검정",
+      "desc": "80 × 32 × 80 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990423189469538877.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/03/1919c0aadbb2089_14990423254935466457.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/11/30/8595bdec8cbd951_14488480540319931800.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/11/30/8595bdec8cbd951_14488480653478248867.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

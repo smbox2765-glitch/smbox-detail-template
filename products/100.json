@@ -1,0 +1,84 @@
+{
+  "id": "100",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=100&cate_no=43&display_group=1",
+  "name": "L-1 레이저 손잡이 끈 상자",
+  "tagline": "레이스 무늬 커팅에 끈 손잡이가 달린 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/595317345493936d31da158039357e77.png",
+  "options": [
+    {
+      "label": "에메랄드",
+      "size": "90 × 90 × 128",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    },
+    {
+      "label": "검정",
+      "size": "90 × 90 × 128",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "답례품 포장으로",
+    "desc": "끈 손잡이가 있어\n답례품으로 나눠 주기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/68ad4a5aa7f9838d1475c7187322e516.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/91958622a0decb2560564d89e89ac1ed.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/667cf87d68b3ddab74d9495a2bd0cc9c.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "레이스 무늬 커팅",
+      "desc": "레이스 무늬로 커팅한\n수입지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646012569920842.jpg"
+    },
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ab7ca086895193d4ee0899ecf25fe906.jpg"
+    },
+    {
+      "title": "에메랄드 · 검정",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_1513564549436793867.jpg"
+    },
+    {
+      "title": "90×90×128mm",
+      "desc": "비누, 어린이집 답례품 등\n다용도로 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646182426874885.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "에메랄드",
+      "desc": "90 × 90 × 128 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646060394775268.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646110073109799.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646238609847608.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646500573519040.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    },
+    {
+      "title": "검정",
+      "desc": "90 × 90 × 128 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_151356463148848215.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646377947440378.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_1513564644046801077.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/12/18/7ce99ff0861ee49_15135646500573519040.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

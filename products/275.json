@@ -1,0 +1,55 @@
+{
+  "id": "275",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=275&cate_no=43&display_group=1",
+  "name": "J1 원터치 박스 (은색)",
+  "tagline": "비누와 떡을 담는 원터치 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/dbc72fe9c477da812ce8032e2e44f963.jpg",
+  "options": [
+    {
+      "label": "J1 은색",
+      "size": "142 × 90 × 32",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡 답례품 포장으로",
+    "desc": "다용도로 쓰기 좋은\n깔끔한 상자예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/0e0d4a42948eb8cd48b08a428a99c915.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208454654081785214.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208454707046264693.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "원터치 박스",
+      "desc": "간편하게 접어 쓰는\n원터치 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/d865f3b8f6d3732079e2246f2a335a88.jpg"
+    },
+    {
+      "title": "은색 색상",
+      "desc": "은색 RIV350g에\n무광코팅을 했어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208454757715939553.jpg"
+    },
+    {
+      "title": "142×90×32mm",
+      "desc": "비누나 떡을\n담기 좋은 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/7c89dfd639b345499882470d6d624a2f.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "J1 은색",
+      "desc": "142 × 90 × 32 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_1520845481224299109.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/80125ce8f16d6075d6438b7c7efb2606.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208454868602512702.jpg"
+      ]
+    }
+  ]
+}

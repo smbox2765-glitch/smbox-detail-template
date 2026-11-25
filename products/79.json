@@ -1,0 +1,64 @@
+{
+  "id": "79",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=79&cate_no=43&display_group=1",
+  "name": "핸드메이드 손잡이 끈 상자 (대)",
+  "tagline": "끈 손잡이가 달린 흰색 구디백 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/4a87fc8340bef1e3ea2d710ccc10114b.jpg",
+  "options": [
+    {
+      "label": "핸드메이드(대)",
+      "size": "130 × 50 × 150",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "구디백 · 답례품 포장으로",
+    "desc": "손잡이가 있어서\n답례품으로 나눠 주기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9d0851006e6af9b15fcae447eee34e1e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b3f495579a851847126548dd7172d011.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_1744937805643345016.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6ae1474230f40261c6ee1938b6110a8c.jpg"
+    },
+    {
+      "title": "FBB 300g",
+      "desc": "튼튼한 FBB 300g\n재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/30406381cd363bb951b6e23e2829a7a3.jpg"
+    },
+    {
+      "title": "130×50×150mm",
+      "desc": "비누 박스, 다용도 박스로\n쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5966a0d76d4a6b9373061c766b7fd54a.jpg"
+    },
+    {
+      "title": "Hand Made 문구",
+      "desc": "Hand Made Natural gift\n문구가 들어가 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/38f5a72bed308a0576a9c6b418328fa4.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "핸드메이드(대)",
+      "desc": "130 × 50 × 150 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449378251949152967.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449378438213795965.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449378741353966823.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/04/18/559179cfff766e2_17449379138515197436.jpg",
+        "text": "박스 + 손잡이 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

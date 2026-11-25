@@ -1,0 +1,66 @@
+{
+  "id": "264",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=264&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/uWz_CdVjsaU",
+  "foldVideo": "https://www.youtube.com/embed/WdWgZF5NG1E",
+  "name": "SK 창문 4구 골지 비누박스",
+  "tagline": "투명창으로 비누가 보이는 골지 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260611/3e4e1b9b033cf2ba360a8345367fe94a.jpg",
+  "options": [
+    {
+      "label": "SK창문 4구",
+      "size": "186 × 186 × 42",
+      "unit": "50개",
+      "unitPrice": "850원",
+      "price": "42,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "수제비누 답례품 포장으로",
+    "desc": "제품이 보이는 박스라\n수제비누 포장에 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401063216016612268.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2730f6606f8dec49443d82a66c9e1218.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401063388502209204.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "친환경 골지 소재",
+      "desc": "친환경 비누에 어울리는\n골지 박스예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/553fe434a4ac6e748ecd1bfb9920e467.png"
+    },
+    {
+      "title": "투명 필름 창",
+      "desc": "뚜껑 창에 필름이 붙어 있어\n담긴 비누가 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b9a1c8fcb5795a1b4eb1055317a1a9b2.png"
+    },
+    {
+      "title": "칸막이로 4칸",
+      "desc": "칸막이로 나눠\n비누 4개를 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401063388502209204.png"
+    },
+    {
+      "title": "외경 186×186×42mm",
+      "desc": "뚜껑과 바닥이 나뉜\n상하짝 박스예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/97035ce24b2176d2fb68efddb2fe45ec.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "SK창문 4구",
+      "desc": "186 × 186 × 42 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2730f6606f8dec49443d82a66c9e1218.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401062804762962917.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401062915496377630.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401063490952349126.png",
+        "text": "상짝 + 하짝 + 상짝 필름지 + 칸막이"
+      }
+    }
+  ]
+}

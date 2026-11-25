@@ -1,0 +1,85 @@
+{
+  "id": "32",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=32&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/5nJXQbxjLks",
+  "name": "리본 비누박스",
+  "tagline": "리본으로 묶어 마감하는 흰색 답례 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/c4618c51641d35f82f6c37aa8052cdd8.png",
+  "options": [
+    {
+      "label": "소",
+      "size": "80 × 80 × 30",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    },
+    {
+      "label": "대",
+      "size": "90 × 90 × 65",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 디저트 카페",
+    "how": "비누·디저트 답례품 포장으로",
+    "desc": "리본은 포함되지 않아요.\n박스만 발송돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/ff423a77d66e0921780269369f851b63.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/b4d066d35f34bc4e412b4a03cb7d804c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/3a8577b621bf88f0bda3b375d3f1f1dc.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "식품용지 무광코팅",
+      "desc": "식품용지에 무광코팅을 해서\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/2bc10e748e59d8668ef63f03d7a70d19.jpg"
+    },
+    {
+      "title": "리본으로 마감",
+      "desc": "리본으로 묶으면\n더 고급스럽게 포장돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/b4d066d35f34bc4e412b4a03cb7d804c.jpg"
+    },
+    {
+      "title": "소 사이즈는 리본 없이도",
+      "desc": "소 사이즈는 리본이 없어도\n사진처럼 포장할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/5a2d43b12239893bacca34c751af9db6.jpg"
+    },
+    {
+      "title": "대 사이즈 마감",
+      "desc": "대 사이즈는 리본이나\n스티커로 마감해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/4b109a72e5169937d088d1de1ad2b7f9.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "소",
+      "desc": "80 × 80 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/ea8e1dc644734e3dd02eb1d13a83b8fc.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/7dfa3989d65cc233f5f85b739ead5457.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/eb983c9f891dcb0dde1bfa73c03b4fba.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/27bad4b31ac6d8e7b354e813e8e4c86c.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "대",
+      "desc": "90 × 90 × 65 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/b2e337769d08d455d338a8fc587cc431.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/c9da2b39a00d5d403d43050c6aa3a124.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260402/b4d066d35f34bc4e412b4a03cb7d804c.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260402/d3051af070364bab2be6ebd02b1191a5.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

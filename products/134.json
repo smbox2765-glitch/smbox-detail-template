@@ -1,0 +1,55 @@
+{
+  "id": "134",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=134&cate_no=43&display_group=1",
+  "name": "수세미 PET 투명상자",
+  "tagline": "내용물이 그대로 보이는 투명 PET 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260622/27caa3640c691d564e439579ce70413e.jpg",
+  "options": [
+    {
+      "label": "수세미 PET",
+      "size": "120 × 43 × 120",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "수세미 공방 · 행사",
+    "how": "수세미 답례품 포장으로",
+    "desc": "투명해서 담긴 수세미가\n선물처럼 보여요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260622/5de4ffe2ce9ef8d68752a98f87e08a47.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/798860dacdd2d5a1eb123baaf9dab98f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7b61a54ae382b5b69f548424deccd8e8.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET",
+      "desc": "전체가 투명해서\n담긴 수세미가 잘 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/20/f08d64f89ea086e_16188843571851362969.jpg"
+    },
+    {
+      "title": "120×43×120mm",
+      "desc": "수세미를 하나씩\n담는 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/4be745cc382569b3a2bcff9d7a567011.jpg"
+    },
+    {
+      "title": "다용도 박스",
+      "desc": "수세미 외에도\n다용도로 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b9cd78ca1727b6a1f95a73d5b3683f74.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "수세미 PET",
+      "desc": "120 × 43 × 120 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/20/f08d64f89ea086e_16188843625527691215.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/20/f08d64f89ea086e_16188843694111842458.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/20/f08d64f89ea086e_1618884374689892137.jpg"
+      ]
+    }
+  ]
+}

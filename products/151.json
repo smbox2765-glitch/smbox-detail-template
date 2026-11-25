@@ -1,0 +1,86 @@
+{
+  "id": "151",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=151&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/NzZay05dK1M",
+  "foldVideo": "https://www.youtube.com/embed/-wgyDe92QmA",
+  "name": "D-12 투명 슬리브 비누박스 3구",
+  "tagline": "투명 PET 뚜껑을 밀어 여는 3구 서랍식 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/38dfd9fb934ced88c58ad4dab30279ee.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "250 × 93 × 38",
+      "unit": "50개",
+      "unitPrice": "730원",
+      "price": "36,500원"
+    },
+    {
+      "label": "크라",
+      "size": "250 × 93 × 38",
+      "unit": "50개",
+      "unitPrice": "730원",
+      "price": "36,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·쿠키 답례품 포장으로",
+    "desc": "세 칸에 나눠 담아 선물하기 좋아요.\n리본·도일리·초핑지는 포함되지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6b25ea118b92b7f42a027cadfe7569dd.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6ac0bbed281775ca0dbc57d3223cb5e2.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/1773aaa1d793a2438b8a181112de077a.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 서랍식 뚜껑",
+      "desc": "투명 PET 뚜껑을 밀어서\n여닫는 서랍식 박스예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/20121121_100952.jpg"
+    },
+    {
+      "title": "흰색 · 크라 두 가지 색",
+      "desc": "CCP350g · 크라프트350g\n두 가지 색으로 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/35cfde43c8debc475ab915f2ed450636.jpg"
+    },
+    {
+      "title": "한 칸 내경 75×83×36mm",
+      "desc": "외경 250×93×38mm\n이중고는 각 5mm예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/20121121_101026.jpg"
+    },
+    {
+      "title": "박스 + 칸막이 + PET",
+      "desc": "박스와 칸막이, PET 뚜껑이\n한 세트로 구성돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/30/5747ed71f5f481d_15250537626693114836.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "250 × 93 × 38 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/16/e30c1dc3688c4f1_14948947209714927733.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/30/5747ed71f5f481d_15250537558706589573.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/30/5747ed71f5f481d_15250537701428972191.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_17267087512249463619.jpg",
+        "text": "박스 + 칸막이 + PET 뚜껑 1세트"
+      }
+    },
+    {
+      "title": "크라",
+      "desc": "250 × 93 × 38 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/16/e30c1dc3688c4f1_14948949553939443510.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/1773aaa1d793a2438b8a181112de077a.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/images/20121121_101026.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/09/19/6868ad21c656e2e_17267087215645739091.jpg",
+        "text": "박스 + 칸막이 + PET 뚜껑 1세트"
+      }
+    }
+  ]
+}

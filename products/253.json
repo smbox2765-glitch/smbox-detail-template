@@ -1,0 +1,66 @@
+{
+  "id": "253",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=253&cate_no=43&display_group=1",
+  "introVideo": "https://www.youtube.com/embed/BHqVxCmwRWk",
+  "foldVideo": "https://www.youtube.com/embed/127y5S46S34",
+  "name": "SK 창문 6구 골지 비누박스",
+  "tagline": "투명창으로 비누가 보이는 골지 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/8693e88f84f76b57a83ad48baf4e424a.png",
+  "options": [
+    {
+      "label": "SK창문 6구",
+      "size": "270 × 187 × 42",
+      "unit": "50개",
+      "unitPrice": "950원",
+      "price": "47,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "수제비누 답례품 포장으로",
+    "desc": "제품이 보이는 박스라\n수제비누 포장에 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060765369218113.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c0aac29e893c2489ece7b8b0637858da.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060862845296560.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "친환경 골지 소재",
+      "desc": "친환경 비누에 어울리는\n골지 박스예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/1d12d8a8ef081d092ed03adf2988d294.png"
+    },
+    {
+      "title": "투명 필름 창",
+      "desc": "뚜껑 창에 필름이 붙어 있어\n담긴 비누가 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060408216861518.png"
+    },
+    {
+      "title": "칸막이로 6칸",
+      "desc": "칸막이로 나눠\n비누 6개를 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060862845296560.png"
+    },
+    {
+      "title": "외경 270×187×42mm",
+      "desc": "뚜껑과 바닥이 나뉜\n상하짝 박스예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b533d2631fbc7934e04305f4455a69d0.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "SK창문 6구",
+      "desc": "270 × 187 × 42 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c0aac29e893c2489ece7b8b0637858da.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060520656952755.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/3b428f5e0a87b6a8dce8f8952abfb147.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401060967826412984.png",
+        "text": "상짝 + 하짝 + 상짝 필름지 + 칸막이"
+      }
+    }
+  ]
+}

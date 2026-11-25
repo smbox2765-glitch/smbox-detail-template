@@ -1,0 +1,65 @@
+{
+  "id": "49",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=49&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/cGWwQoVOZ9w",
+  "name": "수E골 1구 조립식 상자 (갈색)",
+  "tagline": "비누 · 쥬얼리를 담는 E골 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/18f55cfef5408f7eed43d44d4fa0cc15.jpg",
+  "options": [
+    {
+      "label": "수E골 1구(갈색)",
+      "size": "95 × 90 × 30",
+      "unit": "300개",
+      "unitPrice": "280원",
+      "price": "84,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 쥬얼리 공방",
+    "how": "선물 포장으로",
+    "desc": "300개 단위라\n대량 포장에 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c8c94185cf9fc48d2a48ea79ae9b44cb.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/46a9ef636a152bfd789b9279144ee5e1.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/f30b2c2599b4912261170cb7587ed53a.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골 골판지",
+      "desc": "튼튼한 E골 골판지로\n만든 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_1740105144264386048.png"
+    },
+    {
+      "title": "내경 86×86×30mm",
+      "desc": "외경 95×90×30mm\n(가로×세로×높이)",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401051586942230839.png"
+    },
+    {
+      "title": "조립식 C형 박스",
+      "desc": "펼친 상태에서 접어\n조립하는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401051738193197108.png"
+    },
+    {
+      "title": "다용도 상자",
+      "desc": "비누, 쥬얼리, 악세사리 등\n여러 가지로 쓰기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/46a9ef636a152bfd789b9279144ee5e1.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "수E골 1구(갈색)",
+      "desc": "95 × 90 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_1740105144264386048.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/f30b2c2599b4912261170cb7587ed53a.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/c8c94185cf9fc48d2a48ea79ae9b44cb.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401051841617279353.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

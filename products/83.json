@@ -1,0 +1,64 @@
+{
+  "id": "83",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=83&cate_no=43&display_group=1",
+  "name": "장미 2구 비누박스 (핑크)",
+  "tagline": "핑크 장미 패턴의 고급 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/6bb0761fee14c01c80b6fecb1403cab3.jpg",
+  "options": [
+    {
+      "label": "장미 2구",
+      "size": "200 × 99 × 40",
+      "unit": "50개",
+      "unitPrice": "620원",
+      "price": "31,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "고급 선물 포장으로",
+    "desc": "화사한 장미 패턴이라\n선물용으로 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/49f240feffa7b70fdcc2983b58270380.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_15639422884821986175.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/small/20260610/91c5d6fd8094476c92e1b7a8e6d6e65b.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "핑크 장미 패턴",
+      "desc": "장미 패턴으로\n화사한 선물 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_1563942292759692435.jpg"
+    },
+    {
+      "title": "백E골 합지",
+      "desc": "튼튼한 백E골 합지로\n만들었어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/639b29bf5277f36bc901061dad928d31.jpg"
+    },
+    {
+      "title": "칸막이로 2칸",
+      "desc": "가운데 칸막이로\n비누 2개를 나눠 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/5cb4a6d444089ff13d3562e6706829de.jpg"
+    },
+    {
+      "title": "200×99×40mm",
+      "desc": "비누 2개를 나란히\n담는 사이즈예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_15639422982498726583.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "장미 2구",
+      "desc": "200 × 99 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_15639422884821986175.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_1563942292759692435.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_15639422982498726583.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/07/24/f117b071d8d23cc_15639423155082388447.jpg",
+        "text": "박스 + 칸막이 (펼친 모습)"
+      }
+    }
+  ]
+}

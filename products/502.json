@@ -1,0 +1,64 @@
+{
+  "id": "502",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=502&cate_no=43&display_group=1",
+  "name": "C형 비누 1구 상자 (수입지)",
+  "tagline": "고급 수입지로 만든 흰색 미니 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260713/a52f447b3289b934ac872059d529d9bc.jpg",
+  "options": [
+    {
+      "label": "수입지 1구",
+      "size": "80 × 80 × 35",
+      "unit": "50개",
+      "unitPrice": "150원",
+      "price": "7,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 쥬얼리 공방",
+    "how": "선물 포장으로",
+    "desc": "깔끔한 흰색 상자라\n어떤 선물에도 잘 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/e8251f2a4eb7c34d68942b7a2defabc2.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/11f3548e43b28daadd14c22b8cd13b79.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/3db1e91d367d8f9b6808f5e0004ae79b.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "고급 수입지",
+      "desc": "고급 수입지로 만들어\n퀄리티가 높은 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/b9826f85e11cb96eef7f44c0cc9926fd.jpg"
+    },
+    {
+      "title": "다용도 미니 박스",
+      "desc": "비누, 쥬얼리, 팔찌 등\n다용도로 포장할 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/1602e2208cf59efd02c2b93bd3068b99.jpg"
+    },
+    {
+      "title": "펼친 상태로 배송",
+      "desc": "약간의 조립이 필요한\n상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260713/776f48ea61742086c1a13dbe609973ed.jpg"
+    },
+    {
+      "title": "한정 수량",
+      "desc": "한정 수량으로\n판매하고 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/80883443288fcffd293da55de878609b.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "수입지 1구",
+      "desc": "80 × 80 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/e35a46ea7c59ea2677d5ec8773be6375.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/298c9d33aaf1cb937dd0fd77a073fd7e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/1bc098b0676cfe1a1940d91ab6a25cde.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20260713/fad7917f290136af5bb7724fc24d4adb.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "258",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=258&cate_no=43&display_group=1",
+  "name": "D7 크라 2구 상자",
+  "tagline": "물결 뚜껑이 귀여운 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/79240ea5055f061d86fc1c2b55142514.jpg",
+  "options": [
+    {
+      "label": "D7 크라 2구",
+      "size": "167 × 85 × 38",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "공방 · 떡집",
+    "how": "비누·떡·쿠키 답례품 포장으로",
+    "desc": "내추럴한 크라프트 색이라\n어떤 답례품에도 잘 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/4f6ed47e055dd080d6200508cce25fc7.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/656a652da2c1d9342d15af9f6c077198.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17400999486569865670.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트350g",
+      "desc": "내추럴한 크라프트지로\n만든 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/112947d608f18c36a3ff1afc9aa0f1eb.png"
+    },
+    {
+      "title": "물결 모양 뚜껑",
+      "desc": "물결 모양 뚜껑을\n끼워서 닫아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b0bde5bc1e1b28eaf857f339ca684b32.png"
+    },
+    {
+      "title": "167×85×38mm",
+      "desc": "떡, 쿠키, 비누 2개를\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401000717524691336.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "D7 크라 2구",
+      "desc": "167 × 85 × 38 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17400999698024672151.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401000717524691336.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401000849078928899.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401001000606150463.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

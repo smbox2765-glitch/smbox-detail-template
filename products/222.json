@@ -1,0 +1,55 @@
+{
+  "id": "222",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=222&cate_no=43&display_group=1",
+  "name": "PVC 맞뚜껑 투명상자 (대)",
+  "tagline": "비누 · 쥬얼리 · 악세사리를 담는 투명 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/76e2a87dea2b9e9c0505f3e96d59194c.jpg",
+  "options": [
+    {
+      "label": "PVC 맞뚜껑(대)",
+      "size": "93 × 30 × 75",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 · 쥬얼리 공방",
+    "how": "선물 포장으로",
+    "desc": "내용물이 잘 보여서\n작은 선물 포장에 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/85fc44507bc60da623c9b788cde62af3.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401023102802616335.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/610911a609f402b90c5765bbd0ec02b5.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PVC",
+      "desc": "투명해서 담긴 내용물이\n그대로 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/medium/20260610/d4e0d065ac0b7b8de47a432fa06bdee9.jpg"
+    },
+    {
+      "title": "맞뚜껑 구조",
+      "desc": "뚜껑을 위에서 덮는\n맞뚜껑 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/d7339ecb3e5bb2a9ef95ee3b7442d572.png"
+    },
+    {
+      "title": "다용도 포장",
+      "desc": "비누, 쥬얼리, 악세사리,\n팔찌 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401023427773243000.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "PVC 맞뚜껑(대)",
+      "desc": "93 × 30 × 75 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401023340932403099.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_17401023211615829012.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/dbb45972fd6fbdd_174010223422373791.png"
+      ]
+    }
+  ]
+}
