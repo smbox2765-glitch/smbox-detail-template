@@ -1,0 +1,55 @@
+{
+  "id": "22",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=22&cate_no=43&display_group=1",
+  "name": "투볼 유리잔 박스",
+  "tagline": "유리잔 · 텀블러를 담는 E골 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/583116c6ee9b4286a16d37dc03b47b86.jpg",
+  "options": [
+    {
+      "label": "투볼",
+      "size": "90 × 90 × 250",
+      "unit": "100개",
+      "unitPrice": "580원",
+      "price": "58,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 기업 행사",
+    "how": "유리잔 · 텀블러 포장으로",
+    "desc": "무지 상자라 택배, 선물 포장에\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/fe9a0f90475547fe41e9b7006b5a3a91.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3a35d514282413b8b5fb5ae6049837ed.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979195117526590009.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/342723586410800a4ba3af9ad7942a2e.jpg"
+    },
+    {
+      "title": "조립형 무지",
+      "desc": "접어서 조립하는\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8c8c5ee9e94dab9787ab65ff993d1cae.jpg"
+    },
+    {
+      "title": "90×90×250mm",
+      "desc": "유리잔, 텀블러를\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979195165696128135.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "투볼",
+      "desc": "90 × 90 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979195165696128135.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979195213426794777.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979195272631248543.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "231",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=231&cate_no=43&display_group=1",
+  "name": "화과자 케이스 1구 (흑색)",
+  "tagline": "화과자 · 떡을 하나씩 담는 투명 뚜껑 케이스",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/eef56a4429c03c87014b80419e3d3f29.png",
+  "options": [
+    {
+      "label": "화과자케이스 1구",
+      "size": "60 × 60 × 40",
+      "unit": "100개",
+      "unitPrice": "100원",
+      "price": "10,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 디저트 카페",
+    "how": "화과자 · 두쫀쿠 낱개 포장으로",
+    "desc": "화과자 상자 안에 넣어\n하나씩 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/medium/20260824/fdacc026b66b2fb273d7c1c71e24d14e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/medium/20260601/30924a9335c56d276fad4df945060306.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/medium/20260902/fd7d761590dc3151e490ce2d6ca90f78.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "투명한 뚜껑으로\n화과자가 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bde860cee054b0bed587c67f52c023ae.jpg"
+    },
+    {
+      "title": "검정 받침",
+      "desc": "깔끔한 검정 받침에\n하나씩 올려요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/02f473812fd752af4e98707fd9d49d50.jpg"
+    },
+    {
+      "title": "60×60×40mm",
+      "desc": "안쪽 크기 45mm\n화과자 한 개가 들어가요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120219560543600418.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "화과자케이스 1구",
+      "desc": "60 × 60 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120194025959113248.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120194093788928404.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/02/6316dab04a50286_17120194146879954139.jpg"
+      ]
+    }
+  ]
+}

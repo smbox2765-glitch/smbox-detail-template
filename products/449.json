@@ -1,0 +1,55 @@
+{
+  "id": "449",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=449&cate_no=43&display_group=1",
+  "name": "반지 싸바리 박스",
+  "tagline": "합지에 종이를 감싼 검정 고급 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/ab4f249520d607088bcd42d1500c6dfe.png",
+  "options": [
+    {
+      "label": "반지 싸바리",
+      "size": "70 × 70 × 50",
+      "unit": "300개",
+      "unitPrice": "950원",
+      "price": "285,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쥬얼리샵 · 공방",
+    "how": "반지 · 액세서리 포장으로",
+    "desc": "싸바리 상자는 주문 금액과 상관없이\n택배비가 따로 붙어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/adfde73e0e9615278a56a8a9fc587778.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/adc1170582d7c81d9aec0d92120c4da1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/7da00060984c868c0e3a63763404f4f2.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "합지에 종이를 감싼\n튼튼한 고급 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/2ad547a18aa68902919de9d9d196a469.jpg"
+    },
+    {
+      "title": "검정 수입지",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/79a7f8826e3ba485364a12f8e1278605.jpg"
+    },
+    {
+      "title": "70×70×50mm",
+      "desc": "반지 하나를\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/268c0ec6c8c4fdddd77ebb9fd3f22853.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "반지 싸바리",
+      "desc": "70 × 70 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/268c0ec6c8c4fdddd77ebb9fd3f22853.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/0d72d46eff808baecb03474cda890abb.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/ed9c7ae4f57e5de95d20e1e1a4c81a42.jpg"
+      ]
+    }
+  ]
+}

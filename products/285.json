@@ -1,0 +1,55 @@
+{
+  "id": "285",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=285&cate_no=43&display_group=1",
+  "name": "E골 십자형 박스",
+  "tagline": "길쭉한 공병을 담는 E골 십자형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/82f7d431a489e3ad2c8dbe6b340452ba.jpg",
+  "options": [
+    {
+      "label": "E골 십자형",
+      "size": "40 × 40 × 150",
+      "unit": "100개",
+      "unitPrice": "220원",
+      "price": "22,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "화장품 공방",
+    "how": "향수 · 공병 포장으로",
+    "desc": "무지 상자라 택배, 선물 포장에\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/48e68b60552d18ce1dc5450e17681979.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3b499542001a00c9b6b8c6a0ccff87ea.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/19/c323e42cf7681a3_14978310700132878303.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4cf471779b82107c1f0131fb715f5932.jpg"
+    },
+    {
+      "title": "조립형 무지",
+      "desc": "접어서 조립하는\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b413a3d2c72f0a2d70c3f6df9b885394.jpg"
+    },
+    {
+      "title": "40×40×150mm",
+      "desc": "향수, 롤온 공병을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603370768324813327.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 십자형",
+      "desc": "40 × 40 × 150 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603370768324813327.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603370875557909431.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/04/11/ef16ff0dc5bd0b3_14603370980927392109.jpg"
+      ]
+    }
+  ]
+}

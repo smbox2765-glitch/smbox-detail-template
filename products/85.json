@@ -1,0 +1,59 @@
+{
+  "id": "85",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=85&cate_no=43&display_group=1",
+  "name": "E-27 머그컵 박스",
+  "tagline": "뚜껑이 붙어 있는 조립형 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/e6ea7e37a6a7e7ac6e64f7c53db50575.jpg",
+  "options": [
+    {
+      "label": "E-27",
+      "size": "110 × 110 × 110",
+      "unit": "100개",
+      "unitPrice": "400원",
+      "price": "40,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 공방",
+    "how": "머그컵 선물 포장으로",
+    "desc": "무지 상자라 택배, 선물 포장에\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/69aede1d6c3fcfd22294c3961a144f78.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/bc9266df3653d7f1522aa391b885f87c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070109583769446.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/6380b215617864ed6faa9a691138f88b.jpg"
+    },
+    {
+      "title": "조립형 무지",
+      "desc": "접어서 조립하는\n무지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8976d7f0a9ef188f2ec157190ea99a44.jpg"
+    },
+    {
+      "title": "110×110×110mm",
+      "desc": "머그컵 하나를\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070195689835787.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E-27",
+      "desc": "110 × 110 × 110 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070243173914363.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070286947752826.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070336127277584.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216070385483859621.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

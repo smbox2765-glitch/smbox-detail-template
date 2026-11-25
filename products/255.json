@@ -1,0 +1,56 @@
+{
+  "id": "255",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=255&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "청동 PGL 3구 박스",
+  "tagline": "청동색 인쇄가 고급스러운 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/8f8af9a245b47f4f0019bcca94e535ec.jpg",
+  "options": [
+    {
+      "label": "청동 PGL 3구",
+      "size": "220 × 100 × 40",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡 · 비누 · 한과 답례품 포장으로",
+    "desc": "행사 답례품을\n담기 좋은 상자예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9a0c0a68a5fd646c53722f634e5ce3ca.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c40589bebfd29803c40732526d3cee62.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/13/de93191fc38d546_14973184526435538429.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "청동색 인쇄",
+      "desc": "청동색으로 인쇄해서\n고급스러워요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/6377483ad9a0a22cb1dfdba469f8fbe6.jpg"
+    },
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a768aacd59cad8f2ab5c8f00ca86b262.jpg"
+    },
+    {
+      "title": "220×100×40mm",
+      "desc": "떡, 한과, 비누를\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/13/de93191fc38d546_14973184600681258407.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "청동 PGL 3구",
+      "desc": "220 × 100 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/13/de93191fc38d546_14973184600681258407.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/13/de93191fc38d546_14973184660157432438.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/13/de93191fc38d546_14973184727008802647.jpg"
+      ]
+    }
+  ]
+}

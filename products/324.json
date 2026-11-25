@@ -1,0 +1,56 @@
+{
+  "id": "324",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=324&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "PGL 3구 박스",
+  "tagline": "떡 · 비누를 담는 크라프트 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/3270c9ded10cc7ea2ebf441526326acc.jpg",
+  "options": [
+    {
+      "label": "PGL 3구",
+      "size": "220 × 100 × 50",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡 · 비누 · 한과 답례품 포장으로",
+    "desc": "행사 답례품을\n담기 좋은 상자예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2cf4d57e0d3904b188d57b6024b23b8.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/6525914f1f0b47c1752d27d18ed8d03a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969755130736175621.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/15820364c54c18f3c110a01763f5688c.jpg"
+    },
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c3bccb4b71049c21765fa05af863fbd5.jpg"
+    },
+    {
+      "title": "220×100×50mm",
+      "desc": "떡, 비누 3개를\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9f06bdbdaf49fc3bb9427eecbd74bcbc.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "PGL 3구",
+      "desc": "220 × 100 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969755194403416826.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969755244251821555.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_149697552965116017.jpg"
+      ]
+    }
+  ]
+}

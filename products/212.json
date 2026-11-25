@@ -1,0 +1,108 @@
+{
+  "id": "212",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=212&cate_no=43&display_group=1",
+  "name": "PE 비닐 쇼핑백 (미니 · 소 · 대)",
+  "tagline": "상자를 담아 들고 가는 투명 비닐 쇼핑백",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/8b5fc332005713cf3f2eeaeb4bce9556.png",
+  "options": [
+    {
+      "label": "미니",
+      "size": "200 × 100 × 300",
+      "unit": "100장",
+      "unitPrice": "70원",
+      "price": "7,000원"
+    },
+    {
+      "label": "미니",
+      "size": "200 × 100 × 300",
+      "unit": "500장",
+      "unitPrice": "65원",
+      "price": "32,500원"
+    },
+    {
+      "label": "소",
+      "size": "230 × 120 × 350",
+      "unit": "100장",
+      "unitPrice": "80원",
+      "price": "8,000원"
+    },
+    {
+      "label": "소",
+      "size": "230 × 120 × 350",
+      "unit": "500장",
+      "unitPrice": "70원",
+      "price": "35,000원"
+    },
+    {
+      "label": "대",
+      "size": "300 × 160 × 400",
+      "unit": "100장",
+      "unitPrice": "100원",
+      "price": "10,000원"
+    },
+    {
+      "label": "대",
+      "size": "300 × 160 × 400",
+      "unit": "500장",
+      "unitPrice": "90원",
+      "price": "45,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 떡집",
+    "how": "상자 포장 쇼핑백으로",
+    "desc": "상자를 담아 손님께\n바로 건네기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e74a0fc528e911c645a1872167686cfc.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f05debda363d57fa29faa67c18781297.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3de576062cac621193d2e45ca3f4a794.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PE 비닐",
+      "desc": "투명해서 담긴 상자가\n그대로 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e8aecb67e8baac957bcebb0e3c22e72b.jpg"
+    },
+    {
+      "title": "손잡이 쇼핑백",
+      "desc": "손잡이가 있어\n들고 가기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7e689aabe13a5356b7bad9ad68f18a16.jpg"
+    },
+    {
+      "title": "세 가지 사이즈",
+      "desc": "미니 · 소 · 대 중에\n상자 크기에 맞춰 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058114376535461.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "미니",
+      "desc": "200 × 100(50) × 300 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829101145681426503.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058243451420835.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058311387575345.jpg"
+      ]
+    },
+    {
+      "title": "소",
+      "desc": "230 × 120(60) × 350 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829101408969956360.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058496374206263.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058590194473846.jpg"
+      ]
+    },
+    {
+      "title": "대",
+      "desc": "300 × 160(80) × 400 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829101770866340921.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058731758975039.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/05/01/9509e8cd4230eb1_16829058808909620442.jpg"
+      ]
+    }
+  ]
+}

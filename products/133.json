@@ -1,0 +1,56 @@
+{
+  "id": "133",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=133&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "E골 궁중 박스",
+  "tagline": "떡 · 한과를 담는 정사각 E골 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/0157650c3407457c17d4a03304dd6b63.jpg",
+  "options": [
+    {
+      "label": "E골 궁중",
+      "size": "250 × 250 × 50",
+      "unit": "50개",
+      "unitPrice": "1,050원",
+      "price": "52,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 공방",
+    "how": "떡 · 비누 · 한과 답례품 포장으로",
+    "desc": "안에 칸막이는 따로 없어요.\n구매 전 참고해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/472daa27135ee96427150cb8f11aabf7.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ca9eff4536fb143cff4e0b8751321b7a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969763124967451798.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1a1de85d46cbdf72357cc876ce7c7f83.jpg"
+    },
+    {
+      "title": "칸막이 없는 상자",
+      "desc": "안에 칸막이는 따로 없어요\n구매 전 참고해 주세요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8523c745926e2ec98ff7cad798324af0.jpg"
+    },
+    {
+      "title": "250×250×50mm",
+      "desc": "인절미, 한과를\n넉넉하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f565bbb244c5eefa5c6b5c0201725d2b.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "E골 궁중",
+      "desc": "250 × 250 × 50 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969763184628355390.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969763237452411074.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969763301495785214.jpg"
+      ]
+    }
+  ]
+}

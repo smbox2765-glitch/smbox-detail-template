@@ -1,0 +1,55 @@
+{
+  "id": "450",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=450&cate_no=43&display_group=1",
+  "name": "목걸이 싸바리 박스",
+  "tagline": "합지에 종이를 감싼 검정 고급 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/6b9dd65faf1bdfd6a449535c0f97f7db.png",
+  "options": [
+    {
+      "label": "목걸이 싸바리",
+      "size": "100 × 100 × 40",
+      "unit": "190개",
+      "unitPrice": "1,000원",
+      "price": "190,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쥬얼리샵 · 공방",
+    "how": "목걸이 · 액세서리 포장으로",
+    "desc": "싸바리 상자는 주문 금액과 상관없이\n택배비가 따로 붙어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/20859abc0be34423a154cc9d3601871b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/0d63ed80b2632ca23247734e54555fa2.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/ae602c1b8d1c1e9a38ef8e849389ca24.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "싸바리 상자",
+      "desc": "합지에 종이를 감싼\n튼튼한 고급 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/6e53bc8e41f66b7df7083432e7559098.jpg"
+    },
+    {
+      "title": "검정 수입지",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250724/261e202043411e6e8556de3fe0179b96.jpg"
+    },
+    {
+      "title": "100×100×40mm",
+      "desc": "목걸이를\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/be1b9bbee6d1bb78d616f51c43a3d630.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "목걸이 싸바리",
+      "desc": "100 × 100 × 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/be1b9bbee6d1bb78d616f51c43a3d630.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/4b80056c0e09934221eeb099195e0ef9.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250724/ccecabb02eff6f2307ba0560a6ce2d79.jpg"
+      ]
+    }
+  ]
+}
