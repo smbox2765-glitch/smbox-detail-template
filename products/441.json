@@ -85,16 +85,33 @@
   ],
   "gallery": [
     {
-      "title": "오란다 박스",
-      "desc": "소 150×100×100 · 대 200×100×100",
+      "title": "소",
+      "desc": "150 × 100 × 100 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494331829587416948.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494331934192396077.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334196742221845.jpg"
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494332509813976947.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494332253633508571.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/10/75448bdf5a5d43e_17495114642862937254.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494332837852262654.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494333066996546963.jpg"
       ],
       "parts": {
-        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_1749433501951533368.jpg",
-        "text": "박스 + 팁끈 (펼친 모습)"
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_1749433525784861608.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "대",
+      "desc": "200 × 100 × 100 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334655168238262.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334421224935196.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334515631424942.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494334926607317194.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_1749433501951533368.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/09/28731d84dacc1a4_17494335347359742296.jpg",
+        "text": "박스 1장 (펼친 모습)"
       }
     }
   ]
