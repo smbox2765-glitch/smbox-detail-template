@@ -9,28 +9,28 @@
   "options": [
     {
       "label": "1구",
-      "size": "지름 65 · 높이 110",
+      "size": "95 × 95 × 110",
       "unit": "50개",
       "unitPrice": "380원",
       "price": "19,000원"
     },
     {
       "label": "2구",
-      "size": "지름 65 · 높이 110",
+      "size": "180 × 95 × 110",
       "unit": "50개",
       "unitPrice": "550원",
       "price": "27,500원"
     },
     {
       "label": "3구",
-      "size": "지름 65 · 높이 110",
+      "size": "265 × 95 × 110",
       "unit": "50개",
       "unitPrice": "750원",
       "price": "37,500원"
     },
     {
       "label": "4구",
-      "size": "지름 65 · 높이 110",
+      "size": "180 × 180 × 110",
       "unit": "50개",
       "unitPrice": "900원",
       "price": "45,000원"
@@ -72,7 +72,7 @@
   "gallery": [
     {
       "title": "1구",
-      "desc": "칸 1개",
+      "desc": "95 × 95 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/67518e14d1eec9973ed32d911afc5beb.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/13/ecdc26719378cdc_15762017733042682507.jpg",
@@ -85,7 +85,7 @@
     },
     {
       "title": "2구",
-      "desc": "칸 2개",
+      "desc": "180 × 95 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/26/d00f18ae28cb9bd_17035630751234202671.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2019/12/13/ecdc26719378cdc_15762020257029604442.jpg",
@@ -98,7 +98,7 @@
     },
     {
       "title": "3구",
-      "desc": "칸 3개",
+      "desc": "265 × 95 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/401735b306c9e5294c3b4caaf1b89bb3.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/06/289a1ef1f709333_16176687679181187025.jpg",
@@ -111,7 +111,7 @@
     },
     {
       "title": "4구",
-      "desc": "칸 4개",
+      "desc": "180 × 180 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/cfa05d01ddde742670e5f620b2b5816b.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/04/06/289a1ef1f709333_1617668777609709799.jpg",
