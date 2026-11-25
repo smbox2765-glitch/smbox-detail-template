@@ -59,7 +59,7 @@
     {
       "title": "펼친 상태로 배송 · 간편 조립",
       "desc": "일체형 조립식 박스라\n접기만 하면 간편하게 완성돼요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194474217008302289.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194470230223538108.jpg"
     }
   ],
   "gallery": [
@@ -69,8 +69,13 @@
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194470291158643355.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_171944701813353613.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194474125459232422.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194474172168105996.jpg"
-      ]
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/06/27/5959d545ca824c9_17194474217008302289.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
     },
     {
       "title": "5구",
@@ -78,8 +83,14 @@
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_1677543163299942444.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431477303381609.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431556612331619.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431698253366969.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431757306884197.jpg"
-      ]
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431809994333471.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
     },
     {
       "title": "6구",
@@ -87,8 +98,14 @@
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_1677543207602980774.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431900489714122.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775431974394545760.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775432122986538759.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775432178419378546.jpg"
-      ]
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/02/28/79b98fa97043e69_16775432248447560503.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
     }
   ]
 }
