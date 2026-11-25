@@ -9,14 +9,14 @@
   "options": [
     {
       "label": "4구",
-      "size": "지름 65 · 높이 110",
+      "size": "177 × 177 × 110",
       "unit": "50개",
       "unitPrice": "1,100원",
       "price": "55,000원"
     },
     {
       "label": "6구",
-      "size": "지름 65 · 높이 110",
+      "size": "252 × 177 × 110",
       "unit": "50개",
       "unitPrice": "1,200원",
       "price": "60,000원"
@@ -48,12 +48,17 @@
       "title": "칸 지름 65mm · 높이 110mm",
       "desc": "머핀, 앙금플라워, 컵케이크,\n에그타르트까지 담아요",
       "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/5cdc028766ed837531e49972a94d3b8d.jpg"
+    },
+    {
+      "title": "종이 상자 높이 50mm",
+      "desc": "아래 종이 상자는 높이 50mm,\nPET 뚜껑까지 110mm예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250916/0e9e12d3b63a490185143967c928db19.jpg"
     }
   ],
   "gallery": [
     {
       "title": "4구",
-      "desc": "칸 4개",
+      "desc": "177 × 177 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/cbb3d18eedbbd3027e7eef7a3d887837.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250916/0e9e12d3b63a490185143967c928db19.jpg",
@@ -66,7 +71,7 @@
     },
     {
       "title": "6구",
-      "desc": "칸 6개",
+      "desc": "252 × 177 × 110 mm",
       "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250915/6a6cf5031f25dd9709d81619806fedd6.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250915/d9ef638f555547831e7c585df01ba15b.jpg",
