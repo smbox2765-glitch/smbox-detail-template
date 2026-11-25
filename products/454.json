@@ -71,13 +71,59 @@
   ],
   "gallery": [
     {
-      "title": "높은 에그타르트 박스",
-      "desc": "2구 · 3구 · 4구 · 6구",
+      "title": "높은 2구",
+      "desc": "157 × 77 × 70 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250905/3ee6c64a36292ba916289d0bf042fd57.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250908/7e21c71eef5643ac3f2095f7dd084535.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/bab9c92592b47c1f52526cc85616e748.jpg"
-      ]
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/3f92e5d4bed0906b16713c1431c6ac1f.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/bab9c92592b47c1f52526cc85616e748.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/fc55eb949815db69776860a4ad2ee963.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/e6dacbaf1ae9e5643fd622d3b730c812.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/6ba7907ff03aad3706714a357c76167b.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/3ff4aad337c660dd5c8234a365d5904c.jpg",
+        "text": "박스 + 칸막이"
+      }
+    },
+    {
+      "title": "높은 3구",
+      "desc": "234 × 77 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250908/4e7696917c3cd82616f8f761bde007bc.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/39bd59e108a9afb331208ce9bdc4be03.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/73ab01e6a8d4432de88acaeb33760bc0.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/85b8d02f0000bdae9613931764628984.jpg",
+        "text": "박스 + 칸막이"
+      }
+    },
+    {
+      "title": "높은 4구",
+      "desc": "157 × 154 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250908/5ec29501ad6a7c49a92ceb490a416889.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/ba0ed7872eb6c913f3e20a16912f2a73.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/878f4fd5bbf67179d5541bec69b2518d.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/1469ed17edc93f5a46eddd9ebd480571.jpg",
+        "text": "박스 + 칸막이"
+      }
+    },
+    {
+      "title": "높은 6구",
+      "desc": "234 × 154 × 70 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250908/8cb87527e52c6c3545d3f1f1fd64c6cc.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/a5c8c914d885c75bdeb5f93d746b2227.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/5527ef62b9858002dcd57ad0c9096f3e.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250905/4cd92fb5eea7e25df8236ba0f5591bfb.jpg",
+        "text": "박스 + 칸막이"
+      }
     }
   ]
 }

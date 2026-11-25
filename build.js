@@ -143,7 +143,7 @@ function render(base, fontCss, pc = false) {
         ${g.title ? `<p class="smd-gtitle"><span>${esc(g.title)}</span>${g.desc ? esc(g.desc) : ''}</p>` : ''}
         <div class="smd-gallery">
           ${img(g.images[0], '상세 사진', 'smd-g-main')}
-          ${g.images.length > 1 ? `<div class="smd-g-row">${g.images.slice(1).map(u => img(u, '상세 사진')).join('')}</div>` : ''}
+          ${(() => { const r = g.images.slice(1), out = []; for (let i = 0; i < r.length; i += 2) out.push(r.length - i === 1 ? img(r[i], '상세 사진', 'smd-g-main') : `<div class="smd-g-row">${img(r[i], '상세 사진')}${img(r[i + 1], '상세 사진')}</div>`); return out.join(''); })()}
         </div>
         ${g.parts ? `
         <div class="smd-card smd-parts">

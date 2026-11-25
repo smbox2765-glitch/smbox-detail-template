@@ -60,19 +60,33 @@
       "title": "원터치 4구",
       "desc": "154 × 154 × 48 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250703/8e29ca9b4f98907540231500503ee870.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250703/026c196144cfb5f324a72565bf1ee0c2.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250703/d43f1a96e7f1a3bfa6e1e2b12ad6a32c.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/d07318c5e4e8492a569c1b6bab9bc4a5.jpg"
-      ]
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/22c142a62a581034b7367ed40deb5d76.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/d07318c5e4e8492a569c1b6bab9bc4a5.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/4fb9c8c044fd93116b61585ca8efafc5.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/70fd7766ab1698bd03ed0f7df809a384.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/7f601be811a92357ab740c9ca103c709.jpg",
+        "text": "박스 + 칸막이"
+      }
     },
     {
       "title": "원터치 6구",
       "desc": "231 × 154 × 48 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250702/a13b9da99fc09d30fcbf00d7952e9911.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250703/11f5d1cd8e6305a479afc49017ac7493.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250703/a268c143aa6ad785100f49f920509262.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/b3bbb247f3b516c3e327e9dc75a7c3b4.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/670c14dacd32424a10632922d6024570.jpg"
-      ]
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/5fba0039095a5691d94f00f59c437ddc.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/670c14dacd32424a10632922d6024570.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/7b6899d3d8263014cc83f136962539ff.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250702/8defdd2fcfbbca9e07222be023d7dbe9.jpg",
+        "text": "박스 + 칸막이"
+      }
     }
   ]
 }
