@@ -1,0 +1,62 @@
+{
+  "id": "233",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=233&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/CK8PzAr1IfM",
+  "name": "E골 1구 비누 박스",
+  "tagline": "비누 1개를 담는 친환경 골판지 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260610/f6c5b2a0a6db6383e0de7b01c61d8e84.jpg",
+  "options": [
+    {
+      "label": "E골 1구",
+      "size": "100 × 100 × 35",
+      "unit": "50개",
+      "unitPrice": "150원",
+      "price": "7,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "비누 공방",
+    "how": "답례품 포장으로",
+    "desc": "비누 1개가 알맞게 들어가요.\n리본으로 묶어 답례하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/a6ef1a8f18acae6d618b961899ae24b0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2055339566a64c8503efeca969907e8f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ddc17a33380d2d407890edf8fc61d66f.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "비누 1개에 맞는 사이즈",
+      "desc": "외경 100×100×35mm\n내경 87×87×35mm예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/676f5f1fa3f9390c27778ef038fe4053.jpg"
+    },
+    {
+      "title": "양수 E골 골판지",
+      "desc": "튼튼한 골판지 소재로\n친환경 비누 포장에 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/8a738c0ee4db5398cf9e3d019bc19bd6.png"
+    },
+    {
+      "title": "리본 구멍이 있어요",
+      "desc": "리본으로 묶어 답례하기 좋아요\n리본 없이 써도 괜찮아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969749215112192211.jpg"
+    },
+    {
+      "title": "접어서 쓰는 Y형 박스",
+      "desc": "접는 방법은 아래 영상에서\n확인하실 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969749156975201822.jpg"
+    }
+  ],
+  "galleryVisible": 1,
+  "gallery": [
+    {
+      "title": "E골 1구",
+      "desc": "100 × 100 × 35 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969749499433166879.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/09/8844219f2e9ce09_14969749089357537097.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/21/42fbd8e658338e3_17401219187231649412.png"
+      ]
+    }
+  ]
+}

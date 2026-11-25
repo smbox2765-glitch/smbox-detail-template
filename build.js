@@ -145,6 +145,11 @@ function render(base, fontCss, pc = false) {
           ${img(g.images[0], '상세 사진', 'smd-g-main')}
           ${g.images.length > 1 ? `<div class="smd-g-row">${g.images.slice(1).map(u => img(u, '상세 사진')).join('')}</div>` : ''}
         </div>
+        ${g.parts ? `
+        <div class="smd-card smd-parts">
+          ${img(g.parts.image, '구성품 사진', 'smd-parts-img')}
+          <p class="smd-parts-txt"><span>구성품</span>${br(g.parts.text)}</p>
+        </div>` : ''}
       </div>`;
     const shown = gal.slice(0, vis).map(group).join('');
     const rest = gal.slice(vis);
@@ -269,6 +274,10 @@ const CSS = `
 .smd-cctv{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:20px;padding:20px;border-radius:14px;background:var(--dark);color:#FFF8EE;font-size:23px;font-weight:700}
 .smd-cctv i{width:22px;height:22px;border-radius:50%;background:#D9584A;box-shadow:0 0 0 4px rgba(217,88,74,0.3)}
 .smd-ggroup{margin-bottom:44px}
+.smd-parts{margin-top:14px;padding:16px;display:flex;flex-direction:column;gap:16px}
+.smd-parts-img.smd-ph,.smd-parts-img.smd-img{aspect-ratio:3/2;border-radius:12px}
+.smd-parts-txt{display:flex;align-items:center;gap:12px;font-size:18px;font-weight:600;color:var(--ink);padding:0 4px 4px}
+.smd-parts-txt span{flex:none;padding:5px 14px;border-radius:999px;background:var(--accent);color:#fff;font-size:15px;font-weight:700}
 .smd-gtitle{display:flex;align-items:center;gap:12px;font-size:18px;color:var(--sub);margin-bottom:16px}
 .smd-gtitle span{padding:5px 16px;border-radius:8px;background:var(--dark);color:#fff;font-weight:700;font-size:17px}
 .smd-more summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;margin:0 auto 40px;width:320px;padding:18px;border-radius:999px;border:2px solid var(--accent);color:var(--accent);background:var(--card);font-size:19px;font-weight:700}
@@ -304,6 +313,7 @@ const CSS = `
   .smd-desc{font-size:16px;line-height:1.8}
   .smd-feat h3{font-size:20px}.smd-feat p{font-size:16px;line-height:1.75}
   .smd-gtitle{font-size:15px}
+  .smd-parts{padding:12px}.smd-parts-txt{font-size:16px;gap:10px}.smd-parts-txt span{font-size:13px;padding:4px 12px}
   .smd-vph{font-size:15px}
 }`;
 
@@ -316,7 +326,7 @@ const PC_CSS = `
   .smd-pc .smd-desc{font-size:23px}.smd-pc .smd-tagline{font-size:25px}
   .smd-pc .smd-table{font-size:23px}.smd-pc .smd-table th{font-size:21px}.smd-pc .smd-table th small{font-size:16px}
   .smd-pc .smd-info li{font-size:21px}.smd-pc .smd-info li>span{font-size:17px}.smd-pc .smd-info-lg li{font-size:23px}
-  .smd-pc .smd-note{font-size:19px}.smd-pc .smd-sub{font-size:19px !important}.smd-pc .smd-gtitle{font-size:21px}
+  .smd-pc .smd-note{font-size:19px}.smd-pc .smd-sub{font-size:19px !important}.smd-pc .smd-gtitle{font-size:21px}.smd-pc .smd-parts-txt{font-size:22px}.smd-pc .smd-parts-txt span{font-size:18px}
   .smd-pc .smd-eyebrow{font-size:18px}.smd-pc .smd-line-pill{font-size:19px}
   .smd-pc .smd-q h3{font-size:26px}.smd-pc .smd-feat h3{font-size:27px}.smd-pc .smd-closing{font-size:23px}
   .smd-pc .smd-more summary{font-size:22px}.smd-pc .smd-vph{font-size:22px}
