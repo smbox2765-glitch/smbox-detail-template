@@ -60,7 +60,7 @@
 ## 카페24 업로드
 - `python3 tools/cafe24_upload.py upload <번호...>`: 기존 상세설명을 `backups/<번호>.json`에 먼저 저장한 뒤 `out/<번호>/cafe24.html`로 교체합니다 (`restore`로 되돌리기)
 - 카페24 스킨은 상세설명 영역을 가운데 정렬하므로 템플릿에 `.smd{text-align:left}`를 넣어 두었습니다. `cafe24-preview.html`도 가운데 정렬 환경에서 미리 봅니다
-- 유튜브 주소는 `watch?v=`, `youtu.be/`, `embed/` 모두 iframe으로 바뀝니다
+- 유튜브 주소는 `watch?v=`, `youtu.be/`, `embed/` 모두 iframe으로 바뀝니다. 상단 영상(introVideo)은 자동재생·반복재생(음소거), 하단 접는 방법 영상은 일반 재생입니다
 - HTML만 다시 만들 때: `HTML_ONLY=1 node build.js products/<번호>.json`
 
 ## 공통 수정

@@ -30,12 +30,12 @@ function img(src, label, cls = '') {
   return `<div class="smd-ph ${cls}"><span>${esc(label)}</span></div>`;
 }
 
-function video(url, title) {
+function video(url, title, auto = false) {
   if (!url) return '';
   if (PREVIEW) return `<div class="smd-vph"><span>▶</span>${esc(title)} (카페24에서 재생 · 마켓 이미지에서는 제외)</div>`;
   const yt = url.match(/(?:youtu\.be\/|v=|shorts\/|embed\/)([\w-]{11})/);
   const body = yt
-    ? `<div class="smd-vwrap"><iframe src="https://www.youtube.com/embed/${yt[1]}?rel=0" title="${esc(title)}" frameborder="0" allowfullscreen></iframe></div>`
+    ? `<div class="smd-vwrap"><iframe src="https://www.youtube.com/embed/${yt[1]}?rel=0${auto ? `&autoplay=1&mute=1&loop=1&playlist=${yt[1]}&playsinline=1` : ''}" title="${esc(title)}" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>`
     : `<video class="smd-video" src="${esc(url)}" controls playsinline muted loop></video>`;
   return body;
 }
@@ -45,7 +45,7 @@ function render(base, fontCss, pc = false) {
   const sec = (key, inner, cls = '') => s.push(`<section class="smd-sec ${cls}" data-sec="${key}">${inner}</section>`);
 
   // #1 상단 동영상 (있는 상품만)
-  if (p.introVideo) sec('v1', `<div class="smd-pad">${video(p.introVideo, '제품 영상')}</div>`, 'smd-video-sec');
+  if (p.introVideo) sec('v1', `<div class="smd-pad">${video(p.introVideo, '제품 영상', true)}</div>`, 'smd-video-sec');
 
   // 1. 공통 상단 이미지
   const sh = common.shipping;
