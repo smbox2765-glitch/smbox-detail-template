@@ -50,15 +50,32 @@
   ],
   "gallery": [
     {
-      "title": "케이크박스 1호",
+      "title": "사각창문",
       "desc": "210 × 210 × 170 mm",
       "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578853368749630.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b92bf43555ef878319cb7e91572a7035.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403578992514958291.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579165972590921.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579341673743426.jpg"
       ],
       "parts": {
         "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579844297953874.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "하드창문",
+      "desc": "210 × 210 × 170 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403579972763850409.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8e6f0f6274f0dd54225d521ac28ff3b8.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403580063055180964.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403580155266155093.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_1740358025259448566.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/24/9281daff3f4aea1_17403580383083471855.jpg",
         "text": "박스 1장 (펼친 모습)"
       }
     }
