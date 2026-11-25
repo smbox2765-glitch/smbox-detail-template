@@ -1,0 +1,59 @@
+{
+  "id": "362",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=362&cate_no=43&display_group=1",
+  "name": "신발 박스 (E골 조립식)",
+  "tagline": "신발을 담는 갈색 E골 상하짝 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/a0d2eae3a1e5dafa643ac5d2a861fdef.jpg",
+  "options": [
+    {
+      "label": "신발박스",
+      "size": "298 × 209 × 103",
+      "unit": "100개",
+      "unitPrice": "800원",
+      "price": "80,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쇼핑몰 · 택배 발송",
+    "how": "택배 · 선물 포장으로",
+    "desc": "신발 외에도 다용도로\n쓸 수 있어요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/968d9a34085a13960c8e21f3b6fa167a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/478d433870c41c6e4f1aff456c3aa7fe.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0818530089ce3d57c87fab9f6d90ba9a.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "E골 골판지",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5be0dfc0c418227bca25225d89aeda80.jpg"
+    },
+    {
+      "title": "조립식 상하짝",
+      "desc": "뚜껑과 바닥을 접어\n조립하는 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1babeaf82f75db8912eb0077d16fada3.jpg"
+    },
+    {
+      "title": "298×209×103mm",
+      "desc": "신발 한 켤레를\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528360685439466869.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "신발박스",
+      "desc": "298 × 209 × 103 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528360725546456841.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528360796154701641.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_1652836083726318425.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/05/18/1d615591cc7100c_16528360916842487280.jpg",
+        "text": "박스 (펼친 모습)"
+      }
+    }
+  ]
+}

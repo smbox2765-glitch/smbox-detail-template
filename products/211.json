@@ -1,0 +1,59 @@
+{
+  "id": "211",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=211&cate_no=43&display_group=1",
+  "name": "소주잔 박스",
+  "tagline": "소주잔 하나를 담는 아이보리 십자형 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/4930be04164702d00f1dd50d7aac2e1e.jpg",
+  "options": [
+    {
+      "label": "소주잔 박스",
+      "size": "55 × 55 × 55",
+      "unit": "50개",
+      "unitPrice": "100원",
+      "price": "5,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "기업 · 행사",
+    "how": "소주잔 답례품 포장으로",
+    "desc": "소주잔 대량 포장에\n쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/921b9358411fd73b3f2bd215aeb44ca4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ec49cdefb472aba15426920f658b1e69.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/946a6e9db0cbb5f009ba253cc4c5c863.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "AB라이트 295g",
+      "desc": "겉은 아이보리, 안은 흰색\n코팅 없는 식품용지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/53c9b79730acf9e98c76e497c8a8f4d4.jpg"
+    },
+    {
+      "title": "십자형 밑면",
+      "desc": "밑면이 십자형이라\n조립이 간편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9c2084db618a7d0f03f0f4bc2670e1ae.jpg"
+    },
+    {
+      "title": "55×55×55mm",
+      "desc": "소주잔을 하나씩\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4f9c6f807840d061eeedfc548a8d7284.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "소주잔 박스",
+      "desc": "55 × 55 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216056163405123430.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216056207887414847.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/07/22/eb241ea19fdc285_17216056261088300580.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/703f5e497103421aaf3c06fa4b10b88f.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

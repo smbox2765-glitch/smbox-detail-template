@@ -1,0 +1,62 @@
+{
+  "id": "71",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=71&cate_no=43&display_group=1",
+  "name": "호두 손잡이 박스 (중)",
+  "tagline": "끈 손잡이가 달린 크라프트 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/6d608404b546202df5199665a241b85e.png",
+  "options": [
+    {
+      "label": "묶어서 쓰는 끈",
+      "size": "275 × 140 × 164",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    },
+    {
+      "label": "철팁끈",
+      "size": "275 × 140 × 164",
+      "unit": "50개",
+      "unitPrice": "1,150원",
+      "price": "57,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 · 공병 답례품 포장으로",
+    "desc": "행사 답례품을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/10a3da941ada5451fd48d304e7b4171b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/674076c0379b8ed123c8201c0d671f10.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979202138361434521.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/0e05d05d03cc34c57766a81be4313ba9.jpg"
+    },
+    {
+      "title": "끈 두 가지",
+      "desc": "묶어서 쓰는 끈과\n철팁끈 중에서 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979202197636521241.jpg"
+    },
+    {
+      "title": "275×140×164mm",
+      "desc": "떡, 비누, 공병을\n넉넉하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/bf34aff5dbfc03be741a8212ad417505.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "호두(중)",
+      "desc": "275 × 140 × 164 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979202287716668187.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979202364568937681.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/0e05d05d03cc34c57766a81be4313ba9.jpg"
+      ]
+    }
+  ]
+}

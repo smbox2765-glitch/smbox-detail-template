@@ -1,0 +1,62 @@
+{
+  "id": "197",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=197&cate_no=43&display_group=1",
+  "name": "호두 손잡이 박스 (대)",
+  "tagline": "끈 손잡이가 달린 크라프트 E골 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/8f2f1fa1a852716117f0ec2898d554d1.jpg",
+  "options": [
+    {
+      "label": "묶어서 쓰는 끈",
+      "size": "275 × 190 × 160",
+      "unit": "50개",
+      "unitPrice": "1,200원",
+      "price": "60,000원"
+    },
+    {
+      "label": "철팁끈",
+      "size": "275 × 190 × 160",
+      "unit": "50개",
+      "unitPrice": "1,350원",
+      "price": "67,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 · 공병 답례품 포장으로",
+    "desc": "행사 답례품을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b1c7310caf74139d0e623ee9bacdbe19.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/a296c06f5c196573400c3b31e071ce4d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979203052659141065.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/38d1a9cb9bdd50e2071c3b0fa2f9c2ca.jpg"
+    },
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/8459601570abb84b36c1f05b51d00ff1.jpg"
+    },
+    {
+      "title": "275×190×160mm",
+      "desc": "떡, 비누, 공병을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979203101015220486.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "호두(대)",
+      "desc": "275 × 190 × 160 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979203101015220486.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_149792031571644890.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/20/5a90283ac664d92_14979203223516882785.jpg"
+      ]
+    }
+  ]
+}

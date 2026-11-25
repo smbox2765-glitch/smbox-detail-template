@@ -1,0 +1,56 @@
+{
+  "id": "370",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=370&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/3pNm1IFeXVs",
+  "name": "G형 박스 (아스테지 · 속검정)",
+  "tagline": "속이 검정이고 창이 있는 일체형 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/d16f3786fded3d78a1b4f68c29643d43.jpg",
+  "options": [
+    {
+      "label": "G형 속검정",
+      "size": "240 × 200 × 135",
+      "unit": "100개",
+      "unitPrice": "600원",
+      "price": "60,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쇼핑몰 · 택배 발송",
+    "how": "택배 · 선물 포장으로",
+    "desc": "내용물이 보이는\n다용도 상자예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5a4486aa5a20f942dc976e09cd9f0be6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/6243d1794761f803417200ef8120d3eb.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1e843e26e61d40d11b6dc45f0d06b354.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 아스테지 창",
+      "desc": "튼튼한 아스테지가\n붙어 있어 안이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ba3b6d57bbd8ddce28527a244b523bff.jpg"
+    },
+    {
+      "title": "속지 검정 합지",
+      "desc": "안쪽이 검정이라\n내용물이 돋보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/fab8af0676d0c941512bd86237fbe9d4.jpg"
+    },
+    {
+      "title": "일체형 상자",
+      "desc": "접어서 쓰는\n일체형 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8c4724c8239ae642ecc2ddb9731968c3.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "G형 속검정",
+      "desc": "240 × 200 × 135 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/10/eee14bec7f3c898_14918067868316131105.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/10/eee14bec7f3c898_14918068678531896357.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/10/eee14bec7f3c898_14918067960661133254.jpg"
+      ]
+    }
+  ]
+}

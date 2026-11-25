@@ -1,0 +1,66 @@
+{
+  "id": "309",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=309&cate_no=43&display_group=1",
+  "name": "삼익베이비 손잡이 박스 (검정)",
+  "tagline": "끈 손잡이가 달린 검정 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/c057523893c6cc523efd2ab2ee45d3aa.jpg",
+  "options": [
+    {
+      "label": "묶어서 쓰는 끈",
+      "size": "220 × 133 × 110",
+      "unit": "50개",
+      "unitPrice": "1,100원",
+      "price": "55,000원"
+    },
+    {
+      "label": "철팁끈",
+      "size": "220 × 133 × 110",
+      "unit": "50개",
+      "unitPrice": "1,250원",
+      "price": "62,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 · 공병 답례품 포장으로",
+    "desc": "검정이라 고급스러운\n답례품이 돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/600e4b15a26f723ed44f0d5678585cb1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/123e9ee3ff888c94e284b82d877319df.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/01/19/cedfec5d16eddbe_16110444328481693700.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ea8632bff7c5ec008d25bfa4aa92f933.jpg"
+    },
+    {
+      "title": "검정 E골 + 수입지",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/be161b75db5e99507bac3c074a65cdcf.jpg"
+    },
+    {
+      "title": "220×133×110mm",
+      "desc": "떡, 비누, 공병을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/b2f9546d8b1b5afd7ec2e80fe421e440.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "삼익베이비 검정",
+      "desc": "220 × 133 × 110 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/01/19/cedfec5d16eddbe_16110444382363572654.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/01/19/cedfec5d16eddbe_16110444434231456394.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/01/19/cedfec5d16eddbe_16110444523241474400.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/01/19/cedfec5d16eddbe_16110444612861279543.jpg",
+        "text": "박스 + 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

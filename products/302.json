@@ -1,0 +1,59 @@
+{
+  "id": "302",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=302&cate_no=43&display_group=1",
+  "name": "와인 끈 박스 (E골)",
+  "tagline": "와인 한 병을 담는 크라프트 끈 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/9aaa61b7d51eaaef8379d39abbfaf649.jpg",
+  "options": [
+    {
+      "label": "와인 끈박스",
+      "size": "85 × 85 × 366",
+      "unit": "50개",
+      "unitPrice": "1,000원",
+      "price": "50,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "와인샵 · 행사",
+    "how": "와인 선물 포장으로",
+    "desc": "와인, 긴 병 선물을\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/e0976bd54820328ebea77da50994c1ab.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/4b0df9d21aaf8f8de481577fc3d64c4c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_15458729670263798422.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/895a75106d330caec976647790dab47a.jpg"
+    },
+    {
+      "title": "E골 골판지",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/106ed9ef32f77b8606c640e6213902aa.jpg"
+    },
+    {
+      "title": "85×85×366mm",
+      "desc": "와인 한 병을\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_15458729734692270231.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "와인 끈박스",
+      "desc": "85 × 85 × 366 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_15458729734692270231.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_154587298353569313.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_15458729903227451568.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/12/27/b4aff8c2eed1de8_15458730209013777300.jpg",
+        "text": "박스 + 끈 (펼친 모습)"
+      }
+    }
+  ]
+}

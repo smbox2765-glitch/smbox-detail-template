@@ -1,0 +1,60 @@
+{
+  "id": "332",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=332&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/du-zVqUg9RU",
+  "name": "플라워 용돈박스 G-5 (핑크)",
+  "tagline": "꽃 칸과 용돈 칸이 나뉜 분홍 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/5a0c9651c295efc9e25db637667f84ff.jpg",
+  "options": [
+    {
+      "label": "G-5 핑크",
+      "size": "250 × 215 × 60",
+      "unit": "50개",
+      "unitPrice": "1,200원",
+      "price": "60,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "꽃집 · 캔들 공방",
+    "how": "꽃 · 용돈 선물 포장으로",
+    "desc": "꽃과 용돈봉투는\n판매하지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/c5929b03a66c7237366dd9879415d8f1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/42993096930bc9db39723f48337105f6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/d15e14605db16dede189f16830e894fe.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "칸막이 구성",
+      "desc": "꽃 칸과 용돈 칸이\n나뉘어 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/b6b598f00dfd9cb571f5329813554c93.jpg"
+    },
+    {
+      "title": "꽃 칸 150×200×60mm",
+      "desc": "돈 칸은\n80×200×22mm예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/cfd4d097b666a7009db2aa19c2517adf.jpg"
+    },
+    {
+      "title": "투명 PET 뚜껑",
+      "desc": "박스 하짝 + 칸막이 +\nPET 뚜껑 1세트예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/d7a4c6a73c3111a444c956584dcb121f.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "G-5 핑크",
+      "desc": "250 × 215 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240137435597743169.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240137507535878520.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240137583587108247.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/18/3178c002861e5b5_15240137648284395771.jpg",
+        "text": "박스 하짝 + 칸막이 + PET 뚜껑"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "84",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=84&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/kvBKHPWPj-Y",
+  "name": "왁스타블렛 박스 (투명 슬리브)",
+  "tagline": "투명 슬리브로 내용물이 보이는 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/ad1bcabda638ce7c98ee31d7dc05ccaa.png",
+  "options": [
+    {
+      "label": "검정",
+      "size": "140 × 95 × 30",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "흰색",
+      "size": "140 × 95 × 30",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 디퓨저 공방",
+    "how": "캔들 · 디퓨저 선물 포장으로",
+    "desc": "습자지나 초핑지를 깔고\n포장하면 더 예뻐요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/8f3f0c41a93944a4be6c2991d26c8526.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/61dc851c9c0edce82e58e1ae55497122.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b2d8c1cb54f6c0e99c726928b33635c6.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 슬리브",
+      "desc": "슬리브가 투명해서\n내용물이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/329ecede7985b0198e419053242e32d5.jpg"
+    },
+    {
+      "title": "흰색 CCP · 검정 흑지",
+      "desc": "흰색은 반짝이는 CCP,\n검정은 무광 흑지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150425405297949238.jpg"
+    },
+    {
+      "title": "내경 125×80×30mm",
+      "desc": "왁스타블렛, 석고방향제를\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/08/26d80403110e527_17151272453183241213.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "검정",
+      "desc": "140 × 95 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_1495240775198387655.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2015/07/14/a9cdcfb770af63d_1436830157611354597.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/01/04/e7113b0566cfcc0_14518685264733158793.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150425054819736266.jpg",
+        "text": "종이 밑판 + 투명 슬리브"
+      }
+    },
+    {
+      "title": "흰색",
+      "desc": "140 × 95 × 30 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952408603155648654.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/08/23/d57031846cb6964_14719100488075805127.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/08/23/d57031846cb6964_14719100594661706870.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150425001721259698.jpg",
+        "text": "종이 밑판 + 투명 슬리브"
+      }
+    }
+  ]
+}

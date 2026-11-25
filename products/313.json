@@ -1,0 +1,111 @@
+{
+  "id": "313",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=313&cate_no=43&display_group=1",
+  "name": "들기름 손잡이 박스 (소 · 중 · 대)",
+  "tagline": "들기름 · 참기름병을 담는 크라프트 끈 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/4fa8a8d3f32c85bab56aa0c47988c3ca.png",
+  "options": [
+    {
+      "label": "소 · 오크색",
+      "size": "60 × 60 × 180",
+      "unit": "50개",
+      "unitPrice": "400원",
+      "price": "20,000원"
+    },
+    {
+      "label": "소 · 초록 리본",
+      "size": "60 × 60 × 180",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "소 · 연분홍 리본",
+      "size": "60 × 60 × 180",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "중 · 오크색",
+      "size": "60 × 60 × 215",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "중 · 초록 리본",
+      "size": "60 × 60 × 215",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "중 · 연분홍 리본",
+      "size": "60 × 60 × 215",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "대 · 오크색",
+      "size": "60 × 60 × 255",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    },
+    {
+      "label": "대 · 초록 리본",
+      "size": "60 × 60 × 255",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    },
+    {
+      "label": "대 · 연분홍 리본",
+      "size": "60 × 60 × 255",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "방앗간 · 카페",
+    "how": "병 선물 포장으로",
+    "desc": "들기름, 참기름 병을\n선물하기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/80c5c4c02c667b51f25709b97df7f634.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/6dd4aa38ccfc065a002f086c5be4cb9c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/7eaafd6152a035cd194ee138371449be.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "팁끈 손잡이",
+      "desc": "팁끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250610/baea2ffae18293c5d7e69a118f123272.jpg"
+    },
+    {
+      "title": "크라프트 385g",
+      "desc": "튼튼한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/06/10/75448bdf5a5d43e_1749511612785176712.jpg"
+    },
+    {
+      "title": "팁끈 세 가지",
+      "desc": "오크색, 초록 리본,\n연분홍 리본 중에 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250610/e3521b8e6fc0b5b1c582229f579ea37e.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "들기름 박스",
+      "desc": "소 120ml · 중 180ml · 대 250ml",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_1499648885465353510.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_14996488975195926610.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/07/10/2bbb2fead7c86a2_1499648913723764507.jpg"
+      ]
+    }
+  ]
+}

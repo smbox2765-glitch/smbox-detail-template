@@ -1,0 +1,80 @@
+{
+  "id": "377",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=377&cate_no=43&display_group=1",
+  "name": "택배박스 카톤 4종",
+  "tagline": "우체국 택배용 무지 골판지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260608/e8305ec4719ca68d5a10d9c6d3adeac0.jpg",
+  "options": [
+    {
+      "label": "카톤 1호 (E골)",
+      "size": "160 × 120 × 70",
+      "unit": "200개",
+      "unitPrice": "300원",
+      "price": "60,000원"
+    },
+    {
+      "label": "카톤 2호 (B골)",
+      "size": "290 × 220 × 93",
+      "unit": "80개",
+      "unitPrice": "550원",
+      "price": "44,000원"
+    },
+    {
+      "label": "카톤 3호 (B골)",
+      "size": "300 × 230 × 120",
+      "unit": "80개",
+      "unitPrice": "550원",
+      "price": "44,000원"
+    },
+    {
+      "label": "카톤 4호 (B골)",
+      "size": "330 × 230 × 170",
+      "unit": "80개",
+      "unitPrice": "650원",
+      "price": "52,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쇼핑몰 · 택배 발송",
+    "how": "택배 · 선물 포장으로",
+    "desc": "택배 발송, 이사, 보관 등\n다용도로 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/33c60c6547f2710beb52df64f8f235b0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3c2df20e7a140feb1f72c30bb4de7bf5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/21/d54cd247ead07c0_16242509456039941462.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "무지 택배 상자",
+      "desc": "무지 골판지라\n어떤 택배에도 잘 맞아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5126a72efd7b90059252a6c2eab17cb4.jpg"
+    },
+    {
+      "title": "E골 · B골",
+      "desc": "1호는 E골, 2~4호는\n튼튼한 B골이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/fedbff20b82e146543f3575efc6195f9.jpg"
+    },
+    {
+      "title": "네 가지 사이즈",
+      "desc": "보낼 물건 크기에 맞춰\n1~4호 중에 골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/21/d54cd247ead07c0_16242509501069634622.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "카톤 4종",
+      "desc": "1호 ~ 4호",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/21/d54cd247ead07c0_16242509562036769897.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/21/d54cd247ead07c0_16242509604934359367.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/05/31/c1d502618a843cd_16224381848798141424.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/54b623e9058d8eb01ad743b7e3dba704.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

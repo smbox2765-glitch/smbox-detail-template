@@ -1,0 +1,55 @@
+{
+  "id": "442",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=442&cate_no=43&display_group=1",
+  "name": "K-8 크라 손잡이 박스",
+  "tagline": "손잡이가 달린 작은 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/e192ecc9d3b27cec383567c9fee41193.jpg",
+  "options": [
+    {
+      "label": "K-8 크라",
+      "size": "59 × 59 × 118",
+      "unit": "50개",
+      "unitPrice": "280원",
+      "price": "14,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 디퓨저 공방",
+    "how": "캔들 · 디퓨저 선물 포장으로",
+    "desc": "작은 선물을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260615/1b919381ab57dcdc8498c182b4f3e25b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250613/12.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/9a6c11af177d20a99b345c8c8035b774.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 달려 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260615/1b919381ab57dcdc8498c182b4f3e25b.jpg"
+    },
+    {
+      "title": "크라프트350g",
+      "desc": "CCP350g / 크라프트350g\n재질이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250613/12.jpg"
+    },
+    {
+      "title": "59×59×118mm",
+      "desc": "작은 병, 캔들을\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250613/copy-1749773490-13.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "K-8 크라",
+      "desc": "59 × 59 × 118 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250613/12.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/upload/NNEditor/20250613/copy-1749773490-13.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20260615/1b919381ab57dcdc8498c182b4f3e25b.jpg"
+      ]
+    }
+  ]
+}

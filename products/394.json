@@ -1,0 +1,60 @@
+{
+  "id": "394",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=394&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/3pNm1IFeXVs",
+  "name": "C형 홍콩몰 박스 (검정)",
+  "tagline": "안팎이 검정인 고급 E골 택배 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/086a8ac58098d347eb28f79aaeefbefa.jpg",
+  "options": [
+    {
+      "label": "C형 홍콩몰 검정",
+      "size": "350 × 250 × 100",
+      "unit": "50개",
+      "unitPrice": "1,150원",
+      "price": "57,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쇼핑몰 · 택배 발송",
+    "how": "고급 택배 · 선물 포장으로",
+    "desc": "검정 상자라 고급 선물\n택배에 잘 어울려요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c144d9cd564501b5193736fff0971529.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3184ea038e54807a8cdb797d6e9240c8.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056626163407658.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "검정 양수 E골",
+      "desc": "안팎 모두 검정인\n고급스러운 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/07f41cf18afe4df9c65a5490d4068227.png"
+    },
+    {
+      "title": "C형 조립식",
+      "desc": "뚜껑이 붙어 있어\n접어서 조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/edd2db51ab521db09c9638a18e2a1c21.png"
+    },
+    {
+      "title": "350×250×100mm",
+      "desc": "큰 상품도 넉넉하게\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056675138582548.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "C형 홍콩몰 검정",
+      "desc": "350 × 250 × 100 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056675138582548.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056723153752157.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056779331921967.png"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2020/04/10/62870eb91984d66_15865056892788852379.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

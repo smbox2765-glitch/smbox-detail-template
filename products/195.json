@@ -1,0 +1,62 @@
+{
+  "id": "195",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=195&cate_no=43&display_group=1",
+  "name": "안산 끈 박스",
+  "tagline": "끈 손잡이가 달린 크라프트 E골 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/089d6490d1074dd3aa716016babc5877.jpg",
+  "options": [
+    {
+      "label": "묶어서 쓰는 끈",
+      "size": "155 × 80 × 195",
+      "unit": "50개",
+      "unitPrice": "800원",
+      "price": "40,000원"
+    },
+    {
+      "label": "철팁끈",
+      "size": "155 × 80 × 195",
+      "unit": "50개",
+      "unitPrice": "950원",
+      "price": "47,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 · 공병 답례품 포장으로",
+    "desc": "행사 답례품을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/2c839538f2f403f8a9a2c80e13f56bc2.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fe820ccd353abd4c4d4b2980707f98fd.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980058344737230698.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/78900e3c5585a7464628d8878a476533.jpg"
+    },
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/fd77924d39b255a793a5ea3e20d0b2ca.jpg"
+    },
+    {
+      "title": "155×80×195mm",
+      "desc": "떡, 비누, 공병을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980060690904798031.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "안산 끈박스",
+      "desc": "155 × 80 × 195 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980060690904798031.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980060755091653709.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/21/7d2231f23bb8252_14980060854393199058.jpg"
+      ]
+    }
+  ]
+}

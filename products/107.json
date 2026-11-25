@@ -1,0 +1,56 @@
+{
+  "id": "107",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=107&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/kgDltBsmqEQ",
+  "name": "플라워 용돈박스 G-4 (투명 슬리브)",
+  "tagline": "꽃과 용돈을 함께 담는 검정 슬리브 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/79390b25434bb1279a3fc61a3947a7f0.jpg",
+  "options": [
+    {
+      "label": "G-4",
+      "size": "200 × 110 × 55",
+      "unit": "50개",
+      "unitPrice": "700원",
+      "price": "35,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "꽃집 · 캔들 공방",
+    "how": "꽃 · 용돈 선물 포장으로",
+    "desc": "꽃과 용돈케이스는\n판매하지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/cf8cec4654317e1371434417f27e9a5c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/03d337370b69f808c95167caf5e7cab6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/861beb3806365a2ee29795f40e20a4f9.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 슬리브",
+      "desc": "투명 슬리브로\n내용물이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/b671d5bbbad9f1f641eb9cf66a864afb.jpg"
+    },
+    {
+      "title": "흑지 400g 무광코팅",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/3256de6dbd126c93ef103a133a593177.jpg"
+    },
+    {
+      "title": "Y형 상자 + PET",
+      "desc": "펼친 상태로 나가는\nY형 상자와 PET 1세트예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/1cf29b284b3963a790a3e0d11c7e48d5.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "G-4",
+      "desc": "200 × 110 × 55 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/20/185064354b9d62d_14926740186576133956.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/20/185064354b9d62d_14926740256152382261.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/04/20/185064354b9d62d_1492674032688218490.jpg"
+      ]
+    }
+  ]
+}

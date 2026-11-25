@@ -1,0 +1,71 @@
+{
+  "id": "20",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=20&cate_no=43&display_group=1",
+  "name": "캔들박스 7온즈 (흰색 · 검정)",
+  "tagline": "7온즈 캔들을 담는 무지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/31b32c52ca189dfb292ccf72a117caec.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "76 × 76 × 90",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    },
+    {
+      "label": "검정",
+      "size": "76 × 76 × 90",
+      "unit": "50개",
+      "unitPrice": "350원",
+      "price": "17,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 공방",
+    "how": "캔들 선물 포장으로",
+    "desc": "사진 속 리본은 연출이에요.\n상자만 판매해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/6eb5ac9534d427946de959ab75a7cc90.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/29702b1015d1b503851c4ba722d0b80d.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/5baa4b2e1908c57a74f1a8fa8a7e1d46.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 · 검정",
+      "desc": "흰색 한창B와\n검정 흑지 400g이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/73c769558e671ad805f3697932145d2c.jpg"
+    },
+    {
+      "title": "76×76×90mm",
+      "desc": "7온즈 캔들을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/18/57bd7d7da37b9f9_15292994643725448777.png"
+    },
+    {
+      "title": "간단한 조립",
+      "desc": "접어서 바로\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/acc768b5225ae51f47d914f93a11ca8d.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "76 × 76 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952413245128567916.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952413308236425036.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/dcbc868630607a7942a1a2cffb7c4399.jpg"
+      ]
+    },
+    {
+      "title": "검정",
+      "desc": "76 × 76 × 90 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/04/71f017e7c4b32cd_14097906355019437917.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/04/71f017e7c4b32cd_14097906524538535112.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2014/09/04/71f017e7c4b32cd_14097906642105672645.jpg"
+      ]
+    }
+  ]
+}

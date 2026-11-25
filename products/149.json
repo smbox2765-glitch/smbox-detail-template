@@ -1,0 +1,71 @@
+{
+  "id": "149",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=149&cate_no=43&display_group=1",
+  "name": "E-15 손잡이 박스 (빨강 · 회색)",
+  "tagline": "끈 손잡이가 달린 높은 선물 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/a7293301f9101afb8424e45922d9a6d4.png",
+  "options": [
+    {
+      "label": "빨강",
+      "size": "242 × 123 × 206",
+      "unit": "50개",
+      "unitPrice": "1,400원",
+      "price": "70,000원"
+    },
+    {
+      "label": "회색",
+      "size": "242 × 123 × 206",
+      "unit": "50개",
+      "unitPrice": "1,400원",
+      "price": "70,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "어린이집 · 행사",
+    "how": "떡 · 비누 · 공병 답례품 포장으로",
+    "desc": "행사 답례품을 담아\n들고 가기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/83ef784bdeed39e10a58fb51e3fa6347.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e533427c7b6ca9055779a7788be71d14.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984370594889477464.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/947fd08562053cb1e2e9ddc4accad0a8.jpg"
+    },
+    {
+      "title": "빨강 · 회색",
+      "desc": "두 가지 색으로\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/26/baa59a0a037e651_14984370660526921270.jpg"
+    },
+    {
+      "title": "242×123×206mm",
+      "desc": "떡, 비누, 공병을\n세워 담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/ec2581356b5fb081f281235b5d916fa6.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "빨강",
+      "desc": "242 × 123 × 206 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_14688933791775642923.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_14688933923175742767.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/07/19/c9996774f804fb1_1468893403731979904.jpg"
+      ]
+    },
+    {
+      "title": "회색",
+      "desc": "242 × 123 × 206 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/39a5a3434d1737acbedf0c4261f237c5.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/45c3c69e24a30b5a87de53b9afc50000.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/7161b7872ce933c071926aa9ef5d8cda.jpg"
+      ]
+    }
+  ]
+}

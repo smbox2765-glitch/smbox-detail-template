@@ -1,0 +1,59 @@
+{
+  "id": "96",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=96&cate_no=43&display_group=1",
+  "name": "더치커피 · 들기름 2구 박스",
+  "tagline": "병 2개를 담는 창 있는 끈 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/21d84c5c6c943b088a9cf6fe494cad35.jpg",
+  "options": [
+    {
+      "label": "2구 박스",
+      "size": "140 × 70 × 235",
+      "unit": "50개",
+      "unitPrice": "850원",
+      "price": "42,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "방앗간 · 카페",
+    "how": "병 선물 포장으로",
+    "desc": "더치커피, 들기름,\n소주병 2개를 담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/7e61a5be7d4a4afcff1ee5f83670b554.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/682e5e3d3e27fe706c662d83f7095451.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560572702420246.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/eaec489d323212ccaf70d92718da9a8a.jpg"
+    },
+    {
+      "title": "투명창",
+      "desc": "창으로 병이\n보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560625427475481.jpg"
+    },
+    {
+      "title": "2구 칸막이",
+      "desc": "병 2개를 나눠\n세워 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560937259315798.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "2구 박스",
+      "desc": "140 × 70 × 235 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560572702420246.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560625427475481.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560937259315798.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/08/30/56d24191c551a6c_16933560989732640310.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

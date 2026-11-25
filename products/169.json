@@ -1,0 +1,55 @@
+{
+  "id": "169",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=169&cate_no=43&display_group=1",
+  "name": "은색 삼면 박스 (소)",
+  "tagline": "은은하게 빛나는 은색 캔들 · 공병 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/ed63a27aea5e046f93ca1fb669182a1f.png",
+  "options": [
+    {
+      "label": "은색 삼면(소)",
+      "size": "55 × 55 × 105",
+      "unit": "50개",
+      "unitPrice": "300원",
+      "price": "15,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 향수 공방",
+    "how": "캔들 · 공병 선물 포장으로",
+    "desc": "캔들, 공병 답례품을\n하나씩 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0a3f0c90e7eccd4eaa7aa9a2266e0d34.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8fcca424f195a50400251f86b3d3e290.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_1520842635029444284.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "은색 RIV350g",
+      "desc": "무광코팅한\n은색 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/dfd95aac56047e84e8787739f8150976.jpg"
+    },
+    {
+      "title": "55×55×105mm",
+      "desc": "작은 캔들, 공병을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c99be198617d5e9cd1c0cb420909faf2.jpg"
+    },
+    {
+      "title": "간단한 조립",
+      "desc": "접어서 바로\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208426448441153446.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "은색 삼면(소)",
+      "desc": "55 × 55 × 105 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208426448441153446.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_1520842651529230974.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/03/12/3b793f0ed64e56f_15208426583734798000.jpg"
+      ]
+    }
+  ]
+}

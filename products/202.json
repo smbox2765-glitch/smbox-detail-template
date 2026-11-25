@@ -1,0 +1,55 @@
+{
+  "id": "202",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=202&cate_no=43&display_group=1",
+  "name": "캔들박스 손잡이 PET 2호",
+  "tagline": "손잡이가 달린 투명 PET 캔들 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/1f78573ea0e9d8cbded684992f74dd97.png",
+  "options": [
+    {
+      "label": "손잡이 PET 2호",
+      "size": "80 × 80 × 120",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 디퓨저 공방",
+    "how": "캔들 · 디퓨저 선물 포장으로",
+    "desc": "캔들, 디퓨저 답례품을\n보이게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/8224b213f1eb7e70b2884e01666076a5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/cba4a724ab94a69efd88dfd5f0ffc4fc.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2f45b9ab80ec510e6348ad5b5ca24418.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET",
+      "desc": "투명해서 캔들이\n그대로 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e0c0646529c6bce01f86667f88a5bcd0.jpg"
+    },
+    {
+      "title": "손잡이 상자",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576602958869152753.jpg"
+    },
+    {
+      "title": "80×80×120mm",
+      "desc": "캔들, 디퓨저를\n세워 담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_1457660308696486465.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "손잡이 PET 2호",
+      "desc": "80 × 80 × 120 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_1457660308696486465.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576603293838396879.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576603515241573727.jpg"
+      ]
+    }
+  ]
+}

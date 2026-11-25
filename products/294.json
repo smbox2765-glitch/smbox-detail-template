@@ -1,0 +1,80 @@
+{
+  "id": "294",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=294&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/FxGNTKB7us8",
+  "name": "왁스타블렛 1구 박스 (C형)",
+  "tagline": "석고방향제 · 액세서리를 담는 무지 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/66655afda33e74e16d24f2bfe158ccfd.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "71 × 116 × 37",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    },
+    {
+      "label": "검정",
+      "size": "71 × 116 × 37",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 디퓨저 공방",
+    "how": "캔들 · 디퓨저 선물 포장으로",
+    "desc": "습자지나 초핑지를 깔면\n흔들리지 않게 포장돼요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/915193bc5f7cf9b593cfe0556aafd614.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b701a5c56e288cf3c0ef3a3b17be154b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/08/26d80403110e527_17151279129016267022.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 · 검정 무광코팅",
+      "desc": "두 색 모두 무광코팅이라\n유분, 수분에 강해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/457dd65ed1e424549bcb57ebd7b5307a.jpg"
+    },
+    {
+      "title": "다용도 상자",
+      "desc": "팔찌, 귀걸이, 목걸이\n상자로도 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b7e00466acdffdf2f72b9965661590ca.jpg"
+    },
+    {
+      "title": "스티커 마감",
+      "desc": "윗면에 스티커를 붙이면\n답례품으로 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/79a83726ed98de556d61ab6ff25c21ba.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "71 × 116 × 37 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_1715042792064364127.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_1715042797742519356.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150428024039960465.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150428063537163099.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    },
+    {
+      "title": "검정",
+      "desc": "71 × 116 × 37 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150427616824526076.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150427719367229154.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150427759367841312.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/05/07/680215cc1e73927_17150428112238594971.jpg",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

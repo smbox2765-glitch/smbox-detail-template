@@ -1,0 +1,71 @@
+{
+  "id": "89",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=89&cate_no=43&display_group=1",
+  "name": "캔들박스 3온즈 맞뚜껑 (흰색 · 검정)",
+  "tagline": "3온즈 캔들을 담는 맞뚜껑 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260529/bb9304e6e34fb8cbe43a20321e53c1a4.png",
+  "options": [
+    {
+      "label": "흰색",
+      "size": "62 × 62 × 74",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    },
+    {
+      "label": "검정",
+      "size": "62 × 62 × 74",
+      "unit": "50개",
+      "unitPrice": "250원",
+      "price": "12,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 화장품 공방",
+    "how": "캔들 · 공병 선물 포장으로",
+    "desc": "캔들 답례품을\n깔끔하게 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e439baff13e53eb405a390e4f8cc4411.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e5accbfe12764d19df2b3d4d55cf22d3.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/40653cee0e8e665dfa06e6df72eb0df9.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흰색 · 검정",
+      "desc": "흰색 RIV350g과\n검정 흑지 400g이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/d1f9f5bddb18d8bdf4e9857e3c507d33.jpg"
+    },
+    {
+      "title": "맞뚜껑 구조",
+      "desc": "뚜껑을 끼워 닫는\n상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9aff5be653403cc8b20e4f073cb5f2d5.jpg"
+    },
+    {
+      "title": "62×62×74mm",
+      "desc": "3온즈 캔들을\n담기 좋은 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/06/18/57bd7d7da37b9f9_15292990557936302480.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "흰색",
+      "desc": "62 × 62 × 74 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952410345605163082.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952410413071496271.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_1495240981886721600.jpg"
+      ]
+    },
+    {
+      "title": "검정",
+      "desc": "62 × 62 × 74 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576586515196298246.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576586625738593544.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2016/03/11/3d9f2fec713f891_14576586377203299900.jpg"
+      ]
+    }
+  ]
+}

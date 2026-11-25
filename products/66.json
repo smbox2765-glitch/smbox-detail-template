@@ -1,0 +1,55 @@
+{
+  "id": "66",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=66&cate_no=43&display_group=1",
+  "name": "크라 삼면접착 박스",
+  "tagline": "밑면이 붙어 있는 작은 크라프트 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/fe3f1724a46837f3702f628becceee17.jpg",
+  "options": [
+    {
+      "label": "크라 삼면접착",
+      "size": "40 × 40 × 110",
+      "unit": "50개",
+      "unitPrice": "200원",
+      "price": "10,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 향수 공방",
+    "how": "캔들 · 공병 선물 포장으로",
+    "desc": "캔들, 공병 답례품을\n하나씩 포장해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e8881290c99c55bd3d0f5223a8ab3a6b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a29c959d1ba595102bbc6259c8480670.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024435795219103172.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트지",
+      "desc": "내추럴한\n크라프트지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2f3ac99fd7ded438b9403b4778ecd3dc.jpg"
+    },
+    {
+      "title": "40×40×110mm",
+      "desc": "향수, 롤온 공병을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/86eddf94aeb84b80d0cc288bad042068.jpg"
+    },
+    {
+      "title": "간단한 조립",
+      "desc": "접어서 바로\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024435836965286054.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "크라 삼면접착",
+      "desc": "40 × 40 × 110 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024435836965286054.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024435878676262211.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/12/13/e5f9057d442ea5f_17024435923169888848.jpg"
+      ]
+    }
+  ]
+}

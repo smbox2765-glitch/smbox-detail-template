@@ -1,0 +1,55 @@
+{
+  "id": "145",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=145&cate_no=43&display_group=1",
+  "name": "캔들박스 공효진 (소)",
+  "tagline": "소이캔들 · 공병을 담는 검정 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/e60018bbedebe05154801ff2e60667aa.png",
+  "options": [
+    {
+      "label": "공효진(소)",
+      "size": "60 × 60 × 115",
+      "unit": "50개",
+      "unitPrice": "430원",
+      "price": "21,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "캔들 · 향수 공방",
+    "how": "캔들 · 공병 선물 포장으로",
+    "desc": "사진 속 리본은 연출이에요.\n상자만 판매해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/6e9e97cf8cfc855de35b7e015d178428.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/93ba725c58ec815bdaec72e696e2c50b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952416782058824295.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "흑지 400g 무광코팅",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/4c6928f5a0bce69c31cdba7e561a23aa.jpg"
+    },
+    {
+      "title": "60×60×115mm",
+      "desc": "소이캔들, 향수 공병을\n담기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/00fca7308323b2ff3a779d58cb8086a9.jpg"
+    },
+    {
+      "title": "간단한 조립",
+      "desc": "접어서 바로\n조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0825d77be1c27b4287d55ceef756e88e.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "공효진(소)",
+      "desc": "60 × 60 × 115 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952416902384771439.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952416964912939448.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/05/20/4493e97cccb522b_14952417020598500677.jpg"
+      ]
+    }
+  ]
+}

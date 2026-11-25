@@ -1,0 +1,60 @@
+{
+  "id": "378",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=378&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/3pNm1IFeXVs",
+  "name": "C형 홍콩몰 박스",
+  "tagline": "뚜껑이 붙어 있는 조립식 E골 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260609/849ab79c5f2d0450a11684d90df7562d.jpg",
+  "options": [
+    {
+      "label": "C형 홍콩몰",
+      "size": "350 × 250 × 100",
+      "unit": "50개",
+      "unitPrice": "900원",
+      "price": "45,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "쇼핑몰 · 택배 발송",
+    "how": "택배 · 선물 포장으로",
+    "desc": "택배 발송용, 선물용으로\n두루 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/21af16e3c4de4195d432cc27acfafd45.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/e358e60bcafd34f8ddc687073cbb4c84.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/15/3aa46f9b61b5db4_14974921995883781704.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "양수 E골",
+      "desc": "튼튼한 E골\n골판지 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/62b294714842ac3baa62fabb235f1d27.jpg"
+    },
+    {
+      "title": "C형 조립식",
+      "desc": "뚜껑이 붙어 있어\n접어서 조립해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/21afd202f0d4562ef984bb02ab0da675.jpg"
+    },
+    {
+      "title": "350×250×100mm",
+      "desc": "큰 상품도 넉넉하게\n담는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/15/3aa46f9b61b5db4_14974922053734494870.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "C형 홍콩몰",
+      "desc": "350 × 250 × 100 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/15/3aa46f9b61b5db4_14974921995883781704.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/15/3aa46f9b61b5db4_14974922053734494870.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/06/15/3aa46f9b61b5db4_14974922109438868075.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/dcd319a4113f23f63b3bc81664558109.png",
+        "text": "박스 1장 (펼친 모습)"
+      }
+    }
+  ]
+}

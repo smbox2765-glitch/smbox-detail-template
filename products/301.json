@@ -1,0 +1,69 @@
+{
+  "id": "301",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=301&cate_no=43&display_group=1",
+  "name": "스윙병 손잡이 박스 (소 · 중 · 대)",
+  "tagline": "유리병을 담는 검정 끈 손잡이 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260602/b2a681c2bdcf28a5f923e7b9184e7f21.png",
+  "options": [
+    {
+      "label": "소 (250ml)",
+      "size": "65 × 65 × 220",
+      "unit": "50개",
+      "unitPrice": "450원",
+      "price": "22,500원"
+    },
+    {
+      "label": "중 (500ml)",
+      "size": "67 × 67 × 267",
+      "unit": "50개",
+      "unitPrice": "550원",
+      "price": "27,500원"
+    },
+    {
+      "label": "대 (1000ml)",
+      "size": "83 × 83 × 321",
+      "unit": "50개",
+      "unitPrice": "650원",
+      "price": "32,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "방앗간 · 카페",
+    "how": "병 선물 포장으로",
+    "desc": "스윙병, 유리병 선물을\n담기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/062ba00a6446c17bcb6abdd2e51ee39c.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/a7cdfbea2fdcfb67bd649472d1fcbfa5.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/ae4c7097335d7368662d48d0e41fe020.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "끈 손잡이",
+      "desc": "끈 손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/33e360f0baaa50a76a9bb2203da4499c.jpg"
+    },
+    {
+      "title": "동그란 창",
+      "desc": "창으로 병이\n살짝 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/e7ab3a528501954ca0aa6e03be17f764.jpg"
+    },
+    {
+      "title": "흑지 400g",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250613/57eebdcae12ef24cda6495381bf76bbd.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "스윙병 박스",
+      "desc": "소 · 중 · 대",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/08/07/1d1f34947fa274f_15020693485264122928.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/08/07/1d1f34947fa274f_15020693681281517102.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2017/08/07/1d1f34947fa274f_15020693745182272183.jpg"
+      ]
+    }
+  ]
+}

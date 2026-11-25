@@ -1,0 +1,56 @@
+{
+  "id": "110",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=110&cate_no=43&display_group=1",
+  "foldVideo": "https://www.youtube.com/embed/NB56f4BTn3A",
+  "name": "플라워 용돈박스 G-5 (검정)",
+  "tagline": "투명 덮개를 씌우는 넉넉한 검정 상자",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260612/d2895013a44bde20c466d179e760a46c.png",
+  "options": [
+    {
+      "label": "G-5 검정",
+      "size": "250 × 215 × 60",
+      "unit": "50개",
+      "unitPrice": "1,100원",
+      "price": "55,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "꽃집 · 캔들 공방",
+    "how": "꽃 · 용돈 선물 포장으로",
+    "desc": "사진 속 리본은\n판매하지 않아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9f4ef96d9bf88bcf3573685491981366.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/2d743e6993e28fc1c44ebdfd12363ddc.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/813907dbaeb633775998e820ccdf964e.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 PET 덮개",
+      "desc": "투명한 뚜껑으로\n내용물이 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/68a4887063ca9e2353c31a490eecb0b7.jpg"
+    },
+    {
+      "title": "흑지 무광코팅",
+      "desc": "고급스러운\n검정 상자예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/afa71eec96cc6cf46ca17cf33f5b779c.jpg"
+    },
+    {
+      "title": "넉넉한 크기",
+      "desc": "크기가 넉넉해\n다용도로 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/9064e7046ec09c79cae83e21ad04d941.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "G-5 검정",
+      "desc": "250 × 215 × 60 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/01/29/00adcf878a3b124_15171885315645788908.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/01/29/00adcf878a3b124_15171886419107325841.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/01/29/00adcf878a3b124_15171886506572852763.jpg"
+      ]
+    }
+  ]
+}
