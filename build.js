@@ -33,7 +33,7 @@ function img(src, label, cls = '') {
 function video(url, title) {
   if (!url) return '';
   if (PREVIEW) return `<div class="smd-vph"><span>▶</span>${esc(title)} (카페24에서 재생 · 마켓 이미지에서는 제외)</div>`;
-  const yt = url.match(/(?:youtu\.be\/|v=|shorts\/)([\w-]{11})/);
+  const yt = url.match(/(?:youtu\.be\/|v=|shorts\/|embed\/)([\w-]{11})/);
   const body = yt
     ? `<div class="smd-vwrap"><iframe src="https://www.youtube.com/embed/${yt[1]}?rel=0" title="${esc(title)}" frameborder="0" allowfullscreen></iframe></div>`
     : `<video class="smd-video" src="${esc(url)}" controls playsinline muted loop></video>`;
@@ -200,6 +200,7 @@ const CSS = `
   width:100%;max-width:860px;margin:0 auto;background:var(--bg);color:var(--ink);
   font-family:'Pretendard',-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;line-height:1.6;letter-spacing:-0.02em;word-break:keep-all}
 .smd *{box-sizing:border-box;margin:0;padding:0}
+.smd{text-align:left}
 .smd-sec{display:block}
 .smd-pad{padding:88px 56px}
 .smd-flush{line-height:0}
@@ -337,6 +338,7 @@ const PC_CSS = `
 // 카페24용: 웹폰트는 CDN, 공통 이미지는 cafe24Images 주소
 const cdnFont = `@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');`;
 fs.writeFileSync(path.join(OUT, 'cafe24.html'), render(common.assetBaseUrl, cdnFont, true));
+if (process.env.HTML_ONLY) { console.log('cafe24.html 생성: ' + OUT); process.exit(0); }
 
 // 미리보기/이미지 변환용: 로컬 폰트·이미지
 const fdir = path.join(ROOT, 'node_modules/pretendard/dist/web/static/woff2');
@@ -358,7 +360,7 @@ fs.writeFileSync(path.join(OUT, 'preview.html'), previewHtml);
 
 // 카페24 실제 화면 미리보기: 실제 카페24 이미지 주소(축소된 공통 이미지 포함)를 받아와 스킨 폭(1360px) 안에 넣어 봄
 const cafe24Preview = `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>카페24 미리보기</title>
-<style>html,body{margin:0;background:#fff}.skin{max-width:1360px;margin:0 auto;padding:40px 0}</style></head><body><div class="skin">${render(common.assetBaseUrl, localFont, true)}</div></body></html>`;
+<style>html,body{margin:0;background:#fff}.skin{max-width:1360px;margin:0 auto;padding:40px 0;text-align:center}</style></head><body><div class="skin">${render(common.assetBaseUrl, localFont, true)}</div></body></html>`;
 fs.writeFileSync(path.join(OUT, 'cafe24-preview.html'), cafe24Preview);
 
 // 오픈마켓용 분할 이미지 (섹션 단위, 동영상 섹션 제외)

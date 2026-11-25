@@ -57,6 +57,12 @@
 - 화면 폭이 700px 미만인 휴대폰에서는 축소하지 않고 모바일 레이아웃을 씁니다
 - 마켓용 분할 이미지는 860px 그대로입니다
 
+## 카페24 업로드
+- `python3 tools/cafe24_upload.py upload <번호...>`: 기존 상세설명을 `backups/<번호>.json`에 먼저 저장한 뒤 `out/<번호>/cafe24.html`로 교체합니다 (`restore`로 되돌리기)
+- 카페24 스킨은 상세설명 영역을 가운데 정렬하므로 템플릿에 `.smd{text-align:left}`를 넣어 두었습니다. `cafe24-preview.html`도 가운데 정렬 환경에서 미리 봅니다
+- 유튜브 주소는 `watch?v=`, `youtu.be/`, `embed/` 모두 iframe으로 바뀝니다
+- HTML만 다시 만들 때: `HTML_ONLY=1 node build.js products/<번호>.json`
+
 ## 공통 수정
 - Q&A, 매장·공장 문구: `common.json` (모든 상품에 반영됨)
 - 공통 이미지: `assets/` (`factory.jpg`, `common-bottom.jpg`)
