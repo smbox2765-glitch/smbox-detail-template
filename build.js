@@ -137,7 +137,7 @@ function render(base, fontCss, pc = false) {
   // 5-1. 상세 사진 더보기
   const gal = p.gallery || [];
   if (gal.length) {
-    const vis = p.galleryVisible ?? 1;
+    const vis = p.galleryVisible ?? gal.length;
     const group = (g) => `
       <div class="smd-ggroup">
         ${g.title ? `<p class="smd-gtitle"><span>${esc(g.title)}</span>${g.desc ? esc(g.desc) : ''}</p>` : ''}
