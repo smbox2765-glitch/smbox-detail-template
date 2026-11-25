@@ -1,0 +1,55 @@
+{
+  "id": "61",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=61&cate_no=43&display_group=1",
+  "name": "크라 쇼핑백 (대)",
+  "tagline": "답례 선물을 담는 넉넉한 크라프트 쇼핑백",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/34f971371d22b65b5e4dc74367055b92.jpg",
+  "options": [
+    {
+      "label": "크라 쇼핑백(대)",
+      "size": "330 × 120 × 285",
+      "unit": "50개",
+      "unitPrice": "500원",
+      "price": "25,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "떡집 · 행사",
+    "how": "답례품 쇼핑백으로",
+    "desc": "행사 답례품을 담아\n건네기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/bb9949aec041939cc89d250feb1fd251.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/f2473de0fe9e6df7d5b611fb5d2eefd4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457212282251089.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트",
+      "desc": "내추럴한\n크라프트 쇼핑백이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/a94424e906ee7bdb2c6e1456d82b9e3e.jpg"
+    },
+    {
+      "title": "손잡이 쇼핑백",
+      "desc": "손잡이가 있어\n들고 가기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457276232516805.jpg"
+    },
+    {
+      "title": "330×120×285mm",
+      "desc": "답례품 상자를\n넉넉하게 담아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457330077405758.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "크라 쇼핑백(대)",
+      "desc": "330 × 120 × 285 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457276232516805.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457330077405758.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238457394762988398.jpg"
+      ]
+    }
+  ]
+}

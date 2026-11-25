@@ -1,0 +1,55 @@
+{
+  "id": "161",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=161&cate_no=43&display_group=1",
+  "name": "식품용 유산지",
+  "tagline": "음식을 감싸는 흰색 식품용 유산지",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/3ae521b233dcc89a2fb323e8ef47603a.png",
+  "options": [
+    {
+      "label": "식품용 유산지",
+      "size": "350 × 250",
+      "unit": "500장",
+      "unitPrice": "20원",
+      "price": "10,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "빵 · 샌드위치 포장으로",
+    "desc": "상자 안에 깔거나\n음식을 감싸 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/151b137372ca05ae0a93c9fbaef44713.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5111241a5c760b03c5a8459662aa0287.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663143178715535709.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "유산지 28g",
+      "desc": "음식을 감싸기 좋은\n얇은 유산지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/428ae45b79607d62657bf6d1bb4372a0.jpg"
+    },
+    {
+      "title": "식품용",
+      "desc": "식품에 바로 닿아도\n괜찮은 종이예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663143236741734380.jpg"
+    },
+    {
+      "title": "350×250mm",
+      "desc": "샌드위치, 빵을\n감싸기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_1666314329405285945.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "식품용 유산지",
+      "desc": "350 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663143178715535709.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663143236741734380.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_1666314329405285945.jpg"
+      ]
+    }
+  ]
+}

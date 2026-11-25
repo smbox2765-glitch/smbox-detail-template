@@ -1,0 +1,76 @@
+{
+  "id": "181",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=181&cate_no=43&display_group=1",
+  "name": "무지 크라 쇼핑백 (1 · 2 · 3호 · 도시락용)",
+  "tagline": "종이 끈 손잡이가 달린 크라프트 쇼핑백",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/b83b13f435a6f3387fbff214cdb12660.png",
+  "options": [
+    {
+      "label": "1호",
+      "size": "217 × 100 × 257",
+      "unit": "100개",
+      "unitPrice": "270원",
+      "price": "27,000원"
+    },
+    {
+      "label": "2호",
+      "size": "250 × 100 × 257",
+      "unit": "100개",
+      "unitPrice": "290원",
+      "price": "29,000원"
+    },
+    {
+      "label": "3호",
+      "size": "330 × 106 × 297",
+      "unit": "100개",
+      "unitPrice": "300원",
+      "price": "30,000원"
+    },
+    {
+      "label": "도시락용",
+      "size": "265 × 167 × 265",
+      "unit": "100개",
+      "unitPrice": "330원",
+      "price": "33,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 매장",
+    "how": "테이크아웃 · 선물 쇼핑백으로",
+    "desc": "매장에서 넉넉하게 쓰기 좋은\n100개 단위예요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/0b5b66a8374084d0bcf3870e3b1452f0.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a136d2545ace4f27474f160576bcc4ec.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/07/02/5b8c81182f67b08_1625187647806519913.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트 무지",
+      "desc": "어떤 상품에도 어울리는\n무지 크라프트예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/df9738d75b5a481e3250823d6ff49e5a.jpg"
+    },
+    {
+      "title": "종이 끈 손잡이",
+      "desc": "꼬은 종이 끈 손잡이가\n달려 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/c5ae5e6f28d59854d9cb8cab44729ed9.jpg"
+    },
+    {
+      "title": "네 가지 사이즈",
+      "desc": "1·2·3호와 도시락용 중에서\n골라요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/07/02/5b8c81182f67b08_16251876520856736837.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "무지 크라 쇼핑백",
+      "desc": "1호 · 2호 · 3호 · 도시락용",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/07/02/5b8c81182f67b08_1625187657356751723.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/07/02/5b8c81182f67b08_16251876635012874819.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/07/02/5b8c81182f67b08_16251876684786249728.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "300",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=300&cate_no=43&display_group=1",
+  "name": "정성 스티커",
+  "tagline": "정성을 전하는 크라프트 띠 스티커",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/9d7697dc1c597ba6ce9d7a1b5212ab7b.jpg",
+  "options": [
+    {
+      "label": "정성 스티커",
+      "size": "70 × 15",
+      "unit": "80개",
+      "unitPrice": "-",
+      "price": "3,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 떡집",
+    "how": "포장 마감 스티커로",
+    "desc": "답례품 상자에 붙이면\n정성이 더해져요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f32951941224544b36c86242c6f0d18b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ec899c610c31c315749a3e8feab3eee1.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5c351c6e406596d49033f92a8722cda4.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트 스티커",
+      "desc": "내추럴한\n크라프트 스티커예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e71b91d38d2968cd6fee8bc28a6c6d13.jpg"
+    },
+    {
+      "title": "70×15mm",
+      "desc": "상자 위에 붙이기 좋은\n가로형 스티커예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/19/948afca776ec608_17135090897027566903.jpg"
+    },
+    {
+      "title": "80개",
+      "desc": "80개 묶음이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/19/816920017590c62_1713496126689607636.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "정성 스티커",
+      "desc": "70 × 15 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/19/816920017590c62_17134961417643230340.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/19/816920017590c62_17134961527392734060.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2024/04/19/816920017590c62_17134961568158475869.jpg"
+      ]
+    }
+  ]
+}

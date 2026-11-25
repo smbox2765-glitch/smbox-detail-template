@@ -1,0 +1,55 @@
+{
+  "id": "164",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=164&cate_no=43&display_group=1",
+  "name": "15파이 스티커 (마감용)",
+  "tagline": "상자와 봉투를 마감하는 지름 15mm 스티커",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260601/894f8c517cc6ba094e8eb4bf9bad82ba.png",
+  "options": [
+    {
+      "label": "15파이 스티커",
+      "size": "지름 15",
+      "unit": "600개",
+      "unitPrice": "-",
+      "price": "5,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 떡집",
+    "how": "포장 마감 스티커로",
+    "desc": "상자 뚜껑이나 봉투 입구에\n붙여 마감해요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/512f3e7f7a215343ce68f4f38ffcc34e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/53fdebfc30a48b1600e06a89595e9a3f.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/small/20260601/f44485f96ed050f54fee010792159a96.png"
+    ]
+  },
+  "features": [
+    {
+      "title": "마감용 스티커",
+      "desc": "상자, 봉투를\n깔끔하게 마감해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ea8087d51b586566d1457a6f475be990.jpg"
+    },
+    {
+      "title": "지름 15mm",
+      "desc": "작고 동그란\n마감 스티커예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878261394507235937.jpg"
+    },
+    {
+      "title": "600개",
+      "desc": "넉넉하게 쓸 수 있는\n600개 묶음이에요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878261457976605723.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "15파이 스티커",
+      "desc": "지름 15 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878261506706440949.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878261553775596226.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2023/06/27/1aee0ccf25ba797_16878261667258597851.jpg"
+      ]
+    }
+  ]
+}

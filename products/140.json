@@ -1,0 +1,90 @@
+{
+  "id": "140",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=140&cate_no=43&display_group=1",
+  "name": "각대봉투 (소 · 중 · 대)",
+  "tagline": "빵 · 디저트를 담는 크라프트 종이봉투",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/b0cac319a39daa09109abfe77187cf9d.png",
+  "options": [
+    {
+      "label": "소",
+      "size": "120 × 60 × 220",
+      "unit": "100장",
+      "unitPrice": "52원",
+      "price": "5,200원"
+    },
+    {
+      "label": "소",
+      "size": "120 × 60 × 220",
+      "unit": "1000장",
+      "unitPrice": "35원",
+      "price": "35,000원"
+    },
+    {
+      "label": "중",
+      "size": "150 × 90 × 260",
+      "unit": "100장",
+      "unitPrice": "56원",
+      "price": "5,600원"
+    },
+    {
+      "label": "중",
+      "size": "150 × 90 × 260",
+      "unit": "1000장",
+      "unitPrice": "40원",
+      "price": "40,000원"
+    },
+    {
+      "label": "대",
+      "size": "180 × 110 × 350",
+      "unit": "100장",
+      "unitPrice": "63원",
+      "price": "6,300원"
+    },
+    {
+      "label": "대",
+      "size": "180 × 110 × 350",
+      "unit": "1000장",
+      "unitPrice": "46원",
+      "price": "46,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "빵 · 디저트 포장으로",
+    "desc": "100장, 1000장 단위로\n필요한 만큼 골라요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/191af7c09cb935da9c96c0124d779e9e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5470097cf8099423e818a3a37d6bb563.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e07622c3f716e55e749b703edfc576ae.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "크라프트 봉투",
+      "desc": "내추럴한\n크라프트 종이봉투예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/096e48a6f8956fbabe0ea6cf876ecc3a.jpg"
+    },
+    {
+      "title": "바닥이 있는 각대",
+      "desc": "바닥이 각져 있어\n세워 두기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e63bc6cf20b8ffa92635ec1c29d1e8fc.jpg"
+    },
+    {
+      "title": "세 가지 사이즈",
+      "desc": "소 · 중 · 대 중에서\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/18/6fbcbe30355f137_16660551352181668775.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "각대봉투",
+      "desc": "소 · 중 · 대",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/18/6fbcbe30355f137_16660551428785449961.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/18/6fbcbe30355f137_16660551533976779621.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/18/6fbcbe30355f137_16660551616789623304.jpg"
+      ]
+    }
+  ]
+}

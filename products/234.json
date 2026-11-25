@@ -1,0 +1,83 @@
+{
+  "id": "234",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=234&cate_no=43&display_group=1",
+  "name": "OPP 투명 접착봉투 (5가지 사이즈)",
+  "tagline": "디저트를 하나씩 담는 투명 접착봉투",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260604/67e638ec686e6157ee28e6ec8a755263.png",
+  "options": [
+    {
+      "label": "마카롱 · 마들렌",
+      "size": "80 × 90 + 40",
+      "unit": "1000장",
+      "unitPrice": "12원",
+      "price": "12,000원"
+    },
+    {
+      "label": "뚱카롱 · 휘낭시에",
+      "size": "90 × 100 + 40",
+      "unit": "1000장",
+      "unitPrice": "13원",
+      "price": "13,000원"
+    },
+    {
+      "label": "다쿠아즈",
+      "size": "100 × 110 + 40",
+      "unit": "1000장",
+      "unitPrice": "15원",
+      "price": "15,000원"
+    },
+    {
+      "label": "에그타르트",
+      "size": "120 × 160 + 40",
+      "unit": "1000장",
+      "unitPrice": "19.5원",
+      "price": "19,500원"
+    },
+    {
+      "label": "쿠키",
+      "size": "150 × 180 + 40",
+      "unit": "1000장",
+      "unitPrice": "22원",
+      "price": "22,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 디저트 가게",
+    "how": "디저트 낱개 포장으로",
+    "desc": "반품이 어려운 상품이라\n사이즈를 꼭 확인해 주세요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f8a15ea2c26048adb51a38e916a61aa9.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619294377817362.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ee205e1758521c67dc2ce88873c6fbca.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 OPP",
+      "desc": "투명해서 디저트가\n깨끗하게 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/842f9b388e6aee3d1f11334145871c95.jpg"
+    },
+    {
+      "title": "접착식",
+      "desc": "접착 부분을 떼어\n붙이기만 하면 돼요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619491959174434.png"
+    },
+    {
+      "title": "다섯 가지 사이즈",
+      "desc": "디저트 크기에 맞춰\n골라 쓸 수 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404620784381768514.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "OPP 접착봉투",
+      "desc": "가로 × 세로 + 날개 (mm)",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e68f8985bd9eb6bf8a1a6731295574c6.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/65dcb3369e68075cdef0ad947777ec1e.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5ac9ff5286d2d744358dd580dc5fc460.jpg"
+      ]
+    }
+  ]
+}

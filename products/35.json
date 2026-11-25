@@ -1,0 +1,55 @@
+{
+  "id": "35",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=35&cate_no=43&display_group=1",
+  "name": "줄무늬 크라프트 노루지",
+  "tagline": "음식을 감싸는 줄무늬 크라프트 노루지",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/224658bd022236ffe2da29b261f900c1.jpg",
+  "options": [
+    {
+      "label": "줄무늬 크라프트",
+      "size": "350 × 250",
+      "unit": "500장",
+      "unitPrice": "24원",
+      "price": "12,000원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "빵 · 디저트 포장으로",
+    "desc": "상자 안에 깔거나\n음식을 감싸 쓰기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/cea409debbc0f5ffbdf8cfcdbf66d06b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/aad45b710bab8ad04160d8cbd401eda4.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663147803788378324.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "노루지 35g",
+      "desc": "음식을 감싸기 좋은\n얇은 노루지예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/cb91e7c5ecec6dae1062f40cf83e8bdd.jpg"
+    },
+    {
+      "title": "줄무늬 크라프트",
+      "desc": "내추럴한 크라프트에\n줄무늬가 있어요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/be7f80a806424113264737c078537e05.jpg"
+    },
+    {
+      "title": "350×250mm",
+      "desc": "샌드위치, 빵을\n감싸기 좋아요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663147868922614841.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "줄무늬 크라프트",
+      "desc": "350 × 250 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663147868922614841.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_1666314791618621427.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/10/21/95f7a41f03e19ba_16663147969024754967.jpg"
+      ]
+    }
+  ]
+}

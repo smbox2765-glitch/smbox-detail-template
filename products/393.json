@@ -1,0 +1,55 @@
+{
+  "id": "393",
+  "sourceUrl": "https://smbox24.com/product/detail.html?product_no=393&cate_no=43&display_group=1",
+  "name": "케이크 1호용 비닐 쇼핑백",
+  "tagline": "케이크 상자를 담는 투명 손잡이 비닐백",
+  "heroImage": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/big/20260615/1616b1ca0ac02b708d82bdb076fba542.jpg",
+  "options": [
+    {
+      "label": "케이크 1호용",
+      "size": "280 × 250(125) × 365",
+      "unit": "100장",
+      "unitPrice": "155원",
+      "price": "15,500원"
+    }
+  ],
+  "sizeUnit": "mm",
+  "usage": {
+    "place": "카페 · 베이커리",
+    "how": "케이크 상자 포장 쇼핑백으로",
+    "desc": "케이크 상자를 담아 손님께\n바로 건네기 좋아요.",
+    "images": [
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e6b1c68fd0191a36e7a500b9c6b79b2b.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/9ce24bce80b878a88946586d27219b2a.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405281849371229316.jpg"
+    ]
+  },
+  "features": [
+    {
+      "title": "투명 비닐",
+      "desc": "투명해서 담긴 케이크 상자가\n그대로 보여요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e4ecc2a1871b35dc5cfdf583a8efee3e.jpg"
+    },
+    {
+      "title": "손잡이 비닐백",
+      "desc": "손잡이가 있어\n들고 가기 편해요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/a4104c757a09690ab13564f1e1d4415e.jpg"
+    },
+    {
+      "title": "케이크 1호 맞춤",
+      "desc": "1호 케이크 상자가\n쏙 들어가는 크기예요",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/cbcf8e49d6574931417e33579ce0906a.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "케이크 1호용",
+      "desc": "280 × 250(125) × 365 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_1740528193959932788.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405282029346054.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/26/8912ee1b68e25d7_17405282109763776213.jpg"
+      ]
+    }
+  ]
+}
