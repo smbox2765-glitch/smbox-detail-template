@@ -218,7 +218,7 @@ const CSS = `
 .smd-img{display:block;width:100%;height:auto;border-radius:16px;object-fit:cover}
 .smd-ph{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:4/3;border-radius:16px;
   background:repeating-linear-gradient(45deg,#EFE7D8,#EFE7D8 14px,#F4EDE1 14px,#F4EDE1 28px);border:2px dashed #D8CBB4;color:#A3957F;font-size:18px;font-weight:600}
-.smd-hero .smd-ph,.smd-hero .smd-img{aspect-ratio:1/1;border-radius:24px}
+.smd-hero .smd-ph{aspect-ratio:1/1;border-radius:24px}.smd-hero .smd-img{border-radius:24px}
 .smd-table-card{overflow:hidden}
 .smd-table{width:100%;border-collapse:collapse;text-align:center;font-size:19px}
 .smd-table th{background:var(--soft);font-weight:700;font-size:17px;padding:20px 8px;color:var(--ink)}
@@ -231,11 +231,11 @@ const CSS = `
 .smd-gallery{display:flex;flex-direction:column;gap:14px}
 .smd-g-row{display:flex;gap:14px}
 .smd-g-row>*{flex:1;min-width:0}
-.smd-g-main.smd-ph,.smd-g-main.smd-img{aspect-ratio:3/2}
-.smd-g-row .smd-ph,.smd-g-row .smd-img{aspect-ratio:1/1}
+.smd-g-main.smd-ph{aspect-ratio:3/2}
+.smd-g-row .smd-ph{aspect-ratio:1/1}.smd-g-row{align-items:flex-start}
 .smd-feat{display:flex;align-items:center;gap:40px;padding:36px;margin-bottom:24px}
 .smd-feat-img{flex:0 0 46%}
-.smd-feat-img .smd-ph,.smd-feat-img .smd-img{aspect-ratio:1/1}
+.smd-feat-img .smd-ph{aspect-ratio:1/1}
 .smd-contain .smd-img{object-fit:contain;background:#fff}
 .smd-num{font-size:40px;font-weight:700;color:#5E5348;line-height:1;margin-bottom:18px}
 .smd-feat h3{font-size:24px;font-weight:700;margin-bottom:14px}
@@ -280,7 +280,7 @@ const CSS = `
 .smd-ggroup{margin-bottom:44px}
 .smd-gnote{display:table;margin:-12px auto 36px;padding:12px 24px;border-radius:12px;background:var(--soft);color:var(--accent);font-size:18px;font-weight:700;text-align:center}
 .smd-parts{margin-top:14px;padding:16px;display:flex;flex-direction:column;gap:16px}
-.smd-parts-img.smd-ph,.smd-parts-img.smd-img{aspect-ratio:3/2;border-radius:12px}
+.smd-parts-img.smd-ph{aspect-ratio:3/2;border-radius:12px}.smd-parts-img.smd-img{border-radius:12px}
 .smd-parts-txt{display:flex;align-items:center;gap:12px;font-size:18px;font-weight:600;color:var(--ink);padding:0 4px 4px}
 .smd-parts-txt span{flex:none;padding:5px 14px;border-radius:999px;background:var(--accent);color:#fff;font-size:15px;font-weight:700}
 .smd-gtitle{display:flex;align-items:center;gap:12px;font-size:18px;color:var(--sub);margin-bottom:16px}
