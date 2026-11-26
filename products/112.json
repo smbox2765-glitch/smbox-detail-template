@@ -49,7 +49,11 @@
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238496195306334324.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238496329881679118.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2018/04/16/3fc4ab0afad91c3_15238496389048881926.jpg"
-      ]
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250616/0b9f7903013da28f618d9d81a77d9173.jpg",
+        "text": "박스 본체 (펼친 모습)"
+      }
     }
   ]
 }
