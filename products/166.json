@@ -44,8 +44,9 @@
     },
     {
       "title": "PET 포함 · 접시만",
-      "desc": "PET 뚜껑 세트와\n접시만 중에서 골라요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/26/5330d3eeac792df_17429567754944863830.jpg"
+      "desc": "PET 뚜껑 세트와 접시만\n중에서 골라요\nPET까지의 높이는 35mm입니다",
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/03/26/5330d3eeac792df_17429567754944863830.jpg",
+      "contain": true
     }
   ],
   "gallery": [

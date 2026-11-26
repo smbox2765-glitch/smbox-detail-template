@@ -120,7 +120,7 @@ function render(base, fontCss, pc = false) {
   // 5. 제품 특징
   const feats = p.features.map((f, i) => `
       <div class="smd-card smd-feat">
-        <div class="smd-feat-img">${img(f.image, `특징 사진 ${i + 1}`)}</div>
+        <div class="smd-feat-img${f.contain ? ' smd-contain' : ''}">${img(f.image, `특징 사진 ${i + 1}`)}</div>
         <div class="smd-feat-txt">
           <p class="smd-num">${String(i + 1).padStart(2, '0')}</p>
           <h3>${br(f.title)}</h3>
@@ -235,6 +235,7 @@ const CSS = `
 .smd-feat{display:flex;align-items:center;gap:40px;padding:36px;margin-bottom:24px}
 .smd-feat-img{flex:0 0 46%}
 .smd-feat-img .smd-ph,.smd-feat-img .smd-img{aspect-ratio:1/1}
+.smd-contain .smd-img{object-fit:contain;background:#fff}
 .smd-num{font-size:40px;font-weight:700;color:#5E5348;line-height:1;margin-bottom:18px}
 .smd-feat h3{font-size:24px;font-weight:700;margin-bottom:14px}
 .smd-feat p{font-size:18px;color:var(--sub)}
