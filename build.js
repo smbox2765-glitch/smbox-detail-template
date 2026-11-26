@@ -85,7 +85,7 @@ function render(base, fontCss, pc = false) {
   const rows = p.options.map(o => `
         <tr>
           ${p.options.length > 1 ? `<td class="smd-opt"><span>${esc(o.label)}</span></td>` : ''}
-          <td>${o.inner ? `<span class="smd-nw">외경 ${esc(o.size)}</span><small class="smd-inner"><span class="smd-nw">내경 ${esc(o.inner)}</span></small>` : esc(o.size)}</td><td>${esc(o.unit)}</td><td>${esc(o.unitPrice)}</td><td class="smd-price">${esc(o.price)}</td>
+          <td>${o.inner || o.fold ? `<span class="smd-nw">외경 ${esc(o.size)}</span>${o.inner ? `<small class="smd-inner"><span class="smd-nw">내경 ${esc(o.inner)}</span></small>` : ''}${o.fold ? `<small class="smd-inner"><span class="smd-nw">꺾이기 전 높이</span> <span class="smd-nw">${esc(o.fold)}</span></small>` : ''}` : esc(o.size)}</td><td>${esc(o.unit)}</td><td>${esc(o.unitPrice)}</td><td class="smd-price">${esc(o.price)}</td>
         </tr>`).join('');
   sec('spec', `
     <div class="smd-pad">
