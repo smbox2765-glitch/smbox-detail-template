@@ -85,7 +85,7 @@ function render(base, fontCss, pc = false) {
   const rows = p.options.map(o => `
         <tr>
           ${p.options.length > 1 ? `<td class="smd-opt"><span>${esc(o.label)}</span></td>` : ''}
-          <td>${esc(o.size)}</td><td>${esc(o.unit)}</td><td>${esc(o.unitPrice)}</td><td class="smd-price">${esc(o.price)}</td>
+          <td>${o.inner ? `<span class="smd-nw">외경 ${esc(o.size)}</span><small class="smd-inner"><span class="smd-nw">내경 ${esc(o.inner)}</span></small>` : esc(o.size)}</td><td>${esc(o.unit)}</td><td>${esc(o.unitPrice)}</td><td class="smd-price">${esc(o.price)}</td>
         </tr>`).join('');
   sec('spec', `
     <div class="smd-pad">
@@ -226,6 +226,7 @@ const CSS = `
 .smd-table td{padding:22px 8px;border-top:1px solid var(--line)}
 .smd-opt span{display:inline-block;min-width:44px;padding:4px 10px;border-radius:8px;background:var(--ink);color:#fff;font-weight:700;font-size:16px}
 .smd-price{font-weight:800;color:var(--accent)}
+.smd-inner{display:block;margin-top:6px;font-size:15px;color:var(--sub)}
 .smd-note{font-size:15px;color:var(--sub);margin-top:16px}
 .smd-gallery{display:flex;flex-direction:column;gap:14px}
 .smd-g-row{display:flex;gap:14px}
@@ -304,6 +305,7 @@ const CSS = `
 @media (max-width:600px){
   .smd-pad{padding:56px 20px}
   .smd-title{font-size:30px}.smd-tagline{font-size:17px}.smd-h2{font-size:26px}
+  .smd-inner{font-size:13px;margin-top:4px}
   .smd-table{font-size:15px}.smd-table th{font-size:14px;padding:14px 4px}.smd-table td{padding:16px 4px}
   .smd-table-opt{font-size:13px;letter-spacing:-0.02em}.smd-table-opt th{font-size:12px;padding:12px 2px}.smd-table-opt th small{font-size:11px}.smd-table-opt td{padding:14px 2px}
   .smd-table-opt .smd-opt span{min-width:0;padding:3px 6px;font-size:12px;word-break:keep-all}.smd-table-opt .smd-price{white-space:nowrap}
@@ -331,7 +333,7 @@ const PC_CSS = `
   .smd-pc{width:860px;max-width:none;zoom:var(--pcz)}
   .smd-pc .smd-a p,.smd-pc .smd-feat p{font-size:22px}
   .smd-pc .smd-desc{font-size:23px}.smd-pc .smd-tagline{font-size:25px}
-  .smd-pc .smd-table{font-size:23px}.smd-pc .smd-table th{font-size:21px}.smd-pc .smd-table th small{font-size:16px}
+  .smd-pc .smd-table{font-size:23px}.smd-pc .smd-inner{font-size:20px}.smd-pc .smd-table th{font-size:21px}.smd-pc .smd-table th small{font-size:16px}
   .smd-pc .smd-info li{font-size:21px}.smd-pc .smd-info li>span{font-size:17px}.smd-pc .smd-info-lg li{font-size:23px}
   .smd-pc .smd-note{font-size:19px}.smd-pc .smd-sub{font-size:19px !important}.smd-pc .smd-gtitle{font-size:21px}.smd-pc .smd-gnote{font-size:22px}.smd-pc .smd-parts-txt{font-size:22px}.smd-pc .smd-parts-txt span{font-size:18px}
   .smd-pc .smd-eyebrow{font-size:18px}.smd-pc .smd-line-pill{font-size:19px}
