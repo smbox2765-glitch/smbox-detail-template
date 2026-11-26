@@ -114,6 +114,7 @@ function render(base, fontCss, pc = false) {
       <div class="smd-gallery">
         ${img(ui[0], '사용 예시 사진 1', 'smd-g-main')}
         <div class="smd-g-row">${img(ui[1], '사용 예시 사진 2')}${img(ui[2], '사용 예시 사진 3')}</div>
+        ${(() => { const r = ui.slice(3), out = []; for (let i = 0; i < r.length; i += 2) out.push(r.length - i === 1 ? img(r[i], `사용 예시 사진 ${i + 4}`, 'smd-g-main') : `<div class="smd-g-row">${img(r[i], `사용 예시 사진 ${i + 4}`)}${img(r[i + 1], `사용 예시 사진 ${i + 5}`)}</div>`); return out.join(''); })()}
       </div>
     </div>`);
 

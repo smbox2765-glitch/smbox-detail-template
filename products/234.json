@@ -47,16 +47,20 @@
     "how": "디저트 낱개 포장으로",
     "desc": "반품이 어려운 상품이라\n사이즈를 꼭 확인해 주세요.",
     "images": [
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f8a15ea2c26048adb51a38e916a61aa9.jpg",
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619294377817362.png",
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ee205e1758521c67dc2ce88873c6fbca.jpg"
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5ac9ff5286d2d744358dd580dc5fc460.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ee205e1758521c67dc2ce88873c6fbca.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e68f8985bd9eb6bf8a1a6731295574c6.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/65dcb3369e68075cdef0ad947777ec1e.jpg",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619755843352158.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404620679902511721.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619294377817362.png"
     ]
   },
   "features": [
     {
       "title": "투명 OPP",
       "desc": "투명해서 디저트가\n깨끗하게 보여요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/842f9b388e6aee3d1f11334145871c95.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619576058873356.png"
     },
     {
       "title": "접착식",
@@ -71,15 +75,44 @@
   ],
   "gallery": [
     {
-      "title": "OPP 접착봉투",
-      "desc": "가로 × 세로 + 날개 (mm)",
+      "title": "마카롱 · 마들렌",
+      "desc": "80 × 90 + 40 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e68f8985bd9eb6bf8a1a6731295574c6.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/65dcb3369e68075cdef0ad947777ec1e.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5ac9ff5286d2d744358dd580dc5fc460.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f8a15ea2c26048adb51a38e916a61aa9.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ee205e1758521c67dc2ce88873c6fbca.jpg"
+      ]
+    },
+    {
+      "title": "뚱카롱 · 휘낭시에",
+      "desc": "90 × 100 + 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/842f9b388e6aee3d1f11334145871c95.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404619755843352158.png",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/65dcb3369e68075cdef0ad947777ec1e.jpg"
+      ]
+    },
+    {
+      "title": "다쿠아즈",
+      "desc": "100 × 110 + 40 mm",
+      "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/ee74cf0d962c731d61797ad4ffe17720.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e68f8985bd9eb6bf8a1a6731295574c6.jpg"
+      ]
+    },
+    {
+      "title": "에그타르트",
+      "desc": "120 × 160 + 40 mm",
+      "images": [
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e40fdae4ba9eb9c08ca2dfc294358465.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f58fcdbf60efabfc74f092f9bc471702.jpg"
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/5ac9ff5286d2d744358dd580dc5fc460.jpg"
+      ]
+    },
+    {
+      "title": "쿠키",
+      "desc": "150 × 180 + 40 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/f58fcdbf60efabfc74f092f9bc471702.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/25/80d9889f7a99c9a_17404620679902511721.png"
       ]
     }
   ]
