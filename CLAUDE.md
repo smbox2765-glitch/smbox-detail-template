@@ -67,6 +67,7 @@
 - 카페24 스킨은 상세설명 영역을 가운데 정렬하므로 템플릿에 `.smd{text-align:left}`를 넣어 두었습니다. `cafe24-preview.html`도 가운데 정렬 환경에서 미리 봅니다
 - 유튜브 주소는 `watch?v=`, `youtu.be/`, `embed/` 모두 iframe으로 바뀝니다. 상단 영상(introVideo)은 자동재생·반복재생(음소거), 하단 접는 방법 영상은 일반 재생입니다
 - HTML만 다시 만들 때: `HTML_ONLY=1 node build.js products/<번호>.json`
+- `build.js`를 고친 뒤에는 모든 상품의 `cafe24.html`을 다시 만들고, 바뀐 상품을 모두 다시 올립니다 (예전 HTML이 남아 있으면 카페24에는 고치기 전 모습이 그대로 보임)
 
 ## 공통 수정
 - Q&A, 매장·공장 문구: `common.json` (모든 상품에 반영됨)
