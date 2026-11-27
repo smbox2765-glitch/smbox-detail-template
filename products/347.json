@@ -33,41 +33,50 @@
     "how": "디저트 답례품 포장으로",
     "desc": "RIV350g 무광코팅이라\n깔끔하고 귀여워요.",
     "images": [
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/cc11e9f061d421cf3f6504f8aef4128c.jpg",
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238222413596748711.jpg",
-      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238222533686895028.jpg"
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/9bf5e4b49cc727552d3b3ff65227d5e3.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/a71262d2976f96b3e48e21d19f17f91a.png",
+      "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/e8b44b58d930644617a2d16dca229971.png"
     ]
   },
   "features": [
     {
       "title": "손잡이 하우스 모양",
       "desc": "손잡이가 달린\n하우스 모양 상자예요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/db60c31c0a1b281a9dc616d51c6b6737.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/7925ffd98a1ce97648d96ade7ff4a534.png"
     },
     {
       "title": "세 가지 색상",
       "desc": "하늘 · 분홍 · 초코\n중에서 골라요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238223881473893689.jpg"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/small/20260608/743426be6129523bbb12be01ecad1bbb.jpg"
     },
     {
       "title": "148×108×94mm",
       "desc": "쿠키, 떡, 디저트를\n담기 좋은 크기예요",
-      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/9bf5e4b49cc727552d3b3ff65227d5e3.png"
+      "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/50c6b7aedf65b41778113f24b40d2384.png",
+      "contain": true
     }
   ],
   "gallery": [
     {
-      "title": "D-5 하우스",
+      "title": "하늘",
       "desc": "148 × 108 × 94 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238222587694566358.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238223931054621509.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2021/06/16/eb496083fe367d8_16238222413596748711.jpg"
-      ],
-      "parts": {
-        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407063519869253975.png",
-        "text": "박스 1장 (펼친 모습)"
-      }
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/330ff158800ad0efb8520adaaff4a71d.png"
+      ]
+    },
+    {
+      "title": "분홍",
+      "desc": "148 × 108 × 94 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/02/28/82b99bdc24f67c3_17407061590498731319.png"
+      ]
+    },
+    {
+      "title": "초코",
+      "desc": "148 × 108 × 94 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250617/ac9d96a743ba74fd5f71e4bd91e64a7d.png"
+      ]
     }
   ]
 }
