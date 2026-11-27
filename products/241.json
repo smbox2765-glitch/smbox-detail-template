@@ -57,18 +57,42 @@
   ],
   "gallery": [
     {
-      "title": "골프공 PET",
-      "desc": "1구 · 3구 · 4구",
+      "title": "PET 1구",
+      "desc": "43 × 43 × 43 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467559994143594878.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561072492572871.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561152918609585.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467560677191419857.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467560762177381210.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/15e306a61e747ea23b9fe9319b219753.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b6775b17be8a526d65ea3a2969a64fa5.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467560855977240177.jpg"
       ],
       "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_1746756093548342270.jpg",
+        "text": "PET 박스 (펼친 모습)"
+      }
+    },
+    {
+      "title": "PET 3구",
+      "desc": "43 × 43 × 129 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561072492572871.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561152918609585.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561493246649780.jpg"
+      ],
+      "parts": {
         "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561571585683946.jpg",
+        "text": "PET 박스 (펼친 모습)"
+      }
+    },
+    {
+      "title": "PET 4구",
+      "desc": "86 × 43 × 86 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561695312683972.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/b6775b17be8a526d65ea3a2969a64fa5.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561786067285182.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2025/05/09/b883092a62f5571_17467561869177523859.jpg",
         "text": "PET 박스 (펼친 모습)"
       }
     }
