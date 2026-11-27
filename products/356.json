@@ -64,22 +64,58 @@
   ],
   "gallery": [
     {
-      "title": "핸드워시 박스",
-      "desc": "1번 ~ 4번",
+      "title": "1번 (생활공작소)",
+      "desc": "75 × 75 × 155 mm",
       "images": [
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185027402591313.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185274687285453.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185540455539912.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d1c1b1ce06b39866574b5f549242957e.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/c2583295b52498d4e68c53d71a184d8b.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e62cc5a6008fc390eb493cdec625314d.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185138775984469.jpg",
         "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185318321941044.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185610708176144.jpg",
-        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187278692270146.jpg"
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185398546356909.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/29185bf075b97c90af7964b8f7dff9ee.jpg"
       ],
       "parts": {
-        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/10/87024a2042cb3d7_16468787946063314361.jpg",
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185439492808369.jpg",
+        "text": "박스 (펼친 모습)"
+      }
+    },
+    {
+      "title": "2번 (데톨)",
+      "desc": "70 × 70 × 190 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185540455539912.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185610708176144.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466185669116672892.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/3f443c2cda06f7738b6f3a29df3d2a20.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_1646618571813243372.jpg",
+        "text": "박스 (펼친 모습)"
+      }
+    },
+    {
+      "title": "3번 (아이깨끗해)",
+      "desc": "95 × 65 × 160 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_1646618716779480833.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187278692270146.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187328811520551.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/d1c1b1ce06b39866574b5f549242957e.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187386498697211.jpg",
+        "text": "박스 (펼친 모습)"
+      }
+    },
+    {
+      "title": "4번 (젤 타입)",
+      "desc": "85 × 85 × 165 mm",
+      "images": [
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187437534212048.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187507184919934.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187550702216690.jpg",
+        "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/product/extra/big/20250530/e62cc5a6008fc390eb493cdec625314d.jpg"
+      ],
+      "parts": {
+        "image": "https://ecimg.cafe24img.com/pg1503b58838563017/smbox2765/web/data/imagesfile/_quick/2022/03/07/812a1518481ae05_16466187616732619414.jpg",
         "text": "박스 (펼친 모습)"
       }
     }
